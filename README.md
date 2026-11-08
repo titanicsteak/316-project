@@ -1,6 +1,7 @@
 # Data Center Town
 
-**Live site: https://titanicsteak.github.io/316-project/**
+**Live site:** https://titanicsteak.github.io/316-project/
+*(goes live once a repo admin sets Settings → Pages → Source → GitHub Actions; see [Deploy](#deploy))*
 
 CSC316 group project, Milestone 7 (Prototype V1).
 **Team:** Owen Lo, Evan White, Kaiyang Chang, Iftekhar Khaled.
@@ -118,8 +119,12 @@ records every row dropped and why.
 ### Deploy
 
 Pushing to `main` publishes `web/` to GitHub Pages through
-`.github/workflows/pages.yml`. Nothing to set up by hand: the workflow enables
-Pages on its first run using its own token.
+`.github/workflows/pages.yml`.
+
+One-time setup, which a repo **admin** has to do once:
+**Settings → Pages → Source → GitHub Actions**. Until that is set, the deploy
+job fails at `configure-pages` with *Get Pages site failed*. Re-run the
+workflow afterwards and the site goes up at the link at the top of this file.
 
 ---
 

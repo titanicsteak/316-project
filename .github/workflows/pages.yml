@@ -4,8 +4,11 @@
 # into web/vendor/ and the processed CSVs are committed under web/data/. So
 # this workflow just uploads web/ as-is.
 #
-# configure-pages enables Pages on the first run via the workflow token, so
-# there is no manual repo setting to flip.
+# One-time setup, and it has to be done by a repo ADMIN:
+#   Settings -> Pages -> Source -> "GitHub Actions"
+# configure-pages can create the site itself with `enablement: true`, but the
+# workflow token is refused unless it has admin, so that is not a way around
+# the manual step here.
 name: Deploy site to Pages
 
 on:
@@ -46,10 +49,6 @@ jobs:
           done
 
       - uses: actions/configure-pages@v5
-        # Turns Pages on using this workflow's own `pages: write` token, so
-        # nobody has to flip the repo setting by hand first.
-        with:
-          enablement: true
       - uses: actions/upload-pages-artifact@v3
         with:
           path: web
