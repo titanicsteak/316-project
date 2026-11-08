@@ -27,7 +27,7 @@ export function createWasteland(canvas, { townName, onBillboard }) {
   scene.fog = new THREE.Fog(W.fog, 34, 165);
 
   const camera = new THREE.PerspectiveCamera(62, 1, 0.1, 400);
-  camera.position.set(0, 1.7, 46);
+  camera.position.set(0, 1.7, 62);
 
   // --- light: low, orange, long shadows -------------------------------------
   const sun = new THREE.DirectionalLight(0xffd9a0, 2.1);
@@ -167,11 +167,15 @@ export function createWasteland(canvas, { townName, onBillboard }) {
   const sign = makeSignboard(
     `WELCOME TO\n${townName.toUpperCase()}\nDATA CENTER TOWN`,
     14, 7, '#2B2118', W.ink);
-  sign.position.set(0, 5.6, 30);
+  sign.position.set(-13, 5.6, 38);
+  sign.rotation.y = 0.42;
   town.add(sign);
-  const signPost = new THREE.Mesh(new THREE.CylinderGeometry(0.22, 0.22, 5.6), rust);
-  signPost.position.set(0, 2.8, 30.2); signPost.castShadow = true;
-  town.add(signPost);
+  [-3.4, 3.4].forEach((dx) => {
+    const signPost = new THREE.Mesh(new THREE.CylinderGeometry(0.26, 0.26, 5.6), rust);
+    signPost.position.set(-13 + dx * Math.cos(0.42), 2.8, 38 - dx * Math.sin(0.42) - 0.3);
+    signPost.castShadow = true;
+    town.add(signPost);
+  });
 
   // --- the billboard: the thing you came here to read -----------------------
   const billboard = new THREE.Group();
