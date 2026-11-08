@@ -8,3 +8,6 @@ data:
 all: fetch data
 clean-data:
 	rm -rf data/processed
+
+serve:
+	cd web && python3 -m http.server 8316
