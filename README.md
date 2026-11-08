@@ -4,8 +4,9 @@ CSC316 group project, Milestone 7 (Prototype V1).
 **Team:** Owen Lo, Evan White, Kaiyang Chang, Iftekhar Khaled.
 
 Where data centres are being built fastest in the US, and who ends up owning
-the place. Two screens: a present-day briefing, and the same town a hundred
-years later with the briefing still nailed to a billboard.
+the place. A start screen with the first chart on it, then a hundred-year jump
+into the company town that got built, where the second chart hangs on a
+billboard you read and operate in the world.
 
 ## Quick start
 
@@ -37,7 +38,10 @@ coordinates, sized by capacity. The finding: the fastest-growing states are not
 the states taking the most power. Georgia is the only one high on both.
 
 **Viz 2 · "Which companies have the most data centers?"**
-24,174 facilities resolved from 4,079 raw operator spellings. The finding: on
-the raw names Amazon AWS leads; once duplicate spellings merge and acquired
+24,174 facilities resolved from 4,079 raw operator spellings. Painted onto a
+billboard in the wasteland and operated there: hover a bar and the others dim,
+click the buttons on the board to switch between the resolved names and the
+raw ones, or between sorted bars and the original bubble sketch. The finding:
+on the raw names Amazon AWS leads; once duplicate spellings merge and acquired
 brands roll into their parents, Amazon drops to fourth and three colocation
 landlords come out ahead of the cloud brands.

@@ -1,14 +1,15 @@
 /**
  * Screen machine and the jump between them.
  *
- * Two screens, one selection store, one palette. The map is rendered up front;
- * the wasteland and the billboard chart are built lazily the first time the
- * reader crosses over, so screen 1 is not paying for three.js it may never use.
+ * Screen 1 is the start screen: the map, and a button. Screen 2 is the world,
+ * where the second chart is read on a billboard rather than in an overlay.
+ * The chart is built before the world, because the world is named after
+ * whoever wins it and the board needs the SVG to paint.
  */
 
 import { checkContrast } from './palette.js';
 import { renderMap } from './viz/map.js';
-import { renderCompanies, leadingCompany } from './viz/companies.js';
+import { createBoardChart, leadingCompany } from './viz/companies.js';
 import { createWasteland } from './world/wasteland.js';
 
 const el = (id) => document.getElementById(id);
@@ -19,7 +20,6 @@ const screens = {
 };
 
 let world = null;
-let companiesReady = false;
 
 init();
 
@@ -35,38 +35,36 @@ async function init() {
 
   el('btn-leap').addEventListener('click', () => goFuture(leader));
   el('btn-back').addEventListener('click', goPresent);
-  el('btn-goto').addEventListener('click', () => world?.goToBillboard());
-  el('board-close').addEventListener('click', closeBoard);
-  document.addEventListener('keydown', (e) => {
-    if (e.key === 'Escape' && !el('board-overlay').hidden) closeBoard();
-  });
+  el('btn-goto').addEventListener('click', () => world?.goToBoard());
 }
 
-// --- the jump ---------------------------------------------------------------
-
 async function goFuture(leader) {
+  // Build the chart and the world before the warp finishes, so the board is
+  // already painted when the reader arrives.
+  const building = buildWorld(leader);
   await runWarp();
+  await building;
 
   screens.present.classList.remove('is-active');
   screens.future.classList.add('is-active');
-
-  if (!world) {
-    const canvas = el('world');
-    world = createWasteland(canvas, {
-      townName: leader.company,
-      onBillboard: openBoard,
-    });
-    canvas.addEventListener('billboard-proximity', (e) => {
-      el('billboard-prompt').hidden = !e.detail.near;
-    });
-  }
   world.resize();
   world.start();
 }
 
+async function buildWorld(leader) {
+  if (world) return;
+  const chart = await createBoardChart();
+  el('board-source').appendChild(chart.node);
+
+  const canvas = el('world');
+  world = createWasteland(canvas, { townName: leader.company, chart });
+  canvas.addEventListener('billboard-proximity', (e) => {
+    el('billboard-prompt').hidden = !e.detail.near;
+  });
+}
+
 function goPresent() {
   world?.stop();
-  closeBoard();
   screens.future.classList.remove('is-active');
   screens.present.classList.add('is-active');
   window.scrollTo({ top: 0 });
@@ -74,7 +72,7 @@ function goPresent() {
 
 /**
  * The hundred-year transition. A canvas of streaking dust while the year
- * counter runs 2026 -> 2126, then the sky warms into the wasteland palette.
+ * counter runs 2026 -> 2126, and the sky warms into the wasteland palette.
  */
 function runWarp() {
   return new Promise((resolve) => {
@@ -85,11 +83,8 @@ function runWarp() {
 
     const DURATION = 2600;
     const dpr = Math.min(window.devicePixelRatio, 2);
-    function size() {
-      canvas.width = window.innerWidth * dpr;
-      canvas.height = window.innerHeight * dpr;
-    }
-    size();
+    canvas.width = window.innerWidth * dpr;
+    canvas.height = window.innerHeight * dpr;
 
     const streaks = Array.from({ length: 420 }, () => ({
       a: Math.random() * Math.PI * 2,
@@ -106,7 +101,6 @@ function runWarp() {
       const cx = canvas.width / 2;
       const cy = canvas.height / 2;
 
-      // Sky warms from the present-day near-black to the wasteland orange.
       const warm = d3.interpolateRgb('#0E1116', '#C8783C')(d3.easeCubicIn(p));
       ctx.fillStyle = warm;
       ctx.fillRect(0, 0, canvas.width, canvas.height);
@@ -134,23 +128,4 @@ function runWarp() {
     }
     requestAnimationFrame(tick);
   });
-}
-
-// --- the billboard ----------------------------------------------------------
-
-async function openBoard() {
-  const overlay = el('board-overlay');
-  if (!companiesReady) {
-    await renderCompanies(el('companies-root'), { theme: 'waste' });
-    companiesReady = true;
-  }
-  overlay.hidden = false;
-  requestAnimationFrame(() => overlay.classList.add('is-on'));
-  el('board-close').focus();
-}
-
-function closeBoard() {
-  const overlay = el('board-overlay');
-  overlay.classList.remove('is-on');
-  setTimeout(() => { overlay.hidden = true; }, 220);
 }

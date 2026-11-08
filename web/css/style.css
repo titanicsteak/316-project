@@ -418,93 +418,6 @@ output { font-family: var(--mono); color: var(--accent); font-weight: 600; }
 }
 .goto:hover { background: rgba(20,12,6,0.85); }
 
-/* ---------------------------------------------------- billboard overlay */
-
-/* `display: grid` beats the UA stylesheet's `[hidden] { display: none }`, so
-   the closed overlay sat invisible over the whole page and swallowed every
-   click. Both rules below are load-bearing. */
-.overlay[hidden] { display: none; }
-
-.overlay {
-  position: fixed; inset: 0;
-  z-index: 70;
-  display: grid;
-  pointer-events: none;
-  place-items: center;
-  padding: 24px;
-  background: rgba(24,12,4,0.78);
-  backdrop-filter: blur(5px);
-  opacity: 0;
-  transition: opacity 220ms ease;
-}
-.overlay.is-on { opacity: 1; pointer-events: auto; }
-
-.overlay-panel {
-  position: relative;
-  width: min(1000px, 100%);
-  max-height: 92vh;
-  overflow: auto;
-  background: #241A12;
-  border: 1px solid #5E462F;
-  border-radius: 10px;
-  padding: 28px 30px 24px;
-  box-shadow: 0 28px 80px rgba(0,0,0,0.6);
-  color: var(--waste-ink);
-}
-
-.overlay-panel .viz-head h2 { color: var(--waste-ink); }
-.overlay-panel .viz-head .sub { color: #D3BA9C; }
-.overlay-panel .viz-head .sub strong { color: var(--waste-ink); }
-.overlay-panel figcaption { color: #C9B098; }
-.overlay-panel figcaption strong { color: var(--waste-ink); }
-
-.overlay-close {
-  position: absolute; top: 12px; right: 14px;
-  background: transparent;
-  border: 0;
-  color: #C9B098;
-  font-size: 30px;
-  line-height: 1;
-  cursor: pointer;
-  padding: 2px 8px;
-}
-.overlay-close:hover { color: var(--waste-ink); }
-
-.board-stamp, .board-foot {
-  font-family: var(--mono);
-  font-size: 11.5px;
-  letter-spacing: 0.07em;
-  text-transform: uppercase;
-  color: #A98D6D;
-  margin: 0 0 18px;
-}
-.board-foot {
-  text-transform: none;
-  letter-spacing: 0;
-  font-size: 13px;
-  line-height: 1.55;
-  margin: 18px 0 0;
-  border-top: 1px solid #5E462F;
-  padding-top: 14px;
-}
-
-.co-controls { display: flex; gap: 20px; flex-wrap: wrap; margin: 0 0 18px; }
-.co-controls .ctrl { min-width: 210px; margin: 0; }
-.co-controls .seg { border-color: #5E462F; }
-.co-controls .seg button { color: #C9B098; }
-.co-controls .seg button:hover { background: #30241A; color: var(--waste-ink); }
-.co-controls .seg button.is-on { background: #E8A33D; color: #211608; }
-.co-controls .ctrl-label { color: #A98D6D; }
-
-.co-figure { margin: 0; }
-#co-svg {
-  width: 100%; height: auto; display: block;
-  background: #1B130D;
-  border: 1px solid #5E462F;
-  border-radius: 6px;
-}
-#co-svg .bar, #co-svg .bubble { cursor: pointer; }
-
 /* ---------------------------------------------------- responsive */
 
 @media (max-width: 1040px) {
@@ -517,7 +430,6 @@ output { font-family: var(--mono); color: var(--accent); font-weight: 600; }
   .story { font-size: 16px; }
   .hud { flex-wrap: wrap; }
   .hud-keys { display: none; }
-  .overlay-panel { padding: 22px 16px 18px; }
 }
 
 @media (prefers-reduced-motion: reduce) {
@@ -529,17 +441,23 @@ output { font-family: var(--mono); color: var(--accent); font-weight: 600; }
 
 /* ---------------------------------------------------- hook */
 
-.hook { max-width: 56ch; margin: 0 0 40px; }
+.hook { max-width: 60ch; margin: 0 0 34px; }
 
 .hook h1 {
-  margin: 0 0 14px;
-  font-size: clamp(32px, 5.4vw, 56px);
-  line-height: 1.06;
-  letter-spacing: -0.03em;
+  margin: 0 0 10px;
+  font-size: clamp(38px, 6.6vw, 70px);
+  line-height: 1;
+  letter-spacing: -0.035em;
   font-weight: 700;
 }
 
-.hook p { margin: 0; font-size: 17px; line-height: 1.6; color: #C7D1DB; }
+.hook-q {
+  margin: 0;
+  font-family: var(--mono);
+  font-size: clamp(14px, 1.8vw, 18px);
+  letter-spacing: 0.02em;
+  color: var(--accent);
+}
 
 /* ---------------------------------------------------- chapter placeholders */
 
@@ -617,3 +535,21 @@ output { font-family: var(--mono); color: var(--accent); font-weight: 600; }
 
 .placeholder span { font-size: 13.5px; color: #B6C2CE; font-weight: 500; }
 .placeholder small { font-size: 11.5px; color: #78838F; line-height: 1.45; max-width: 34ch; }
+
+
+/* The billboard's chart lives in the DOM so it can be serialised for the
+   texture and still reached by a screen reader. It is never seen directly. */
+.offscreen {
+  position: absolute;
+  width: 1px; height: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+
+/* Screen 1 is a start screen, not a page: it holds the viewport. */
+#screen-present.is-active { min-height: 100vh; }
+
+.story { margin-top: 38px; }
+.story .kicker { margin-bottom: 0; }
+.leap { margin-top: 36px; }

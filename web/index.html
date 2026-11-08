@@ -18,76 +18,20 @@
     <p class="eyebrow">CSC316 · Data centres and the race for land and power</p>
 
     <div class="hook">
-      <h1>AI is starving for power.<br>These are the places feeding it.</h1>
-      <p>
-        Every chatbot reply runs in a building somewhere, on a piece of land, drawing from
-        a local grid. Those buildings are going up right now, and where they go is being
-        decided in county meetings most people never hear about.
-      </p>
+      <h1>Data Center Town</h1>
+      <p class="hook-q">Where in the US are data centres being built the fastest?</p>
     </div>
 
     <div id="map-root" class="viz-root"></div>
 
     <div class="story">
       <p>
-        The pipeline is <strong>235,357 megawatts</strong> of planned capacity against
-        <strong>16,364 megawatts</strong> operating today. That is not a forecast. Those are
-        sites with names, owners and coordinates, already filed.
+        <strong>235,357 megawatts</strong> of planned capacity against
+        <strong>16,364</strong> operating today. Not a forecast: sites with names,
+        owners and coordinates, already filed.
       </p>
-      <p>
-        Growth and scale come apart. Maryland, Oklahoma and Idaho are adding
-        computing-infrastructure businesses faster than anywhere else, but the
-        megawatts are going to Texas and Virginia, which were already the biggest.
-        Georgia is the only state near the top of both lists.
-      </p>
-      <p class="kicker">
-        Somebody will own all of this. Somebody already does.
-      </p>
+      <p class="kicker">Somebody will own all of this. Somebody already does.</p>
     </div>
-
-    <section class="chapters" aria-labelledby="chapters-h">
-      <h2 id="chapters-h">The rest of the story</h2>
-      <p class="chapters-sub">
-        Three more views are designed and not yet built. Each one is a placeholder here,
-        with the question it answers and the data behind it.
-      </p>
-
-      <ol class="chapter-grid">
-        <li class="chapter" data-ch="1">
-          <span class="chapter-tag">Theme 1 · Sketch 3 · not built</span>
-          <h3>How much electricity will data centres use by 2035?</h3>
-          <div class="placeholder" aria-hidden="true">
-            <span>Line chart with a projection band</span>
-            <small>measured solid, projected dashed, country totals as reference rules</small>
-          </div>
-          <p>IEA <em>Energy and AI</em> projections against the historical series, with
-             Canada's and Japan's whole-country consumption drawn as horizontal rules so
-             the number means something without knowing what a terawatt hour is.</p>
-        </li>
-
-        <li class="chapter" data-ch="2">
-          <span class="chapter-tag">Theme 1 · Sketch 18 · not built</span>
-          <h3>Does more generative-AI use mean more data centre electricity?</h3>
-          <div class="placeholder" aria-hidden="true">
-            <span>Scatter, one point per state</span>
-            <small>x: share of adults using generative AI · y: data centre share of state electricity</small>
-          </div>
-          <p>The states with the heaviest AI use against the share of their grid that goes
-             to data centres. A relationship question, so a scatter rather than two bars.</p>
-        </li>
-
-        <li class="chapter" data-ch="3">
-          <span class="chapter-tag">Theme 2 · Sketch 9 · not built</span>
-          <h3>Does living near a data centre change what people think of them?</h3>
-          <div class="placeholder" aria-hidden="true">
-            <span>Diverging stacked bar</span>
-            <small>opposed / neutral / in favour, split by distance to the nearest site</small>
-          </div>
-          <p>Pew's 2026 survey, grouped by proximity. Diverging from the neutral midpoint,
-             because the question is which way opinion leans, not how much of it there is.</p>
-        </li>
-      </ol>
-    </section>
 
     <div class="leap">
       <button id="btn-leap" class="leap-btn">
@@ -122,24 +66,16 @@
   </div>
 
   <div class="prompt" id="billboard-prompt" hidden>
-    Click the billboard to read it
+    The board is live. Hover it, click the buttons on it.
   </div>
 
-  <button id="btn-goto" class="goto">Take me to the billboard</button>
+  <button id="btn-goto" class="goto">Stand in front of the board</button>
+
+  <!-- The billboard's chart lives here and is painted onto the board in the
+       world. Kept in the DOM, off-screen, so it stays reachable to a screen
+       reader and so the SVG can be serialised for the texture. -->
+  <div id="board-source" class="offscreen"></div>
 </section>
-
-<!-- ======================= BILLBOARD OVERLAY ======================= -->
-<div id="board-overlay" class="overlay" hidden>
-  <div class="overlay-panel" role="dialog" aria-modal="true" aria-labelledby="co-title">
-    <button id="board-close" class="overlay-close" aria-label="Close">&times;</button>
-    <p class="board-stamp">Data Center Town · Municipal Board of Records · posted 2126</p>
-    <div id="companies-root" class="viz-root"></div>
-    <p class="board-foot">
-      These are the numbers from a hundred years ago, when the town was still being built.
-      Nobody has updated the board since.
-    </p>
-  </div>
-</div>
 
 <noscript>
   <p style="padding:2rem;color:#E6EDF3;background:#0E1116">
