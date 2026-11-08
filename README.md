@@ -118,8 +118,8 @@ records every row dropped and why.
 ### Deploy
 
 Pushing to `main` publishes `web/` to GitHub Pages through
-`.github/workflows/pages.yml`. One-time repo setup:
-**Settings → Pages → Source → GitHub Actions**.
+`.github/workflows/pages.yml`. Nothing to set up by hand: the workflow enables
+Pages on its first run using its own token.
 
 ---
 
