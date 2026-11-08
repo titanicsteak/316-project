@@ -1,0 +1,52 @@
+# Publish web/ to GitHub Pages.
+#
+# The site is static with no build step: d3, topojson and three are vendored
+# into web/vendor/ and the processed CSVs are committed under web/data/. So
+# this workflow just uploads web/ as-is.
+#
+# One-time setup in the repo: Settings -> Pages -> Source -> "GitHub Actions".
+name: Deploy site to Pages
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'web/**'
+      - '.github/workflows/pages.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Let a running deploy finish rather than cancelling it mid-publish.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fail if the processed data is missing
+        # The charts fetch these at run time. A deploy without them looks fine
+        # in CI and is a blank page in the browser, so check here instead.
+        run: |
+          for f in us_state_growth.csv us_pipeline_sites.csv \
+                   companies_top25.csv companies_merge_audit.csv \
+                   us_growth_meta.json us-states-10m.json; do
+            test -s "web/data/$f" || { echo "missing web/data/$f"; exit 1; }
+          done
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: web
+      - id: deployment
+        uses: actions/deploy-pages@v4
