@@ -65,7 +65,7 @@ listing the ranking in order, so the chart is still reachable without WebGL.
 
 | file | what it does |
 |---|---|
-| `js/main.js` | screen machine, the hundred-year transition, billboard overlay |
+| `js/main.js` | screen machine and the hundred-year transition |
 | `js/store.js` | the one selection state every view derives from |
 | `js/palette.js` | colour tokens and a WCAG contrast self-check, logged on boot |
 | `js/viz/map.js` | Viz 1 |
