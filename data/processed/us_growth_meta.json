@@ -1,0 +1,16 @@
+{
+  "growth_window": "Q1 2022 to Q1 2025",
+  "naics_note": "NAICS 518 redefined in the 2022 revision; window starts 2022",
+  "national_estab_growth_pct": 26.7,
+  "national_estabs": {
+    "2021": 34103,
+    "2022": 43389,
+    "2023": 51297,
+    "2024": 54351,
+    "2025": 54959
+  },
+  "states": 52,
+  "pipeline_sites": 1376,
+  "total_planned_mw": 235356.5,
+  "total_operating_mw": 16363.5
+}

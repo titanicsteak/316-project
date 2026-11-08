@@ -1,0 +1,4000 @@
+company,facilities,countries,us_facilities,share_of_directory_pct,rank
+Digital Realty,759,22,212,3.15,1
+Equinix,711,31,132,2.95,2
+Lumen,674,16,150,2.8,3
+Amazon AWS,603,12,19,2.5,4
+Zenlayer,392,25,14,1.63,5
+China Telecom,326,1,0,1.35,6
+Microsoft,284,13,19,1.18,7
+Cogent Communications,279,8,47,1.16,8
+CyrusOne,225,6,50,0.93,9
+CenterServ,203,18,0,0.84,10
+NTT,189,22,6,0.79,11
+DataBank,174,2,18,0.72,12
+Google,166,14,16,0.69,13
+STACK Infrastructure,165,1,0,0.69,14
+EdgeConneX,154,6,47,0.64,15
+Csquare,150,1,0,0.62,16
+Vantage Data Centers,150,3,11,0.62,17
+TierPoint,144,2,44,0.6,18
+Sungard,142,11,62,0.59,19
+Flexential,139,3,62,0.58,20
+Cologix,119,3,16,0.49,21
+Meta,118,7,14,0.49,22
+QTS,118,1,0,0.49,23
+365 Data Centers,116,2,17,0.48,24
+Telehouse,116,15,5,0.48,25
+XO Communications,106,2,79,0.44,26
+Interoute,96,14,0,0.4,27
+Iron Mountain,94,5,11,0.39,28
+CoreSite,91,2,34,0.38,29
+Zayo Group,90,9,40,0.37,30
+Centersquare,88,8,48,0.37,31
+TATA Communications,83,14,4,0.34,32
+IPTP Networks,82,0,0,0.34,33
+UltraEdge,81,0,0,0.34,34
+euNetworks,79,6,0,0.33,35
+MTN,77,20,0,0.32,36
+Colocation America,77,2,25,0.32,37
+Verizon,76,20,4,0.32,38
+OVH,75,10,2,0.31,39
+MOD Mission Critical,75,0,0,0.31,40
+Telia Carrier,70,13,2,0.29,41
+21Vianet Group,70,1,0,0.29,42
+EXA Infrastructure,68,1,0,0.28,43
+GDS Ltd,66,0,0,0.27,44
+Aligned Data Centers,66,1,0,0.27,45
+Stream Data Centers,64,2,18,0.27,46
+Windstream,62,1,0,0.26,47
+CloudHQ,60,1,0,0.25,48
+T-Systems International GmbH,60,11,0,0.25,49
+Brookfield Infrastructure Partners LP,59,9,24,0.25,50
+H5 Data Centers,53,1,0,0.22,51
+INAP (Internap Corporation),52,10,30,0.22,52
+KIO Networks,51,5,0,0.21,53
+Colt,50,15,0,0.21,54
+T5 Data Centers,50,2,18,0.21,55
+Oracle,49,4,2,0.2,56
+IBM Cloud,49,0,0,0.2,57
+Crown Castle,49,2,17,0.2,58
+Hivelocity,49,2,2,0.2,59
+Alticom,48,1,0,0.2,60
+Carter Validus Mission Critical REIT,48,2,26,0.2,61
+Prime Data Centers,48,2,1,0.2,62
+ST Telemedia GDC,47,3,0,0.2,63
+Kyndryl,47,0,0,0.2,64
+Compass Datacenters,44,2,6,0.18,65
+ACE (African Coast to Europe),44,22,0,0.18,66
+STTelemedia Global Data Centres,43,0,0,0.18,67
+Prologis,42,1,0,0.17,68
+FirstLight,42,2,14,0.17,69
+CBRE,42,5,25,0.17,70
+Gotspace Data Partners,40,1,0,0.17,71
+Continent 8 Technologies,40,13,6,0.17,72
+OneSource Cloud Corporation,40,0,0,0.17,73
+Acclivis Technologies and Solutions Pte Ltd,40,10,0,0.17,74
+Crusoe Cloud,40,1,0,0.17,75
+IBM,40,14,1,0.17,76
+PowerHouse Data Centers,39,1,0,0.16,77
+Pulsant,38,2,0,0.16,78
+NTT DATA,38,1,0,0.16,79
+CBTS,37,2,22,0.15,80
+Hewlett Packard (HP),36,9,18,0.15,81
+Expedient,35,2,20,0.15,82
+Innova Solutions,35,0,0,0.15,83
+Neutrona,34,10,0,0.14,84
+Orange,34,10,0,0.14,85
+Global Switch,34,8,0,0.14,86
+Retelit,33,1,0,0.14,87
+Orange Business,32,0,0,0.13,88
+SoftLayer Technologies (IBM Cloud),32,11,8,0.13,89
+ColoCrossing,32,2,9,0.13,90
+Switch,32,4,14,0.13,91
+COPT Defense Properties,32,1,0,0.13,92
+Quality Technology Services (QTS),32,2,25,0.13,93
+nLighten,31,0,0,0.13,94
+Apple,30,4,12,0.12,95
+AAPT,30,1,0,0.12,96
+Virtus Data Centres,30,2,0,0.12,97
+Colt Technologies,30,0,0,0.12,98
+Vultr,30,0,0,0.12,99
+WACS (West Africa Cable System),30,14,0,0.12,100
+Skybox Datacenters,29,2,2,0.12,101
+3data,29,0,0,0.12,102
+Colo-X,29,0,0,0.12,103
+Telia Company,29,1,0,0.12,104
+HorizonIQ,29,0,0,0.12,105
+vXchnge,28,2,17,0.12,106
+Internet Solutions (IS),28,6,0,0.12,107
+GTS Telecom SRL,28,5,0,0.12,108
+LeaseWeb,28,1,0,0.12,109
+Dimension Data,28,10,6,0.12,110
+Mapletree Redwood Data Centre Trust (MRDCT),28,2,14,0.12,111
+Keppel Data Centres Germany Holding GmbH,28,7,0,0.12,112
+EdgeCore,27,1,0,0.11,113
+LightEdge,27,1,0,0.11,114
+Sabey Data Center Properties,27,1,0,0.11,115
+Rackspace,26,4,2,0.11,116
+Unclaimed,26,10,4,0.11,117
+Enzu,26,0,0,0.11,118
+Acronis,26,11,3,0.11,119
+Etix Everywhere,26,3,0,0.11,120
+Vocus Communications,26,2,0,0.11,121
+Sabey Data Centers,25,2,10,0.1,122
+Serverfarm,25,1,0,0.1,123
+Hillwood Development Company,25,1,0,0.1,124
+iomart,24,1,0,0.1,125
+Digital Ocean,24,7,10,0.1,126
+KPN International,24,3,0,0.1,127
+Data Foundry,24,2,9,0.1,128
+Windstream Services,24,2,14,0.1,129
+Reliance Communications,24,3,0,0.1,130
+Telstra International,24,6,8,0.1,131
+SAT-3,24,11,0,0.1,132
+BT Global Services,24,7,0,0.1,133
+Edgeuno,23,0,0,0.1,134
+OVHCloud,23,0,0,0.1,135
+Urbacon Data Centre Solutions,23,2,0,0.1,136
+Lincoln Rackhouse,23,2,8,0.1,137
+Cellnext,23,0,0,0.1,138
+GlobalConnect,23,0,0,0.1,139
+LDCOM,22,1,0,0.09,140
+ColoSpace,22,1,22,0.09,141
+NextDC,22,1,0,0.09,142
+e-shelter services GmbH,22,4,0,0.09,143
+VADS,22,1,0,0.09,144
+GDS Services,22,1,0,0.09,145
+Nusantara Data Center (Moratelindo),22,1,0,0.09,146
+AtlasEdge Data Centers,22,0,0,0.09,147
+Telstra,22,0,0,0.09,148
+Hibernia Atlantic,22,5,2,0.09,149
+NorthC,22,0,0,0.09,150
+Evocative,21,2,3,0.09,151
+eStruxture,21,1,0,0.09,152
+Ark Data Centres (UK),21,0,0,0.09,153
+Claro,21,0,0,0.09,154
+center3,21,0,0,0.09,155
+Netrality,21,2,7,0.09,156
+Spark Digital,21,1,0,0.09,157
+H5 Data Center,20,2,11,0.08,158
+Metronode,20,1,0,0.08,159
+ASPHostPortal.com Web Services,20,11,0,0.08,160
+Datacom,20,2,0,0.08,161
+Keppel Data Centres,20,0,0,0.08,162
+Tract,20,1,0,0.08,163
+Princeton Digital Group (PDG),19,0,0,0.08,164
+CapitaLand,19,1,0,0.08,165
+Teraco Data Environments,19,1,0,0.08,166
+Byrd Farms,19,1,0,0.08,167
+Digital Edge DC,19,0,0,0.08,168
+Claranet,19,4,0,0.08,169
+AT&T,19,1,0,0.08,170
+RNP,18,1,0,0.07,171
+Getronics,18,1,0,0.07,172
+Global Cloud Xchange (GCX),18,1,0,0.07,173
+Data Canopy,18,1,0,0.07,174
+Renfe,18,1,0,0.07,175
+OneNeck,18,1,18,0.07,176
+Aruba.it,18,3,0,0.07,177
+NorthC Datacenters,18,3,0,0.07,178
+Western Hospitality Partners,18,1,0,0.07,179
+Evocative Data Centers,18,1,0,0.07,180
+Edged,17,0,0,0.07,181
+ColoHouse,17,3,8,0.07,182
+Retelit S.p.A.,17,0,0,0.07,183
+Rostelecom,17,1,0,0.07,184
+CROWN CASTLE,17,1,0,0.07,185
+Peterson Companies,17,1,0,0.07,186
+Flõ Networks,17,0,0,0.07,187
+VNET Group,17,0,0,0.07,188
+Bitfarms,17,1,0,0.07,189
+FDCservers.net,17,2,2,0.07,190
+NEXTDC,17,0,0,0.07,191
+China Mobile,17,4,0,0.07,192
+Menlo Digital,17,1,0,0.07,193
+US Signal,17,0,0,0.07,194
+Tiscali,16,1,0,0.07,195
+GLO-1 (Globacom-1),16,9,0,0.07,196
+Atlantic Metro Communications,16,1,8,0.07,197
+ServerFarm,16,5,9,0.07,198
+Fujitsu Global,16,4,2,0.07,199
+Ascenty Data Centers,16,1,0,0.07,200
+Latisys,16,2,14,0.07,201
+Terremark,16,6,6,0.07,202
+iTel Networks,16,0,0,0.07,203
+DataHOUSE,16,0,0,0.07,204
+Nxtra Data,16,1,0,0.07,205
+CentriLogic,16,3,10,0.07,206
+Etihad Etisalat (Mobily),16,1,0,0.07,207
+DartPoints,16,2,2,0.07,208
+CITIC Telecom International CPC,16,5,0,0.07,209
+VPSserver,16,0,0,0.07,210
+Summit,16,0,0,0.07,211
+Neuf Cegetel,16,1,0,0.07,212
+SAP,16,7,0,0.07,213
+Digital Fortress,16,2,2,0.07,214
+IDC Chunghwa Telecom,15,0,0,0.06,215
+Edged Energy,15,1,0,0.06,216
+iAdvantage,15,1,0,0.06,217
+DigiCo Infrastructure REIT,15,1,0,0.06,218
+Itenos,15,1,0,0.06,219
+KT Cloud Data Centers,15,0,0,0.06,220
+CDC Data Centres,15,0,0,0.06,221
+Pioneer Development,15,1,0,0.06,222
+Swisscom (Switzerland),14,1,0,0.06,223
+Bahnhof AB,14,2,0,0.06,224
+Ascenty,14,0,0,0.06,225
+Immedion,14,2,11,0.06,226
+Tele2,14,1,0,0.06,227
+Involta,14,1,14,0.06,228
+11:11 Systems,14,1,0,0.06,229
+Alpheus Communications,14,2,12,0.06,230
+Sify,14,1,0,0.06,231
+VTX1 Companies,14,2,7,0.06,232
+Cogeco Peer 1,14,3,6,0.06,233
+Net2EZ,14,2,13,0.06,234
+NetMagic Solutions Pvt Ltd,14,1,0,0.06,235
+SFR,14,1,0,0.06,236
+Nordavind,14,1,0,0.06,237
+Net4,14,1,0,0.06,238
+Alibaba Group,14,4,2,0.06,239
+Vodafone Group Plc,14,6,0,0.06,240
+Kpn International,14,0,0,0.06,241
+Provident Data Centers,14,1,0,0.06,242
+Oath,14,4,8,0.06,243
+Eurofiber Cloud Infra,14,0,0,0.06,244
+MDC Data Centers,14,1,0,0.06,245
+RagingWire,14,2,9,0.06,246
+Rogers Communications,14,1,0,0.06,247
+Online Tech,14,2,9,0.06,248
+Latitude.sh,14,0,0,0.06,249
+Bridge Data Centres,14,2,0,0.06,250
+CtrlS Datacenters LTD,14,0,0,0.06,251
+Switch Datacenters,13,1,0,0.05,252
+Synoptek,13,1,0,0.05,253
+1547 Critical Systems Realty,13,1,0,0.05,254
+Firstlight Fiber,13,0,0,0.05,255
+Soluna,13,0,0,0.05,256
+Liquid Web,13,2,4,0.05,257
+The BlackChamber Group,13,1,0,0.05,258
+Cirion Technologies,13,0,0,0.05,259
+Rowan Digital Infrastructure,13,1,0,0.05,260
+Noovle,12,0,0,0.05,261
+PIPE Networks,12,1,0,0.05,262
+Ricoh India,12,1,0,0.05,263
+"Slovak Telekom, a.s.",12,1,0,0.05,264
+fifteenfortyseven Critical Systems Realty (1547),12,3,5,0.05,265
+Airtrunk,12,0,0,0.05,266
+DigiPlex AS,12,3,0,0.05,267
+CleanSpark,12,1,0,0.05,268
+Zenium Technology Partners Limited,12,3,0,0.05,269
+Mobile Telesystems (MTS),12,1,0,0.05,270
+redIT,12,2,4,0.05,271
+CSF Group,12,2,0,0.05,272
+M247 Global,12,0,0,0.05,273
+Ar Telecom,12,1,0,0.05,274
+Proximus,12,1,0,0.05,275
+Millicom (Tigo),12,5,0,0.05,276
+Aptum Technologies,12,0,0,0.05,277
+CalEthos,12,1,0,0.05,278
+Atos,12,3,0,0.05,279
+STOKAB,12,1,0,0.05,280
+Atlantic.Net,12,5,5,0.05,281
+NLDC,12,1,0,0.05,282
+IP Only,12,2,0,0.05,283
+Sentrum,12,1,0,0.05,284
+Selectel,12,1,0,0.05,285
+Lattelecom,12,1,0,0.05,286
+Khazna,12,0,0,0.05,287
+Chirisa,12,1,0,0.05,288
+Dell,12,5,4,0.05,289
+Dataplace,12,2,0,0.05,290
+Q9,12,1,0,0.05,291
+Bell,12,1,0,0.05,292
+Telefonica,12,5,3,0.05,293
+chorus nz,12,0,0,0.05,294
+ByteGrid,12,2,6,0.05,295
+ARTERIA Networks Corporation,12,1,0,0.05,296
+Cloverleaf Infrastructure,12,1,0,0.05,297
+Fujitsu Australia Limited,12,2,0,0.05,298
+Green House Data,12,2,6,0.05,299
+Citynet,12,2,6,0.05,300
+Claranet Ltd,12,0,0,0.05,301
+Xand,12,1,12,0.05,302
+FirstBlock,11,0,0,0.05,303
+UnitedLayer,11,3,4,0.05,304
+MedOne,11,0,0,0.05,305
+Singtel,11,0,0,0.05,306
+China Unicom,11,0,0,0.05,307
+NaviSite,11,1,0,0.05,308
+Epsilon Telecommunications,11,5,1,0.05,309
+Project Turbo,11,1,0,0.05,310
+Consolidated Communications Holdings,11,0,0,0.05,311
+BDx Data Centers,11,0,0,0.05,312
+Scala Data Centers,11,0,0,0.05,313
+Datacenter United,11,0,0,0.05,314
+Hostway,11,2,4,0.05,315
+Expedient Data Centers,11,1,0,0.05,316
+Centrilogic,11,1,0,0.05,317
+Euclyde Data Centers,11,1,0,0.05,318
+Sparkle,10,3,0,0.04,319
+T Mobile,10,0,0,0.04,320
+Syptec,10,2,8,0.04,321
+National Informatics Centre (NIC) India,10,1,0,0.04,322
+Penta Infra,10,0,0,0.04,323
+Spark Nz,10,0,0,0.04,324
+Verizon Communications,10,1,0,0.04,325
+Nxtra by Airtel,10,0,0,0.04,326
+inexio GmbH,10,1,0,0.04,327
+AiNET,10,2,3,0.04,328
+Romtelecom Carrier Services,10,1,0,0.04,329
+Brightspeed,10,1,0,0.04,330
+SEACOM,10,4,0,0.04,331
+InterDC,10,2,0,0.04,332
+BIT,10,2,0,0.04,333
+DataPro,10,1,0,0.04,334
+Nebius,10,1,0,0.04,335
+Criteo,10,4,0,0.04,336
+LoadSpring Solutions,10,4,4,0.04,337
+DCI Data Centers,10,0,0,0.04,338
+Canberra Datacentres (CDC),10,1,0,0.04,339
+MainOne,10,3,0,0.04,340
+Volico Data Center,10,1,0,0.04,341
+ScaleMatrix,10,2,2,0.04,342
+Schneider Electric,10,2,0,0.04,343
+Hurricane Electric,10,2,6,0.04,344
+Ascent,10,3,5,0.04,345
+QuadraNet,10,1,2,0.04,346
+IP-Only Telecommunication AB,10,1,0,0.04,347
+Psychz Networks,10,2,2,0.04,348
+Bolingbroke Technology Center,10,1,0,0.04,349
+TeraGo Networks,10,1,0,0.04,350
+Atlas Development,10,1,0,0.04,351
+EBRC (European Business Reliance Centre),10,1,0,0.04,352
+3S Data Center,10,1,0,0.04,353
+DBT DATA,10,1,10,0.04,354
+Infinity SDC Limited,10,2,0,0.04,355
+FiberMedia,10,1,10,0.04,356
+Fujitsu,10,0,0,0.04,357
+HostDime,9,0,0,0.04,358
+Navisite,9,1,8,0.04,359
+Fifteenfortyseven critical systems realty,9,0,0,0.04,360
+Consolidated Communications,9,1,0,0.04,361
+MetaEdge,9,0,0,0.04,362
+Telxius,9,1,0,0.04,363
+teraswitch,9,0,0,0.04,364
+Switch Data Centers,9,0,0,0.04,365
+NextStream,9,0,0,0.04,366
+DC BLOX,9,1,0,0.04,367
+TeraWulf,9,1,0,0.04,368
+Lunavi,9,1,0,0.04,369
+Otava,9,0,0,0.04,370
+SFR SA,9,0,0,0.04,371
+SIfy Technologies Limited,9,0,0,0.04,372
+Qu Data Centres,9,0,0,0.04,373
+Hostirian,9,2,6,0.04,374
+"Efly Cloud Computing Co., Ltd.,",9,0,0,0.04,375
+Ark Data Centers,9,1,0,0.04,376
+Ark data centers (Iowa),9,0,0,0.04,377
+ESDS Software Solution Pvt.,9,1,0,0.04,378
+Solnet,9,0,0,0.04,379
+US Signal Company,9,1,0,0.04,380
+Data4,9,0,0,0.04,381
+TulsaConnect,9,1,6,0.04,382
+Ensono,9,3,6,0.04,383
+VAZATA,9,2,3,0.04,384
+EvoSwitch,9,1,0,0.04,385
+AT TOKYO,9,0,0,0.04,386
+TDF,9,1,0,0.04,387
+AVAIO Digital Partners,9,3,0,0.04,388
+myLoc a WIIT Company,9,0,0,0.04,389
+Internet Solutions,9,0,0,0.04,390
+Reliance Data Center,9,0,0,0.04,391
+NTT DOCOMO BUSSINESS,9,0,0,0.04,392
+telecom italia sparkle,8,0,0,0.03,393
+Versatel AG,8,2,0,0.03,394
+Neterra,8,1,0,0.03,395
+CoSentry,8,1,8,0.03,396
+NGenX,8,1,8,0.03,397
+Viasat,8,2,0,0.03,398
+Telin (Telkom Indonesia),8,2,0,0.03,399
+3U Telecom,8,1,0,0.03,400
+Gen-i,8,2,2,0.03,401
+GVT,8,1,0,0.03,402
+Host-it,8,2,0,0.03,403
+Noris Network AG,8,1,0,0.03,404
+NxtVN,8,4,3,0.03,405
+PAIX Data Centres,8,6,0,0.03,406
+CommCorp,8,1,0,0.03,407
+CoreLink,8,1,8,0.03,408
+Cegeka,8,2,0,0.03,409
+Ooredoo Global Services (OGS),8,3,0,0.03,410
+Selectel ltd,8,0,0,0.03,411
+KINX,8,1,0,0.03,412
+KDC,8,1,0,0.03,413
+Barclays,8,4,0,0.03,414
+Business Connexion (BCX),8,1,0,0.03,415
+US SIGNAL,8,1,8,0.03,416
+DaSTOR,8,1,0,0.03,417
+PointOne,8,1,0,0.03,418
+CDS Global,8,0,0,0.03,419
+"C7 Data Centers, Cloud and IT Services",8,1,8,0.03,420
+Tennet,8,1,0,0.03,421
+Telekom Malaysia,8,1,0,0.03,422
+Bell Canada,8,0,0,0.03,423
+Basis Bay,8,1,0,0.03,424
+Intervolve,8,1,0,0.03,425
+Interactive,8,1,0,0.03,426
+Telkomsigm,8,1,0,0.03,427
+Grupo Aire,8,0,0,0.03,428
+Fermi America,8,1,0,0.03,429
+Safaricom,8,1,0,0.03,430
+Sarenet,8,0,0,0.03,431
+Pivot Data Centres,8,1,0,0.03,432
+LCL NV,8,1,0,0.03,433
+LG CNS,8,1,0,0.03,434
+Hosting,8,2,7,0.03,435
+Element Critical,8,1,0,0.03,436
+MDS Technologies,8,1,0,0.03,437
+MTF Data,8,1,0,0.03,438
+OneAsia,8,2,0,0.03,439
+RadiusDC,8,1,0,0.03,440
+Nexcess,8,3,4,0.03,441
+BICS SA/NV,8,2,0,0.03,442
+Savion Renewable Energy,8,1,0,0.03,443
+Scaleway,8,0,0,0.03,444
+ScaleUp,8,0,0,0.03,445
+Saudi Telecom Company (STC),8,1,0,0.03,446
+American Internet Services (AIS),8,1,8,0.03,447
+Sentinel,8,2,4,0.03,448
+Vaultica,8,0,0,0.03,449
+Plan B Limited,8,1,0,0.03,450
+Linxdatacenter,8,2,0,0.03,451
+Limestone Networks,8,0,0,0.03,452
+DC Blox,8,2,4,0.03,453
+LuxConnect,8,1,0,0.03,454
+Lumos Networks,8,0,0,0.03,455
+Expert Colocation,8,1,8,0.03,456
+IRIDEOS S.p.A.,8,0,0,0.03,457
+ITandTEL,8,1,0,0.03,458
+Duos Edge AI,8,1,0,0.03,459
+InetServices,8,2,6,0.03,460
+Edge Centres,8,1,0,0.03,461
+Hostrunway,8,1,0,0.03,462
+IPXON Networks,8,1,0,0.03,463
+BT Services (British Telecom),8,1,0,0.03,464
+Netrality Data Centers,8,0,0,0.03,465
+Virgin Media,8,0,0,0.03,466
+Green Datacenter AG,8,1,0,0.03,467
+Venyu,8,1,8,0.03,468
+T Systems,8,0,0,0.03,469
+Global Connect,8,2,0,0.03,470
+AIMS,8,2,0,0.03,471
+TI Sparkle,8,0,0,0.03,472
+iConnect Montana,8,1,8,0.03,473
+Critical Data House,8,1,0,0.03,474
+WiredRe,8,1,8,0.03,475
+iliad Datacenter,8,1,0,0.03,476
+Multinet,8,1,0,0.03,477
+Computer Concepts Limited (CCL),8,1,0,0.03,478
+GleSYS,7,1,0,0.03,479
+Raxio Group,7,7,0,0.03,480
+Rackspace Hosting,7,1,0,0.03,481
+Archer Datacenters,7,1,0,0.03,482
+Northland Communications,7,1,0,0.03,483
+IP Pathways,7,2,2,0.03,484
+Hscale,7,0,0,0.03,485
+ODATA,7,0,0,0.03,486
+Voxility,7,0,0,0.03,487
+eASPNet Taiwan,7,1,0,0.03,488
+Beacon AI Centers,7,0,0,0.03,489
+Tecto,7,0,0,0.03,490
+DCI Indonesia,7,0,0,0.03,491
+Segra,7,1,2,0.03,492
+3s Poland,7,0,0,0.03,493
+MTI / GLH (MTI Technology Limited / GLH),7,0,0,0.03,494
+CyberNest,7,0,0,0.03,495
+SCSK.,7,0,0,0.03,496
+SBA Edge,7,1,0,0.03,497
+Eletronet,7,1,0,0.03,498
+Ada Infrastructure,7,0,0,0.03,499
+SoftBank Group,7,0,0,0.03,500
+FIBERTOWN,7,2,3,0.03,501
+Colovore,7,2,2,0.03,502
+Southern Telecom,7,1,0,0.03,503
+Comarch ICT,7,0,0,0.03,504
+LOGIX FIBER NETWORKS,7,1,0,0.03,505
+Connect Data Centers by Oppidan,7,1,0,0.03,506
+Planetel Nordest,7,0,0,0.03,507
+S-NET Sp. z o.o.,7,0,0,0.03,508
+Vaultas,7,2,6,0.03,509
+TIVIT,7,1,0,0.03,510
+TECfusions,7,1,0,0.03,511
+Swisscom,7,0,0,0.03,512
+tivit,7,0,0,0.03,513
+Netia,7,1,0,0.03,514
+Interconnect Services BV,7,1,0,0.03,515
+BICS SA,7,0,0,0.03,516
+menlo digital,7,0,0,0.03,517
+Yondr Group,7,1,0,0.03,518
+Northgate by Elemental,7,0,0,0.03,519
+Redcentric PLC,7,0,0,0.03,520
+Verrus,7,1,0,0.03,521
+Deep Green,7,1,0,0.03,522
+Adgar Data Center,7,0,0,0.03,523
+Corscale,7,1,0,0.03,524
+Sitel,6,3,0,0.02,525
+True Internet Data Center,6,2,0,0.02,526
+TM ONE,6,0,0,0.02,527
+Etisalat,6,3,0,0.02,528
+Hetzner Online GmbH,6,2,0,0.02,529
+Host.net,6,1,6,0.02,530
+Alchemy Communications,6,1,6,0.02,531
+Hangzhou Netbank Interlink Technologies,6,1,0,0.02,532
+Horizon Data Center Solutions,6,1,6,0.02,533
+Fastmetrics,6,2,4,0.02,534
+Node4,6,2,0,0.02,535
+BlueBridge Networks,6,2,2,0.02,536
+atNorth,6,0,0,0.02,537
+asia tone,6,0,0,0.02,538
+Beyond.pl,6,1,0,0.02,539
+Computacenter,6,2,0,0.02,540
+Quest Technology Management,6,1,0,0.02,541
+Rogers Capital,6,1,0,0.02,542
+Metrobloks,6,1,0,0.02,543
+SEGRO (Slough Trading Estate),6,2,0,0.02,544
+Bharat Sanchar Nigam Ltd. (BSNL),6,1,0,0.02,545
+Safe Host SA,6,1,0,0.02,546
+Arsalon Technologies,6,1,6,0.02,547
+Bezeq International Ltd. (BI),6,1,0,0.02,548
+Takanock,6,1,0,0.02,549
+Airtel Africa,6,5,0,0.02,550
+Six Degrees Group,6,2,0,0.02,551
+Primus Telecommunications (Australia) Pty Ltd,6,1,0,0.02,552
+Atlas Communications,6,3,2,0.02,553
+ITsjefen AS,6,1,0,0.02,554
+Diyixian.com Limited,6,2,0,0.02,555
+Impulse Advanced Communications,6,2,4,0.02,556
+N+ONE Datacenters,6,2,0,0.02,557
+Sure,6,3,0,0.02,558
+Global ?leti?im Hizmetleri A.?.,6,1,0,0.02,559
+Net Access Corporation,6,1,6,0.02,560
+Fogo Data Centers,6,1,6,0.02,561
+S-NET Sp z o.o.,6,1,0,0.02,562
+Gateway Gulf,6,2,0,0.02,563
+Colocationix gmbh,6,0,0,0.02,564
+ono,6,1,0,0.02,565
+nianet A/S,6,1,0,0.02,566
+Start Campus,6,0,0,0.02,567
+Steadfast Networks,6,2,5,0.02,568
+South Reach Networks,6,1,0,0.02,569
+Clear Rate Communications,6,2,4,0.02,570
+Chief Telecom,6,1,0,0.02,571
+Viatel,6,3,0,0.02,572
+Free Net Business Solutions Sdn Bhd,6,1,0,0.02,573
+Core-Backbone GmbH,6,1,0,0.02,574
+Gyron Internet,6,1,0,0.02,575
+Grupo ACS,6,1,0,0.02,576
+Virtustream,6,2,4,0.02,577
+Soluna Computing,6,1,0,0.02,578
+Academica Oy,6,1,0,0.02,579
+Meeza,6,1,0,0.02,580
+IP Converge Data Center,6,1,0,0.02,581
+Telecom Malaysia (TM),6,2,0,0.02,582
+Atlas Agro,6,1,0,0.02,583
+Invitel,6,1,0,0.02,584
+Krypt,6,0,0,0.02,585
+Datatech UK,6,1,0,0.02,586
+Datapipe,6,2,4,0.02,587
+New York Internet,6,1,6,0.02,588
+Nextgen,6,1,0,0.02,589
+Cipher Mining Technologies,6,1,0,0.02,590
+Integrated Telecom Company,6,1,0,0.02,591
+Redcentric,6,0,0,0.02,592
+InTechnology,6,1,0,0.02,593
+Invest inLapland,6,1,0,0.02,594
+ECC Solutions,6,1,0,0.02,595
+24Shells,6,1,0,0.02,596
+Templus,6,0,0,0.02,597
+Bitdeer Technologies Group,6,1,0,0.02,598
+Telia Latvija,6,2,0,0.02,599
+Telix,6,1,6,0.02,600
+Telkom Kenya,6,1,0,0.02,601
+Bresco Broadband,6,2,2,0.02,602
+DBSi,6,1,6,0.02,603
+DATA4,6,3,0,0.02,604
+Huawei,6,3,0,0.02,605
+Web Werks India Pvt Ltd,6,0,0,0.02,606
+CTBC / Algar Telecom,6,1,0,0.02,607
+Philippine Long Distance Telephone Co (PLDT),6,1,0,0.02,608
+Macquarie Data Centres,6,0,0,0.02,609
+Macquarie Telecom,6,1,0,0.02,610
+Lufthansa Systems,6,2,0,0.02,611
+The Benaroya Company,6,1,6,0.02,612
+PTCL,6,1,0,0.02,613
+The Bunker,6,1,0,0.02,614
+Logix,6,0,0,0.02,615
+UKFast,6,2,0,0.02,616
+OnRamp,6,2,3,0.02,617
+Everstream,6,1,0,0.02,618
+TAT-14 Cable System,6,3,2,0.02,619
+AIXIT GmbH,6,0,0,0.02,620
+NTS Workspace,6,1,0,0.02,621
+Global Access Point,6,1,6,0.02,622
+towngas telecom,6,0,0,0.02,623
+NEC Corporation,6,2,0,0.02,624
+NXDATA,6,1,0,0.02,625
+StraTech,6,1,6,0.02,626
+maincubes b.v.,6,4,0,0.02,627
+Cisco,6,2,4,0.02,628
+CityLink,6,1,0,0.02,629
+Internet Initiative Japan Inc. (IIJ),6,1,0,0.02,630
+Ficolo Ltd,6,1,0,0.02,631
+Star,6,1,0,0.02,632
+Grande Communications Networks,6,2,3,0.02,633
+Green Data Center,6,1,0,0.02,634
+Netshop ISP,6,0,0,0.02,635
+Interconnection Clearinghouse Nigeria Limited (ICN),6,1,0,0.02,636
+Riot Platforms,6,1,0,0.02,637
+Revera,6,1,0,0.02,638
+BCE Broadcasting Center Europe,6,1,0,0.02,639
+G-system,6,1,0,0.02,640
+G8 Networks,6,1,0,0.02,641
+Ikoula,6,1,0,0.02,642
+"TCC Technology Co., Ltd",6,1,0,0.02,643
+Nusantara Data Center,6,0,0,0.02,644
+Cable&Wireless Worldwide,6,3,2,0.02,645
+OpenText,6,2,0,0.02,646
+Optage,6,0,0,0.02,647
+akquinet,6,1,0,0.02,648
+Mega Data Centers (Mega DC),6,0,0,0.02,649
+CtrlS,6,1,0,0.02,650
+Wolfpaw Services,6,1,0,0.02,651
+Datacenter Luxembourg S.A.,6,1,0,0.02,652
+Volico,6,1,6,0.02,653
+ServerChoice Data Centres (SCDC),6,2,0,0.02,654
+OneEighty Networks,6,1,6,0.02,655
+I.C.E. Datacenters,6,1,0,0.02,656
+LightEdge Solutions,6,2,3,0.02,657
+TA Realty,6,1,0,0.02,658
+American Tower Corporation,6,1,0,0.02,659
+DataChambers,6,1,6,0.02,660
+Voonami,6,1,4,0.02,661
+Elea Data Centers,6,0,0,0.02,662
+COPT,6,2,3,0.02,663
+CapGemini,6,2,0,0.02,664
+Manx Telecom Ltd,6,1,0,0.02,665
+MDC (McAllen Data Center),6,2,4,0.02,666
+ServerHouse,6,1,0,0.02,667
+ICT Center,6,2,0,0.02,668
+Elion,6,1,0,0.02,669
+Serverius datacenters,6,1,0,0.02,670
+ServerMania,6,1,0,0.02,671
+Africa Data Centres,6,4,0,0.02,672
+Aligned Energy,6,2,3,0.02,673
+Alink Telecom,6,3,0,0.02,674
+Agile,6,2,3,0.02,675
+Katalyst,6,2,4,0.02,676
+Lifeline Data Center,6,2,3,0.02,677
+C I Host,6,1,6,0.02,678
+Copper State Communications,6,2,3,0.02,679
+Perimeter Technology,6,1,6,0.02,680
+CBN Internet,6,1,0,0.02,681
+PrimeTel PLC,6,1,0,0.02,682
+Liberty Center One,6,2,2,0.02,683
+Leading Edge Data Centres,6,0,0,0.02,684
+UOL DIVEO (DHC),6,1,0,0.02,685
+Enseva,6,1,6,0.02,686
+Seeweb,6,0,0,0.02,687
+Open Access Data Centres (OADC),6,3,0,0.02,688
+Core Scientific,6,1,0,0.02,689
+CoreSpace,6,2,2,0.02,690
+Cooolbox,6,1,0,0.02,691
+CME Group,6,1,6,0.02,692
+Shatter I.T.,5,2,4,0.02,693
+Mantra Data Centers,5,0,0,0.02,694
+Allied Properties REIT,5,1,0,0.02,695
+Altice Portugal,5,0,0,0.02,696
+Embratel,5,1,0,0.02,697
+IDC Frontier,5,1,0,0.02,698
+OneAs1a,5,0,0,0.02,699
+STELLARIX,5,3,0,0.02,700
+Opti9 Technologies,5,0,0,0.02,701
+Open DC,5,0,0,0.02,702
+SK boardband,5,0,0,0.02,703
+Tyna Host,5,0,0,0.02,704
+Wildcard Networks,5,1,0,0.02,705
+Nusantara Data Center (NDC),5,0,0,0.02,706
+Samsung SDS,5,0,0,0.02,707
+Namex,5,1,0,0.02,708
+Asanti,5,0,0,0.02,709
+Tedra,5,0,0,0.02,710
+IREN Prince George,5,0,0,0.02,711
+AIS Data Centers,5,0,0,0.02,712
+EcoDataCenter,5,1,0,0.02,713
+Comcast,5,1,0,0.02,714
+Comarch,5,2,0,0.02,715
+NewYork GreenCloud,5,1,0,0.02,716
+Scannell Properties,5,1,0,0.02,717
+Hut 8 Canada,5,0,0,0.02,718
+Angola Cables,5,2,0,0.02,719
+Yotta Data Services,5,0,0,0.02,720
+Celeste,5,0,0,0.02,721
+T-Mobile US,5,2,1,0.02,722
+Applied Digital Corporation,5,1,0,0.02,723
+Vodafone,5,0,0,0.02,724
+TPx Communications,5,1,0,0.02,725
+TRG Datacenters,5,1,0,0.02,726
+Silicon Valley Colocation,5,2,4,0.02,727
+TPG telecom,5,0,0,0.02,728
+Data Center West,5,1,2,0.02,729
+R-KOM,5,1,0,0.02,730
+Pure DC,5,0,0,0.02,731
+Proact,5,0,0,0.02,732
+Databarn,5,1,0,0.02,733
+Lincoln Data Centers,5,1,0,0.02,734
+DLS Internet Services,5,2,4,0.02,735
+DEEP (A POST Luxembourg Company),5,0,0,0.02,736
+BluegrassNet,5,2,2,0.02,737
+Les.net,5,0,0,0.02,738
+LCL Belgium,5,0,0,0.02,739
+Delska,5,2,0,0.02,740
+Raeden,5,1,0,0.02,741
+icolo.io,5,1,0,0.02,742
+Adam LTD,5,0,0,0.02,743
+Smartdc,5,0,0,0.02,744
+Tele2 Telecommunication GmbH,5,0,0,0.02,745
+Greenhouse Datacenters B.V.,5,1,0,0.02,746
+Terago Networks,5,0,0,0.02,747
+LS Power,5,1,0,0.02,748
+Irongate,5,0,0,0.02,749
+cibicom a s,5,0,0,0.02,750
+CERN,5,2,0,0.02,751
+Portus Data Centers,5,2,0,0.02,752
+Kinx,5,0,0,0.02,753
+Plan B,5,0,0,0.02,754
+CME group,5,0,0,0.02,755
+Lincoln Property Company,5,1,0,0.02,756
+MATRIX NAP,5,0,0,0.02,757
+NOVVA,5,0,0,0.02,758
+CleanArc Data Centers,5,1,0,0.02,759
+Colocation NorthWest,5,1,0,0.02,760
+Colocation Northwest,5,0,0,0.02,761
+CeraNet,5,2,2,0.02,762
+noris network ag,5,0,0,0.02,763
+GPX Global Systems,5,2,0,0.02,764
+Viettel IDC,5,0,0,0.02,765
+vaultas,5,0,0,0.02,766
+Chirisa Technology Parks,5,0,0,0.02,767
+Xfernet,5,1,0,0.02,768
+Civicos Networking,5,1,0,0.02,769
+5G Networks,5,0,0,0.02,770
+Coloco,5,2,4,0.02,771
+910Telecom,5,1,4,0.02,772
+AVAIO Digital,5,1,0,0.02,773
+ColocationPLUS,5,1,0,0.02,774
+Green Mountain Data Center,5,0,0,0.02,775
+Netshield,5,1,0,0.02,776
+5g networks limited,5,0,0,0.02,777
+WowRack,5,0,0,0.02,778
+Fibernet,5,2,2,0.02,779
+Triara MTY,5,0,0,0.02,780
+telemaxx telekommunikation gmbh,5,0,0,0.02,781
+1and1 versatel,4,0,0,0.02,782
+eww ITandTEL,4,0,0,0.02,783
+Telbrax,4,1,0,0.02,784
+e-Quest,4,2,0,0.02,785
+Bell Aliant,4,1,0,0.02,786
+JT Group Limited,4,1,0,0.02,787
+JPMorgan Chase,4,2,2,0.02,788
+GNC-Alfa,4,1,0,0.02,789
+JK Land Holdings,4,1,0,0.02,790
+Uniserve Communications,4,1,0,0.02,791
+QSC AG,4,1,0,0.02,792
+Telefonica O2,4,1,0,0.02,793
+Dataware Services,4,1,4,0.02,794
+DediPower,4,1,0,0.02,795
+5Nines,4,3,2,0.02,796
+360 Networks,4,1,0,0.02,797
+RockyNet,4,1,4,0.02,798
+Basefarm,4,1,0,0.02,799
+Ryan Companies US,4,1,0,0.02,800
+ROOT Data Center,4,1,0,0.02,801
+Realtime Systems Group,4,1,4,0.02,802
+"SAGO Networks, LLC.",4,1,4,0.02,803
+Axtel,4,1,0,0.02,804
+BELNET,4,1,0,0.02,805
+Aventus Data Centers,4,2,1,0.02,806
+RackForce,4,1,0,0.02,807
+Australian Data Centers,4,1,0,0.02,808
+Aurora Health Care,4,1,4,0.02,809
+Telecom Argentina S.A.,4,1,0,0.02,810
+Globacom Limited,4,2,0,0.02,811
+Telecom Argentina S.A,4,0,0,0.02,812
+GE (General Electric Company),4,3,1,0.02,813
+Dimension Mission Critical Facilities,4,1,4,0.02,814
+Fuzion,4,1,0,0.02,815
+Telebras,4,1,0,0.02,816
+Itaú Unibanco,4,2,0,0.02,817
+IslaLink Data Center,4,0,0,0.02,818
+Ayrade,4,1,0,0.02,819
+Prov.net/IronTrust Networks,4,0,0,0.02,820
+5C Data Centers,4,0,0,0.02,821
+IronGate Data Centers,4,1,0,0.02,822
+KARIS Critical,4,1,0,0.02,823
+KBC,4,1,0,0.02,824
+Dataline,4,1,0,0.02,825
+Datahouse,4,2,0,0.02,826
+Hansen Technologies,4,1,0,0.02,827
+Hermes Real Estate IM Ltd (HREIM),4,1,0,0.02,828
+Host Virtual,4,2,0,0.02,829
+Binary Net,4,1,0,0.02,830
+globalways ag,4,0,0,0.02,831
+Al Ra’idah Investment Company,4,1,0,0.02,832
+Akquinet outsourcing ggmbh,4,0,0,0.02,833
+AirtelTigo (AT),4,1,0,0.02,834
+Grid Telekomünikasyon Hizmetleri A.S,4,1,0,0.02,835
+HiHo GmbH,4,1,0,0.02,836
+Stargard,4,1,0,0.02,837
+Sleepless,4,1,0,0.02,838
+Smals,4,1,0,0.02,839
+Skali,4,1,0,0.02,840
+Skyband,4,1,0,0.02,841
+University of Groningen,4,1,0,0.02,842
+KnC Miner,4,1,0,0.02,843
+Latechco,4,1,0,0.02,844
+iseek Communications,4,1,0,0.02,845
+Lamda Hellix Data Centers,4,1,0,0.02,846
+keyinfo,4,1,4,0.02,847
+lwlcom gmbh,4,0,0,0.02,848
+LexisNexis,4,1,0,0.02,849
+datasource schweiz,4,1,0,0.02,850
+multacom inc,4,0,0,0.02,851
+3z Canada,4,1,0,0.02,852
+Blue Chip,4,1,0,0.02,853
+Biznet Networks,4,1,0,0.02,854
+Bitstop Network Services,4,1,0,0.02,855
+Stokab,4,0,0,0.02,856
+Telehouse America,4,1,0,0.02,857
+DataVita,4,2,0,0.02,858
+Datacenter Fryslan,4,1,0,0.02,859
+4Degrees,4,1,0,0.02,860
+3u telecom gmbh,4,0,0,0.02,861
+Previder,4,1,0,0.02,862
+inwi,4,1,0,0.02,863
+IREN (Iris Energy),4,1,0,0.02,864
+123Net,4,1,0,0.02,865
+TasmaNet,4,1,0,0.02,866
+1&1 Internet,4,3,1,0.02,867
+Arsys Internet S.L.,4,1,0,0.02,868
+Ark Data Centres,4,1,0,0.02,869
+Swift Systems,4,2,2,0.02,870
+Aride Ocean,4,1,0,0.02,871
+VISI,4,1,4,0.02,872
+SES S.A.,4,2,0,0.02,873
+Raiffeisen Informatik GmbH,4,1,0,0.02,874
+Sargasso Networks,4,2,2,0.02,875
+Santander Data Centers,4,0,0,0.02,876
+Galileo Connect,4,2,0,0.02,877
+SVCOLO,4,1,4,0.02,878
+Teknotel Telekomünikasyon,4,1,0,0.02,879
+Deutsche Telekom ag,4,0,0,0.02,880
+Gazprom Space Systems,4,1,0,0.02,881
+Detasad,4,1,0,0.02,882
+ENGIE Services,4,2,0,0.02,883
+Interconexión Eléctrica (ISA),4,2,0,0.02,884
+"Ibercom (World Wide Web Ibercom, SL)",4,1,0,0.02,885
+SaskTel,4,0,0,0.02,886
+VNET a.s.,4,1,0,0.02,887
+VMware,4,2,0,0.02,888
+Vault Networks,4,2,2,0.02,889
+Vancis,4,1,0,0.02,890
+Vega Telecom,4,1,0,0.02,891
+Ebay,4,1,4,0.02,892
+WEBAXYS,4,1,0,0.02,893
+Ans group limited,4,0,0,0.02,894
+IPHH Internet Port Hamburg,4,0,0,0.02,895
+IPR International,4,1,4,0.02,896
+ITB2 Datacenters,4,1,0,0.02,897
+En+ Group,4,1,0,0.02,898
+Eircom,4,1,0,0.02,899
+WOW! (Wide Open West),4,1,4,0.02,900
+Vox Datapro,4,1,0,0.02,901
+Sberbank,4,1,0,0.02,902
+E-Commerce Park N.V.,4,2,0,0.02,903
+Dynascale,4,1,0,0.02,904
+Industrielle Werke Basel (IWB),4,1,0,0.02,905
+123NET,4,0,0,0.02,906
+Arcan Networks,4,1,0,0.02,907
+INOC Data Centers,4,1,0,0.02,908
+Aphorio Carter,4,1,0,0.02,909
+Amanah Tech,4,1,0,0.02,910
+TECH.RU,4,0,0,0.02,911
+AlixPartners,4,2,0,0.02,912
+Eveo,4,0,0,0.02,913
+Evolink AD,4,1,0,0.02,914
+Hostdime.com,4,2,2,0.02,915
+Altus Information Technology ltd.,4,1,0,0.02,916
+Enter SRL,4,1,0,0.02,917
+Everest Data Centres,4,1,0,0.02,918
+Sidera Networks,4,1,4,0.02,919
+IXTech Limited,4,1,0,0.02,920
+Shared Services Canada (SSC),4,0,0,0.02,921
+SingTel Group,4,1,0,0.02,922
+InterServer,4,2,2,0.02,923
+Fibertech,4,1,4,0.02,924
+Datazone,4,2,0,0.02,925
+Regie Gaz Electricite,4,1,0,0.02,926
+Fortune Data Centers,4,1,4,0.02,927
+Racksquared,4,2,1,0.02,928
+BPCE Infogérance et Technologies,4,0,0,0.02,929
+Frontier Communications Corporation,4,2,2,0.02,930
+Bezeq International (BI),4,0,0,0.02,931
+Form8tion Data Centers,4,1,0,0.02,932
+InfoRelay Online Systems,4,1,4,0.02,933
+Internet Facilitators,4,1,0,0.02,934
+Intermax Managed Hosting,4,1,0,0.02,935
+Atlantic.net,4,0,0,0.02,936
+Atlantech Online,4,2,2,0.02,937
+Ataraxie,4,1,0,0.02,938
+true idc,4,0,0,0.02,939
+BBW Telecom,4,1,0,0.02,940
+Fortress Data Centers,4,2,2,0.02,941
+SIX SI,4,1,0,0.02,942
+Russian Railways,4,1,0,0.02,943
+Alphalink,4,1,0,0.02,944
+Globalinx,4,2,1,0.02,945
+SURFsara,4,1,0,0.02,946
+GoDaddy,4,2,2,0.02,947
+Atman sp. z o.o.,4,2,0,0.02,948
+Atman,4,0,0,0.02,949
+HostGee.Com,4,1,0,0.02,950
+Hosting Solutions,4,1,0,0.02,951
+IELO / Lost Oasis,4,1,0,0.02,952
+GYRO DC Holding BV,4,1,0,0.02,953
+ICM,4,1,0,0.02,954
+TEAM Companies,4,1,4,0.02,955
+Finexus,4,1,0,0.02,956
+Grand Ming Group,4,1,0,0.02,957
+GrafiX Internet BV,4,1,0,0.02,958
+Actapio,4,2,2,0.02,959
+Acropolis Telecom,4,2,0,0.02,960
+StarHub,4,1,0,0.02,961
+Green Datacenter,4,0,0,0.02,962
+Green Data Centers,4,0,0,0.02,963
+AT TOKYO Corporation,4,1,0,0.02,964
+AIMS Data Centre SDN BHD,4,0,0,0.02,965
+AIMES Grid Services CIC,4,1,0,0.02,966
+Adista,4,1,0,0.02,967
+Adaptive Insights,4,1,0,0.02,968
+5C Group,4,1,0,0.02,969
+Colozueri.ch AG,4,1,0,0.02,970
+NeutraDC,4,0,0,0.02,971
+Netwise Hosting,4,1,0,0.02,972
+Nexus Group,4,2,2,0.02,973
+Mosaic Data Services,4,0,0,0.02,974
+Mohave Community College,4,1,4,0.02,975
+NIKHEF,4,1,0,0.02,976
+Miran,4,1,0,0.02,977
+"NFSi Telecom, Lda.",4,1,0,0.02,978
+YourDC,4,1,0,0.02,979
+Cascade Divide,4,1,4,0.02,980
+MyTelehaus Sdn Bhd,4,1,0,0.02,981
+Ad Valem Technologies,4,2,0,0.02,982
+Continuity Centers,4,1,4,0.02,983
+CubeXS Weatherly (Pvt.),4,1,0,0.02,984
+Critical Hub Networks,4,1,0,0.02,985
+Trimax IT Infrastructure & Services,4,1,0,0.02,986
+Open Access Data Centers,4,0,0,0.02,987
+Opcore,4,0,0,0.02,988
+Maxnod,4,1,0,0.02,989
+Türk Telekom International (TTI),4,2,0,0.02,990
+The US Social Security Administration (SSA),4,1,4,0.02,991
+CXP CyberXpress,4,1,4,0.02,992
+aixit GmbH,4,1,0,0.02,993
+Zendesk,4,2,0,0.02,994
+Granite Networks,4,2,2,0.02,995
+Zayo,4,0,0,0.02,996
+CoreWeave,4,1,0,0.02,997
+WordPress,4,2,0,0.02,998
+Master Internet,4,1,0,0.02,999
+CarrierColo,4,1,0,0.02,1000
+Tieto,4,2,0,0.02,1001
+Vodacom Business,4,2,0,0.02,1002
+Vivacom / BTC,4,1,0,0.02,1003
+VisualHosting,4,1,0,0.02,1004
+Vodafone Netherlands,4,1,0,0.02,1005
+Visiant Outsourcing,4,1,0,0.02,1006
+Gulf Data Hub (GDH),4,2,0,0.02,1007
+Greek research and technology network grnet,4,0,0,0.02,1008
+ZeelandNet,4,1,0,0.02,1009
+TopneT Telecomunicazioni S.r.l.,4,1,0,0.02,1010
+Tishman Real Estate Services,4,1,4,0.02,1011
+Negma Business Solutions,4,1,4,0.02,1012
+Neesa Technologies,4,1,0,0.02,1013
+Nebraska Data Centers,4,2,3,0.02,1014
+Sudatel Telecom Group,4,1,0,0.02,1015
+Subrigo,4,1,0,0.02,1016
+Superior,4,1,0,0.02,1017
+StratITsphere,4,1,4,0.02,1018
+TDF Company,4,0,0,0.02,1019
+TCN Data Hotels,4,1,0,0.02,1020
+TC Systems SA,4,1,0,0.02,1021
+Merlin,4,0,0,0.02,1022
+ATI Solutions,4,2,1,0.02,1023
+AAIM Data Centers,4,1,0,0.02,1024
+1-Net Singapore Pte Ltd,4,1,0,0.02,1025
+Towngas Telecom Fixed Network,4,1,0,0.02,1026
+Global-Enterprise,4,1,4,0.02,1027
+Anchor,4,1,0,0.02,1028
+NOS Sistemas,4,1,0,0.02,1029
+NW Colo,4,1,0,0.02,1030
+Travelers Insurance Group,4,1,4,0.02,1031
+NYSE Euronext,4,2,2,0.02,1032
+ColoCenter Frankfurt am Main GmbH,4,1,0,0.02,1033
+Colobern.ch,4,1,0,0.02,1034
+Finnish Communication and Internet Exchange (FICIX),4,1,0,0.02,1035
+ACA International (Assured Communications Advisors International),4,3,1,0.02,1036
+Northern Data AG,4,0,0,0.02,1037
+Nordata,4,1,0,0.02,1038
+North Shore Datacenter,4,1,0,0.02,1039
+OTAVA,4,1,0,0.02,1040
+Colliers International,4,2,0,0.02,1041
+Newmark Grubb Knight Frank NGKF,4,1,4,0.02,1042
+NASDAQ,4,3,2,0.02,1043
+Neterra Telecommunications,4,0,0,0.02,1044
+Clearview International,4,1,4,0.02,1045
+"CityNet Telecom, S.A.E.",4,2,0,0.02,1046
+Chayora,4,1,0,0.02,1047
+Cgest,4,1,0,0.02,1048
+Total Server Solutions,4,1,4,0.02,1049
+National Security Agency NSA,4,1,4,0.02,1050
+Nixval,4,1,0,0.02,1051
+Nucleus Connet,4,1,0,0.02,1052
+NuVox,4,1,4,0.02,1053
+NourNet,4,1,0,0.02,1054
+Choreus Group,4,1,0,0.02,1055
+National Information Technology Agency (NITA) Ghana,4,1,0,0.02,1056
+Cobalt Data Centers,4,1,4,0.02,1057
+Coloblox,4,1,0,0.02,1058
+Colospace,4,0,0,0.02,1059
+Cologlobal,4,3,1,0.02,1060
+ColoGuys,4,1,4,0.02,1061
+Verne Global,4,1,0,0.02,1062
+National Telecommunications Corporation (CNT),4,1,0,0.02,1063
+Telkomsigma,4,1,0,0.02,1064
+Lightbound,4,1,4,0.02,1065
+DTP (Dwi Tunggal Putra),4,1,0,0.02,1066
+DSM,4,0,0,0.02,1067
+Telkom SA,4,1,0,0.02,1068
+TenKey LandCo,4,1,0,0.02,1069
+Locaweb,4,1,0,0.02,1070
+LivePerson,4,1,0,0.02,1071
+UNI-C,4,1,0,0.02,1072
+Login,4,2,2,0.02,1073
+Bytesnet BV,4,1,0,0.02,1074
+Telkomsel Gedung TTC,4,1,0,0.02,1075
+ContinuitySA,4,2,0,0.02,1076
+DataHub (data:hub),4,1,0,0.02,1077
+Portugal Telecom,4,1,0,0.02,1078
+PointOne Developments,4,3,1,0.02,1079
+Plusserver,4,0,0,0.02,1080
+M24Seven,4,2,0,0.02,1081
+M&T Bank,4,1,4,0.02,1082
+Lunar Digital,4,0,0,0.02,1083
+London Data Exchange Ltd (LDeX),4,2,0,0.02,1084
+Lumison,4,1,0,0.02,1085
+PhoenixNAP,4,1,0,0.02,1086
+Penn State,4,1,4,0.02,1087
+Pearl Technology,4,1,0,0.02,1088
+DataSite,4,1,4,0.02,1089
+FOGO Solutions,4,1,0,0.02,1090
+FCCN Fundação para a Computação Científica Nacional,4,1,0,0.02,1091
+FairPoint Communications,4,1,4,0.02,1092
+SimbaNET,4,1,0,0.02,1093
+TPG Internet,4,1,0,0.02,1094
+TMR - Telekommunikation Mittleres Ruhrgebiet GmbH,4,1,0,0.02,1095
+USP - Universidade de São Paulo,4,1,0,0.02,1096
+US Internet,4,2,2,0.02,1097
+Data Facilities,4,1,0,0.02,1098
+Data Electronics,4,1,0,0.02,1099
+Data Communication Ltd,4,1,0,0.02,1100
+Telepoint Data Center Bulgaria,4,1,0,0.02,1101
+Webaxys,4,0,0,0.02,1102
+PrimeTel,4,0,0,0.02,1103
+Layer42 Networks,4,1,4,0.02,1104
+Layer One,4,1,0,0.02,1105
+Latos,4,0,0,0.02,1106
+Telenor,4,1,0,0.02,1107
+Bulk Data Centers AS,4,1,0,0.02,1108
+Bitcanal Internet Services,4,2,0,0.02,1109
+BroadRiver,4,1,4,0.02,1110
+Bunkerinfra Datacenters,4,1,0,0.02,1111
+Brightsolid,4,1,0,0.02,1112
+Data Vault,4,1,0,0.02,1113
+Whipcord,4,0,0,0.02,1114
+Wells Fargo,4,2,2,0.02,1115
+Telepacific,4,1,4,0.02,1116
+HIVE Digital Technologies Ltd,4,0,0,0.02,1117
+HGC GlobalCentre,4,1,0,0.02,1118
+Aire,4,0,0,0.02,1119
+AirTrunk,4,1,0,0.02,1120
+Solcon Internetdiensten B.V.,4,1,0,0.02,1121
+Sonda,4,0,0,0.02,1122
+ManagedWay,4,0,0,0.02,1123
+"Markley Boston, LLC.",4,1,4,0.02,1124
+Mainroad,4,1,0,0.02,1125
+MainData Nigeria Limited (MDX-i),4,1,0,0.02,1126
+MekongNet IXP,4,1,0,0.02,1127
+Megafon,4,1,0,0.02,1128
+Peace Communications,4,1,2,0.02,1129
+COLO@,4,1,4,0.02,1130
+CONAPTO,4,0,0,0.02,1131
+The Morgan Reed Group,4,1,4,0.02,1132
+MCV Broadband,4,1,0,0.02,1133
+Oracle Cloud Infrastructure,4,0,0,0.02,1134
+Over the Wire Pty.,4,1,0,0.02,1135
+PT Karyabangun Nusantara,4,1,0,0.02,1136
+PIX,4,1,0,0.02,1137
+Cypress Telecom Limited,4,2,0,0.02,1138
+Cygrids Communications AB,4,1,0,0.02,1139
+DP Facilities,4,1,0,0.02,1140
+Tulip Telecom Limited,4,1,0,0.02,1141
+ControlCircle,4,2,2,0.02,1142
+Crane,4,0,0,0.02,1143
+Pars Online Data Center,4,1,0,0.02,1144
+PT Prime,4,1,0,0.02,1145
+Pakistan Telecommunication Company Limited (PTCL),4,1,0,0.02,1146
+CITIC Telecom International Limited,4,1,0,0.02,1147
+Data City Exchange (DCE),4,1,0,0.02,1148
+Data One Corporation,4,1,4,0.02,1149
+Lumos Data Centers (LDC),4,1,4,0.02,1150
+M5 Hosting,4,0,0,0.02,1151
+Tenue,4,1,0,0.02,1152
+Green Mountain Data Centre,4,1,0,0.02,1153
+Eskom,4,1,0,0.02,1154
+EscapeNet,4,1,0,0.02,1155
+HKCOLO,4,1,0,0.02,1156
+iWeb Technologies,4,1,0,0.02,1157
+iM Critical,4,1,0,0.02,1158
+i3D.net,4,0,0,0.02,1159
+iSeek,4,0,0,0.02,1160
+iRack,4,2,0,0.02,1161
+Southeast Property Holdings,4,1,0,0.02,1162
+Groupe elb Multimedia,4,1,0,0.02,1163
+Groupe Oceanet Technology,4,0,0,0.02,1164
+Sofia Connect,4,1,0,0.02,1165
+SmartDC B.V.,4,2,0,0.02,1166
+Acens Technologies,4,1,0,0.02,1167
+Adam,4,1,0,0.02,1168
+HLkomm Telekommunikations GmbH,4,1,0,0.02,1169
+Fastweb,4,1,0,0.02,1170
+viLogics Data Centers,3,1,0,0.01,1171
+Synergy Broadband,3,2,2,0.01,1172
+Swisscolocation SA,3,1,0,0.01,1173
+Summit (formerly Deft),3,1,0,0.01,1174
+GI Property Management,3,1,0,0.01,1175
+31173 services ab,3,0,0,0.01,1176
+360TCS,3,1,2,0.01,1177
+Stafford Associates,3,2,2,0.01,1178
+Sterling American Property,3,2,2,0.01,1179
+Velocity Data Centers,3,2,1,0.01,1180
+Veloxserv,3,0,0,0.01,1181
+Fidelity Bank Limited,3,1,0,0.01,1182
+Five 9s Digital,3,2,2,0.01,1183
+First National Technology Solutions,3,2,2,0.01,1184
+Viatel Technology Group,3,0,0,0.01,1185
+myNET Internet Solutions,3,0,0,0.01,1186
+unWired Broadband,3,1,0,0.01,1187
+netrix llc,3,0,0,0.01,1188
+node4 ltd,3,0,0,0.01,1189
+ÖBB Telekom Service GmbH,3,1,0,0.01,1190
+nec corporation,3,0,0,0.01,1191
+WNB A/S,3,1,0,0.01,1192
+WOWaccess,3,2,2,0.01,1193
+ValorC3,3,0,0,0.01,1194
+I2B Networks,3,2,1,0.01,1195
+Sentinel Datacenters,3,1,0,0.01,1196
+Anexia,3,0,0,0.01,1197
+"American Business Continuity Centers, LLC.",3,1,0,0.01,1198
+Aptum,3,1,0,0.01,1199
+Schuberg Philis,3,1,0,0.01,1200
+Arbinet,3,2,2,0.01,1201
+Elisa,3,0,0,0.01,1202
+STACK EMEA,3,0,0,0.01,1203
+Echelon Data Centers,3,0,0,0.01,1204
+Dr.-Ing. Nepustil & Co. GmbH,3,0,0,0.01,1205
+Dokom gesellschaft fur telekommunikation mbh,3,0,0,0.01,1206
+Dorabase,3,1,0,0.01,1207
+Indonesia Super Corridor,3,0,0,0.01,1208
+ILI Group,3,0,0,0.01,1209
+Tata Communications,3,1,0,0.01,1210
+Tech Vault,3,1,2,0.01,1211
+Rising Realty Partners,3,2,1,0.01,1212
+Intercity Technology,3,0,0,0.01,1213
+InterBS S.R.L.,3,0,0,0.01,1214
+ENOVUM,3,0,0,0.01,1215
+Digital Parks Africa,3,1,0,0.01,1216
+Intero Systems,3,2,2,0.01,1217
+IgLou Internet Services,3,2,2,0.01,1218
+Indosat,3,0,0,0.01,1219
+Ascent Data,3,1,2,0.01,1220
+Atomic Data,3,0,0,0.01,1221
+SS&C GlobeOp,3,2,2,0.01,1222
+Rudin Management Company,3,2,2,0.01,1223
+IC2NET,3,2,2,0.01,1224
+IDC Indonesia,3,0,0,0.01,1225
+AltusHost,3,0,0,0.01,1226
+Aecero,3,2,1,0.01,1227
+Africa DataCentres,3,0,0,0.01,1228
+SimpleNet,3,2,2,0.01,1229
+Simply Bits,3,1,2,0.01,1230
+Serverhouse,3,0,0,0.01,1231
+Serverius IT Infrastructure,3,0,0,0.01,1232
+Encore Technologies,3,1,0,0.01,1233
+Ericsson,3,1,0,0.01,1234
+Daticum,3,1,0,0.01,1235
+Datum,3,0,0,0.01,1236
+University of Virginia,3,1,0,0.01,1237
+InterNexa,3,0,0,0.01,1238
+InterRacks,3,0,0,0.01,1239
+RSAWEB,3,1,0,0.01,1240
+RSAweb,3,1,0,0.01,1241
+Awecomm Technologies,3,2,2,0.01,1242
+Ayera Technologies,3,2,2,0.01,1243
+Ixcellerate,3,0,0,0.01,1244
+Be Company,3,0,0,0.01,1245
+Beale Infrastructure,3,1,0,0.01,1246
+Beeks Financial Cloud Group,3,0,0,0.01,1247
+Telefonica Global Solutions,3,0,0,0.01,1248
+Telekommunikation Mittleres Ruhrgebiet GmbH,3,0,0,0.01,1249
+Digital West Networks,3,2,2,0.01,1250
+Digiweb,3,1,0,0.01,1251
+Digital Edge,3,2,2,0.01,1252
+Datotel,3,2,2,0.01,1253
+Keystone NAP,3,2,2,0.01,1254
+csf group,3,0,0,0.01,1255
+Datacate,3,1,0,0.01,1256
+K2 Data Centres,3,0,0,0.01,1257
+KAO Data,3,2,0,0.01,1258
+Hunt Midwest,3,2,2,0.01,1259
+Hostoweb,3,0,0,0.01,1260
+Hive Data Center,3,0,0,0.01,1261
+Hetzner,3,0,0,0.01,1262
+Handy Networks,3,1,2,0.01,1263
+Alchemy Data Centers,3,0,0,0.01,1264
+Sinnet,3,0,0,0.01,1265
+Sirius,3,0,0,0.01,1266
+TIS Data Centers,3,0,0,0.01,1267
+DataSpace,3,1,0,0.01,1268
+Ufinet,3,0,0,0.01,1269
+Telepoint,3,0,0,0.01,1270
+Priority Power,3,1,0,0.01,1271
+Bit Data Center,3,0,0,0.01,1272
+Bulk Infrastructure,3,0,0,0.01,1273
+Webtuga,3,0,0,0.01,1274
+Westelcom,3,1,0,0.01,1275
+WhiteHat,3,0,0,0.01,1276
+DRFortress,3,1,2,0.01,1277
+LightSpeed Hosting,3,1,0,0.01,1278
+Liquid Telecommunications Holdings Limited,3,2,0,0.01,1279
+Pixel Factory Data Center,3,2,2,0.01,1280
+C-Spire,3,0,0,0.01,1281
+CANCOM Austria,3,0,0,0.01,1282
+CANCOM SE,3,0,0,0.01,1283
+Polaris Data Centre,3,1,0,0.01,1284
+DataVerge,3,1,0,0.01,1285
+MadeIt,3,0,0,0.01,1286
+M&A Technology,3,1,0,0.01,1287
+M-net Telekommunikations,3,0,0,0.01,1288
+Peaknetworks,3,0,0,0.01,1289
+Pi Datacenters,3,0,0,0.01,1290
+CGI,3,1,0,0.01,1291
+CIDS Data System china,3,0,0,0.01,1292
+Pfalzkom Gmbh,3,0,0,0.01,1293
+Paul Bunyan Communications,3,2,2,0.01,1294
+Panattoni,3,0,0,0.01,1295
+Data Journey,3,1,0,0.01,1296
+Fastweb S.p.A.,3,0,0,0.01,1297
+Fiber 23,3,1,0,0.01,1298
+Grind Capital Group,3,1,0,0.01,1299
+Sprint,3,1,2,0.01,1300
+Wolfpaw Data Centres,3,0,0,0.01,1301
+Maroc Telecom,3,2,0,0.01,1302
+The Karcher Group,3,2,2,0.01,1303
+Canhost,3,1,0,0.01,1304
+CROC Incorporated,3,0,0,0.01,1305
+CS LoxInfo,3,0,0,0.01,1306
+PT IndoInternet Tbk,3,0,0,0.01,1307
+Optic Fusion,3,1,0,0.01,1308
+Overwatch,3,0,0,0.01,1309
+MIVITEC GmbH,3,1,0,0.01,1310
+Cyber Network Indonesia,3,0,0,0.01,1311
+Cyta (Cyprus Telecommunications Authority),3,0,0,0.01,1312
+Tyler Vault.com,3,2,2,0.01,1313
+One Data Center America,3,1,0,0.01,1314
+CWCS Managed Hosting,3,2,0,0.01,1315
+The Wilson Company,3,2,2,0.01,1316
+Wingu.Africa,3,3,0,0.01,1317
+Goodman Group,3,0,0,0.01,1318
+Vision Net,3,0,0,0.01,1319
+Vodafone España,3,0,0,0.01,1320
+Goodman,3,1,0,0.01,1321
+Green Colo LTD,3,0,0,0.01,1322
+Standard Bank of South Africa,3,1,0,0.01,1323
+SqFt,3,0,0,0.01,1324
+Advance2000,3,2,2,0.01,1325
+AQL,3,0,0,0.01,1326
+NETdepot,3,0,0,0.01,1327
+Wowrack,3,1,0,0.01,1328
+NEXEREN,3,0,0,0.01,1329
+NFINIT,3,0,0,0.01,1330
+Metanet,3,1,0,0.01,1331
+Centeris Data Centers,3,1,0,0.01,1332
+Yexio,3,0,0,0.01,1333
+Yovole,3,0,0,0.01,1334
+ONI,3,1,0,0.01,1335
+MettaDC,3,0,0,0.01,1336
+Nakana ApS,3,1,0,0.01,1337
+NTS workspace,3,0,0,0.01,1338
+NEX Data Center,3,0,0,0.01,1339
+Colo Solutions,3,1,2,0.01,1340
+ColoBarn,3,1,0,0.01,1341
+CityNAP,3,2,2,0.01,1342
+CherryRoad Technologies,3,1,0,0.01,1343
+Nexspace data centers,3,0,0,0.01,1344
+NocRoom Miami Colocation VPS,3,1,0,0.01,1345
+Cloudnium,3,0,0,0.01,1346
+Trammell Crow Company,3,1,0,0.01,1347
+NRB,3,0,0,0.01,1348
+NT Data Center (NTDC),3,0,0,0.01,1349
+NTT SmartConnect,3,0,0,0.01,1350
+WorldSpice Technologies,3,2,2,0.01,1351
+Xneelo,3,1,0,0.01,1352
+Nabiax,3,0,0,0.01,1353
+Vianova,3,0,0,0.01,1354
+Global Access Point (GAP),3,0,0,0.01,1355
+ATMAN,3,1,0,0.01,1356
+A1 Group,3,0,0,0.01,1357
+xAI,3,1,0,0.01,1358
+westelcom networks,3,0,0,0.01,1359
+24 Hour Data,3,1,0,0.01,1360
+stackit,3,0,0,0.01,1361
+over the wire pty ltd,3,0,0,0.01,1362
+pt jupiter jala arta,3,0,0,0.01,1363
+teknotel telekomunikasyon a s,3,0,0,0.01,1364
+GTD,3,0,0,0.01,1365
+Frontline Data Services,3,2,2,0.01,1366
+Fusion Connect,3,1,0,0.01,1367
+Galaxy Data Centers,3,0,0,0.01,1368
+Gigenet,3,1,2,0.01,1369
+ümit dinç,2,1,0,0.01,1370
+1-Net Mediacorp,2,0,0,0.01,1371
+100 Limite,2,1,0,0.01,1372
+123 NET,2,1,2,0.01,1373
+vdc virtual data corp,2,0,0,0.01,1374
+165 Halsey Street,2,1,0,0.01,1375
+netTALK,2,1,2,0.01,1376
+neuCentrIX by Telin,2,1,0,0.01,1377
+nixServers,2,1,0,0.01,1378
+myLoc Managed Infrastructure AG,2,1,0,0.01,1379
+n@work Internet Informationssysteme GmbH,2,1,0,0.01,1380
+nFrame,2,1,2,0.01,1381
+Stone Mountain,2,1,2,0.01,1382
+Storagepipe,2,1,2,0.01,1383
+Stored Value Solutions (SVS),2,1,0,0.01,1384
+Synterra,2,1,0,0.01,1385
+Syntigo,2,1,0,0.01,1386
+ixColo,2,1,2,0.01,1387
+kyberna AG,2,1,0,0.01,1388
+iovation,2,1,2,0.01,1389
+SunnyVision Limited,2,1,0,0.01,1390
+SuperNetwork s.r.o.,2,1,0,0.01,1391
+Subisu Cablenet (P.) Ltd,2,1,0,0.01,1392
+Sudan Data Center,2,1,0,0.01,1393
+Sul!Internet,2,1,0,0.01,1394
+Sun Network (Hong Kong) Ltd,2,1,0,0.01,1395
+Strateq,2,1,0,0.01,1396
+Sternforth Limited,2,1,0,0.01,1397
+AVS Telecom,2,1,0,0.01,1398
+ASPSERVEUR,2,1,0,0.01,1399
+ASTRIUM,2,1,0,0.01,1400
+T-Hrvatski Telekom,2,1,0,0.01,1401
+T-Mobile Polska SA.,2,1,0,0.01,1402
+T-Rex Networks,2,1,0,0.01,1403
+T-Systems Hungary,2,1,0,0.01,1404
+SuneVision,2,1,0,0.01,1405
+A AMT,2,1,0,0.01,1406
+A1 Telekom Austria AG,2,1,0,0.01,1407
+AA Telekom,2,1,0,0.01,1408
+AB Dalsbruks Fabrik,2,1,0,0.01,1409
+740 Notre-Dame West,2,1,0,0.01,1410
+7ve7 Datacenter Ltd.Sti.,2,1,0,0.01,1411
+800 Oliver,2,1,2,0.01,1412
+ATLDC,2,1,2,0.01,1413
+Fullsave,2,0,0,0.01,1414
+Future Hosting,2,1,2,0.01,1415
+Freeman Group,2,1,2,0.01,1416
+Front Range Internet,2,1,2,0.01,1417
+Frontier Optical Networks,2,1,0,0.01,1418
+Frost Bank,2,1,2,0.01,1419
+Fortress Colocation Centers,2,1,2,0.01,1420
+Fpweb.net,2,1,0,0.01,1421
+Go4Hosting,2,1,0,0.01,1422
+Goldman Sachs,2,1,2,0.01,1423
+Global Securitization Services,2,2,1,0.01,1424
+Global-e Datacenter,2,2,0,0.01,1425
+Global-e Datacenter BV,2,0,0,0.01,1426
+Global-e Datacenter bv,2,1,0,0.01,1427
+Fujitsu UK,2,1,0,0.01,1428
+FullSave,2,1,0,0.01,1429
+Gemeente Heerlen,2,1,0,0.01,1430
+GVA Connect,2,1,0,0.01,1431
+GX Networks,2,1,0,0.01,1432
+Galaxy Backbone,2,1,0,0.01,1433
+GlobalNet,2,1,0,0.01,1434
+Globalhost d.o.o.,2,1,0,0.01,1435
+Globe Telecom,2,1,0,0.01,1436
+Globecast,2,2,1,0.01,1437
+Geneseo Communications,2,1,2,0.01,1438
+Genworth,2,1,0,0.01,1439
+Geraldton Data Centre,2,1,0,0.01,1440
+Gerry's Information Technology,2,1,0,0.01,1441
+Gibtelecom,2,1,0,0.01,1442
+GigaByte Limited,2,1,0,0.01,1443
+GeekGeorge,2,1,0,0.01,1444
+Gelsen-Net,2,0,0,0.01,1445
+Virginia Information Technologies Agency,2,2,1,0.01,1446
+Viridio,2,1,0,0.01,1447
+Virtualapps,2,1,0,0.01,1448
+FirstLight Fiber,2,1,0,0.01,1449
+Fjord IT,2,1,0,0.01,1450
+Flex Data Center,2,2,1,0.01,1451
+FlexITy Solutions,2,1,0,0.01,1452
+Fiore Companies,2,1,2,0.01,1453
+Viettel Tanzania Ltd (Halotel),2,1,0,0.01,1454
+Villecolo,2,1,2,0.01,1455
+Vinadata JSC,2,1,0,0.01,1456
+Vinakom,2,1,2,0.01,1457
+Vineyard Data Center Park,2,1,2,0.01,1458
+Via-numerica,2,1,0,0.01,1459
+Victory Technology Center,2,1,0,0.01,1460
+Vernon Data Center,2,1,2,0.01,1461
+Global Data Service,2,1,0,0.01,1462
+Global Datacenter,2,1,0,0.01,1463
+Global Dataplex,2,1,2,0.01,1464
+Global Iletisim Hizmetleri,2,1,0,0.01,1465
+Global Relay,2,1,0,0.01,1466
+Global Center,2,1,0,0.01,1467
+Videotron (a Quebecor Media Company),2,1,0,0.01,1468
+Vienna-Hainburgerstrasse (HS33),2,1,0,0.01,1469
+Fonds immobilier de solidarité FTQ,2,1,0,0.01,1470
+Fontys Hogeschool,2,1,0,0.01,1471
+FortaTrust,2,1,0,0.01,1472
+"GROUPE MIT, s.a.r.l.",2,1,0,0.01,1473
+GRVX Host,2,1,0,0.01,1474
+GTL,2,1,2,0.01,1475
+GTS Telecom,2,0,0,0.01,1476
+Global Data Center,2,1,0,0.01,1477
+FPT International Telecom,2,1,0,0.01,1478
+Excalibur Technology,2,1,2,0.01,1479
+Excellent Hosting,2,1,0,0.01,1480
+Excelsimo Networks,2,1,0,0.01,1481
+Eyeota Pte Ltd,2,2,1,0.01,1482
+FAEPA,2,1,0,0.01,1483
+Vline Telecom,2,1,0,0.01,1484
+Vodacom Mozambique,2,1,0,0.01,1485
+Granite Block Global Data Center,2,1,2,0.01,1486
+Great Lakes Communication Corporation (GLCC),2,1,2,0.01,1487
+Green Cloud Technologies,2,2,1,0.01,1488
+Gotham Bus,2,1,2,0.01,1489
+Gothnet,2,1,0,0.01,1490
+GrafiX Internet B.V.,2,0,0,0.01,1491
+Graha Teknologi Nusantara (GTN),2,1,0,0.01,1492
+Gompute AB,2,1,0,0.01,1493
+Fibre Centre ltd,2,0,0,0.01,1494
+Versija,2,1,0,0.01,1495
+Vegacom,2,1,0,0.01,1496
+VegasNAP,2,1,2,0.01,1497
+VeratNet,2,2,0,0.01,1498
+VeriTeknik Bilisim,2,1,0,0.01,1499
+Green Colo Ltd,2,2,0,0.01,1500
+Green Data Systems,2,1,0,0.01,1501
+First Colo GmbH,2,1,0,0.01,1502
+First National Technology Solutions (FNTS),2,0,0,0.01,1503
+Fidelis Care,2,1,2,0.01,1504
+Fidelity,2,1,2,0.01,1505
+Fidelity National Information Services fis,2,0,0,0.01,1506
+Final Frontier,2,1,0,0.01,1507
+Fiberhub,2,1,2,0.01,1508
+Fiberpipe,2,1,2,0.01,1509
+Greencourt Group,2,1,2,0.01,1510
+Evinova,2,1,0,0.01,1511
+Eurociber,2,1,0,0.01,1512
+Eurofiber,2,1,0,0.01,1513
+Eurofiber Cloud Franxe,2,0,0,0.01,1514
+Eurohub,2,1,0,0.01,1515
+Essent,2,1,0,0.01,1516
+FasterNet,2,1,0,0.01,1517
+HOSTEX,2,1,0,0.01,1518
+Guizhou Xiangming Science & Technology,2,1,0,0.01,1519
+Guizhou-Cloud Big Data Industry Co (GCBD),2,1,0,0.01,1520
+Gyrocenter,2,1,0,0.01,1521
+H5 Colo,2,1,0,0.01,1522
+Grubb & Ellis,2,1,2,0.01,1523
+Grupalia Internet SA (G NET),2,1,0,0.01,1524
+Gtd Group,2,1,0,0.01,1525
+Visual Link Internet,2,2,1,0.01,1526
+Vipnet,2,1,0,0.01,1527
+Gorack,2,1,2,0.01,1528
+Got.Net,2,1,0,0.01,1529
+Gotanet - Götalandsnätet AB,2,1,0,0.01,1530
+Goteborg Energi AB,2,1,0,0.01,1531
+HD,2,1,0,0.01,1532
+HFT Technologies,2,1,2,0.01,1533
+Visual Online,2,1,0,0.01,1534
+Vital International Ltd,2,1,0,0.01,1535
+Vital Technology,2,1,0,0.01,1536
+Vivio Technologies,2,1,0,0.01,1537
+Vivo,2,1,0,0.01,1538
+Vision Telecom Private Limited,2,1,0,0.01,1539
+Vision247,2,1,0,0.01,1540
+VisionQuest,2,1,0,0.01,1541
+HostDime Brasil,2,1,0,0.01,1542
+HostDime Global,2,1,0,0.01,1543
+HostExpress,2,1,0,0.01,1544
+HostFiber,2,1,0,0.01,1545
+HopOne Internet,2,1,0,0.01,1546
+Hormigones Vascos,2,1,0,0.01,1547
+Hospedaje Web y Servidores Dedicados,2,1,0,0.01,1548
+Host Europe Group,2,1,0,0.01,1549
+Hamilton Managed Hosting&Colocation,2,1,2,0.01,1550
+Hanel-CSF Data Center,2,1,0,0.01,1551
+Harel Mallac Technologies,2,1,0,0.01,1552
+HOSTKEY,2,1,0,0.01,1553
+HOUSING.COM.AR,2,1,0,0.01,1554
+HSBC Holdings,2,1,0,0.01,1555
+HT Networks,2,1,0,0.01,1556
+Habari Node Limited,2,1,0,0.01,1557
+Hetzner (Pty) Ltd,2,1,0,0.01,1558
+HexaByte,2,1,0,0.01,1559
+Heywood - Network & Hosting Solutions,2,1,0,0.01,1560
+High Availability Hosting Limited (H.A. Hosting),2,1,0,0.01,1561
+HeiTech Managed Services (HMS),2,1,0,0.01,1562
+Herakles Data Center,2,1,2,0.01,1563
+HereEast,2,1,0,0.01,1564
+Herman IT Oy,2,1,0,0.01,1565
+Fiber Direkt,2,1,0,0.01,1566
+FPT Telecom,2,1,0,0.01,1567
+Facility for Antiproton and Ion Research in Europe Gmbh (FAIR),2,1,0,0.01,1568
+Fast2host,2,1,0,0.01,1569
+FLAG Telecom,2,1,0,0.01,1570
+Grid Telekom,2,1,0,0.01,1571
+Griffin Capital Essential Asset REIT,2,1,2,0.01,1572
+Griffin Capital Net Lease REIT,2,1,2,0.01,1573
+Entanet,2,1,0,0.01,1574
+Entel S.A.,2,0,0,0.01,1575
+Enable Networks Limited,2,0,0,0.01,1576
+EnablesIT,2,1,2,0.01,1577
+Enemalta,2,1,0,0.01,1578
+Enertel,2,1,0,0.01,1579
+Evolve Discovery,2,1,2,0.01,1580
+Eweka Internet Services,2,1,0,0.01,1581
+Erdem Murat Ünal,2,1,0,0.01,1582
+Erron Pettry,2,1,2,0.01,1583
+Enterhost,2,1,2,0.01,1584
+Enterprise Cloud Computing Center EC3,2,1,2,0.01,1585
+Entra Eiendom AS,2,1,0,0.01,1586
+Entreprise Data,2,1,0,0.01,1587
+Engineering,2,1,0,0.01,1588
+Enguard,2,1,2,0.01,1589
+HighQ,2,1,0,0.01,1590
+Highbridge Properties Plc,2,1,0,0.01,1591
+Highwinds Network Group,2,1,0,0.01,1592
+Hines Global REIT,2,1,2,0.01,1593
+Hostpalace,2,0,0,0.01,1594
+EgyProHost,2,1,0,0.01,1595
+Epiq Systems,2,1,0,0.01,1596
+Equity Bank,2,1,0,0.01,1597
+Host Group of Companies Pty,2,1,0,0.01,1598
+Host Networks,2,1,0,0.01,1599
+Hitachi Sunway Information Systems,2,1,0,0.01,1600
+Honesty Net Solutions (India) Pvt.,2,1,0,0.01,1601
+Hong Kong Exchange and Clearing (HKEx),2,1,0,0.01,1602
+Hong Kong Exchanges and Clearing Limited,2,1,0,0.01,1603
+High Performance Data Centre (HDC),2,1,0,0.01,1604
+High Touch Technologies,2,1,2,0.01,1605
+Emerging Markets Communications (EMC),2,1,2,0.01,1606
+Empyrion Digital,2,0,0,0.01,1607
+Emtel,2,1,0,0.01,1608
+Electric Lightwave,2,2,1,0.01,1609
+Electricity North West,2,1,0,0.01,1610
+Electronic Business Services (eBS),2,1,0,0.01,1611
+Elisa Oy,2,1,0,0.01,1612
+Egypt for Information Dissemination (EDID),2,1,0,0.01,1613
+IFX Networks,2,1,0,0.01,1614
+IGN GmbH,2,1,0,0.01,1615
+ICS,2,1,0,0.01,1616
+IDAGroup,2,1,0,0.01,1617
+Volta,2,1,0,0.01,1618
+Vostron,2,1,0,0.01,1619
+Elite Limited,2,1,0,0.01,1620
+Emango Datacenter,2,1,0,0.01,1621
+HostMySite,2,1,2,0.01,1622
+HostNordic Datacenter,2,1,0,0.01,1623
+HostRightNow Technologies,2,1,0,0.01,1624
+Hostalite,2,2,1,0.01,1625
+Hostbasket,2,1,0,0.01,1626
+IDCH Germany GmbH,2,1,0,0.01,1627
+IFL,2,1,0,0.01,1628
+IFTnet,2,1,0,0.01,1629
+Everest Data Centers,2,0,0,0.01,1630
+Hostway Deutschland GmbH,2,1,0,0.01,1631
+Hostzone,2,1,0,0.01,1632
+Hot Site Data Center,2,1,2,0.01,1633
+Hotlink,2,1,0,0.01,1634
+Hostigger,2,1,0,0.01,1635
+Hosting UK (a division of Internet Engineering Ltd),2,1,0,0.01,1636
+HostForLIFE.eu,2,1,0,0.01,1637
+ERN Global,2,1,0,0.01,1638
+ESB (Electricity Supply Board),2,1,0,0.01,1639
+ESID DE BORDEAUX,2,1,0,0.01,1640
+ETB S.A. ESP,2,1,0,0.01,1641
+ETICE,2,1,0,0.01,1642
+EVO,2,1,0,0.01,1643
+WRN Broadcast,2,1,0,0.01,1644
+WWI,2,1,0,0.01,1645
+Varion Telecom Sp. z o.o.,2,1,0,0.01,1646
+Varna Data Center,2,1,0,0.01,1647
+VNTT (Vietnam Technology and Telecommunication),2,1,0,0.01,1648
+VPLS / ACS State and Local,2,1,2,0.01,1649
+VTEL Holdings,2,1,0,0.01,1650
+VERIXI,2,0,0,0.01,1651
+VILLE DE DAX,2,1,0,0.01,1652
+EasyStreet Online,2,1,2,0.01,1653
+I4-Networks,2,1,0,0.01,1654
+Hutchinson,2,1,0,0.01,1655
+Hydro66,2,1,0,0.01,1656
+I-Datacenter,2,1,0,0.01,1657
+Vault AS,2,1,0,0.01,1658
+VectorFibre,2,1,0,0.01,1659
+VeePee,2,1,0,0.01,1660
+Vaninga & Investimentos Limitada,2,1,0,0.01,1661
+EgyptNetwork,2,1,0,0.01,1662
+Ehiweb.it,2,1,0,0.01,1663
+Eindhoven Fiber Exchange (EFX),2,1,0,0.01,1664
+Elb.it,2,1,0,0.01,1665
+EdgePresence,2,0,0,0.01,1666
+Edgnex Data Center,2,0,0,0.01,1667
+Eesti Meedia,2,1,0,0.01,1668
+I-Evolve,2,1,2,0.01,1669
+INEONET,2,1,0,0.01,1670
+INET,2,1,0,0.01,1671
+ITS telecom,2,0,0,0.01,1672
+ITSOFT,2,1,0,0.01,1673
+ITnow Data Center,2,0,0,0.01,1674
+IUCT Oncopole,2,1,0,0.01,1675
+IX Africa,2,1,0,0.01,1676
+IX Web Hosting,2,2,1,0.01,1677
+IP Technology,2,1,0,0.01,1678
+INFOMIL,2,1,0,0.01,1679
+INRA,2,1,0,0.01,1680
+INTELnet,2,1,0,0.01,1681
+"INTERNET CZ, a.s.",2,1,0,0.01,1682
+INTRED SPA,2,0,0,0.01,1683
+IKS GmbH,2,1,0,0.01,1684
+IMS NETWORK,2,1,0,0.01,1685
+Volia,2,1,0,0.01,1686
+VolkerWessels,2,1,0,0.01,1687
+VIVACOM,2,0,0,0.01,1688
+IPB Internet Provider in Berlin GmbH,2,1,0,0.01,1689
+IPSERV,2,1,0,0.01,1690
+IPXON Networks (Conexum),2,1,0,0.01,1691
+IP Exchange,2,1,0,0.01,1692
+IP House,2,2,0,0.01,1693
+WaikatoOne,2,1,0,0.01,1694
+Wallonie Data Center SA,2,1,0,0.01,1695
+Walter Rhodes Data Services Sdn Bhd,2,1,0,0.01,1696
+WEBDEV,2,1,0,0.01,1697
+WEST AFRICA DATABRIDGE,2,1,0,0.01,1698
+WOW Business/E Solutions,2,1,0,0.01,1699
+Voxbras,2,1,0,0.01,1700
+Voyager Internet Ltd,2,0,0,0.01,1701
+Directorate General of Taxes,2,1,0,0.01,1702
+Disney,2,1,2,0.01,1703
+Distinct,2,1,0,0.01,1704
+Divemotor,2,1,0,0.01,1705
+Djibouti Data Center (DDC),2,1,0,0.01,1706
+DoclerWeb Kft,2,1,0,0.01,1707
+EdgeBCC,2,1,2,0.01,1708
+EdgeCloudLink (ECL),2,1,0,0.01,1709
+ISAE École nationale supérieure de l'aéronautique et de l'espace,2,1,0,0.01,1710
+ISC (Indonesia Super Corridor),2,1,0,0.01,1711
+Inditex,2,1,0,0.01,1712
+Indonesia Internet Exchange (IIX),2,1,0,0.01,1713
+Dynaworx,2,0,0,0.01,1714
+EBM Telecom AG,2,1,0,0.01,1715
+Downtown Properties Holdings,2,1,0,0.01,1716
+Dubai Silicon Oasis Authority,2,1,0,0.01,1717
+ISP Services (CleanPort BV),2,1,0,0.01,1718
+ISSAL,2,1,0,0.01,1719
+ISafeTECH,2,1,2,0.01,1720
+IStreet Solutions,2,1,2,0.01,1721
+IT Guru Solutions,2,1,0,0.01,1722
+IT Park,2,1,0,0.01,1723
+IPswiTch Group,2,1,0,0.01,1724
+IRIS,2,1,2,0.01,1725
+IT TEL,2,1,0,0.01,1726
+IT Vision Technology,2,1,0,0.01,1727
+IT.Gate S.p.A.,2,1,0,0.01,1728
+ITC-Servicios,2,1,0,0.01,1729
+ITD Networks,2,0,0,0.01,1730
+ITDev Solutions,2,1,0,0.01,1731
+ITPS,2,1,0,0.01,1732
+ISG Technology,2,1,0,0.01,1733
+Instituto Nacional de Fomento da Sociedade da Informação (INFOSI),2,1,0,0.01,1734
+Inteliquent,2,1,2,0.01,1735
+Infracom Italia S.p.A.,2,1,0,0.01,1736
+Infrastructure Technology Solutions,2,1,2,0.01,1737
+Init7,2,1,0,0.01,1738
+Injazat Data Systems,2,1,0,0.01,1739
+Inmarsat,2,1,0,0.01,1740
+Innotas,2,1,0,0.01,1741
+IX liverpool limited,2,0,0,0.01,1742
+IXcellerate,2,1,0,0.01,1743
+IZZI,2,1,0,0.01,1744
+Iaas Datacenter,2,0,0,0.01,1745
+Ib Telecom,2,1,0,0.01,1746
+"Iberbanda, S.A",2,1,0,0.01,1747
+Insiel,2,1,0,0.01,1748
+Inspur Group,2,1,0,0.01,1749
+InAsset Srl,2,1,0,0.01,1750
+InGo,2,1,0,0.01,1751
+Independent Colocation,2,1,0,0.01,1752
+Indiana Data Center,2,1,2,0.01,1753
+Indiana NAP,2,2,1,0.01,1754
+IbericaHost,2,1,0,0.01,1755
+Imagine IPS,2,1,0,0.01,1756
+Imam Abdulrahman Bin Faisal University,2,1,0,0.01,1757
+EdgeIT,2,1,0,0.01,1758
+Ecologic Datacenters,2,1,0,0.01,1759
+EconDC,2,1,0,0.01,1760
+EdcNet,2,1,0,0.01,1761
+Eagle Eye Networks,2,1,2,0.01,1762
+Earthnet,2,1,2,0.01,1763
+East African Development Bank,2,1,0,0.01,1764
+Inea,2,1,0,0.01,1765
+DigiLink,2,1,2,0.01,1766
+DigiPower X,2,1,0,0.01,1767
+Digital Core REIT,2,1,0,0.01,1768
+Delta Telecom,2,1,0,0.01,1769
+Deltalis SA,2,1,0,0.01,1770
+Densitas AG,2,1,0,0.01,1771
+Deutsche Telekom,2,1,0,0.01,1772
+Deutsche Welle,2,1,0,0.01,1773
+Internet Company of New Zealand Limited (ICONZ),2,1,0,0.01,1774
+Internet For Business Ltd. (IFB),2,1,0,0.01,1775
+Internet Initiative Japan,2,0,0,0.01,1776
+Digital Residence BV,2,1,0,0.01,1777
+Digital Sense Pty Ltd,2,1,0,0.01,1778
+Dhecyber,2,1,0,0.01,1779
+Dial Telecom,2,1,0,0.01,1780
+Die Nessus,2,1,0,0.01,1781
+Infinity Internet,2,1,2,0.01,1782
+Info Data Center,2,1,0,0.01,1783
+Internet Solutions Nigeria Limited (ISN),2,1,0,0.01,1784
+Internet Szolgáltatók Tanácsa,2,1,0,0.01,1785
+"Internet Technologies Angola, S.A. (ITA)",2,1,0,0.01,1786
+Internetworking Atlantic Inc. (IAI),2,1,0,0.01,1787
+Internic,2,1,0,0.01,1788
+IntermediaSP (Interdotnet Argentina),2,1,0,0.01,1789
+InfoBunker,2,1,2,0.01,1790
+Infonet DC,2,1,0,0.01,1791
+Infopact Network Solutions,2,1,0,0.01,1792
+Informatics Engineering Services Limited,2,1,0,0.01,1793
+Information and Communication Technology (ICT) Authority,2,1,0,0.01,1794
+Inforsud,2,1,0,0.01,1795
+Infinitely Virtual,2,1,2,0.01,1796
+Infinity Hosting Solutions,2,1,2,0.01,1797
+Univates,2,1,0,0.01,1798
+University Corporation for Atmospheric Research,2,1,2,0.01,1799
+Datum Datacentres Limited,2,0,0,0.01,1800
+Datum Datacentres Ltd,2,1,0,0.01,1801
+De Novo,2,1,0,0.01,1802
+De Spaanse Kubus,2,1,0,0.01,1803
+Decsis,2,1,0,0.01,1804
+Datatelekom Telekomunikasyon Hizmetleri Ltd. Sti.,2,1,0,0.01,1805
+V-Valley,2,1,0,0.01,1806
+University of Namibia,2,1,0,0.01,1807
+University of North Dakota,2,1,2,0.01,1808
+"University of Porto, Faculty of Sciences (FEUP)",2,1,0,0.01,1809
+University of Vienna,2,1,0,0.01,1810
+University of Wisconsin-Madison,2,1,2,0.01,1811
+Unix Solutions,2,0,0,0.01,1812
+United Parcel Service of America (UPS),2,2,1,0.01,1813
+Interfiber,2,1,0,0.01,1814
+Intergen,2,1,0,0.01,1815
+InterBox Internet,2,1,0,0.01,1816
+InterNexo,2,1,0,0.01,1817
+Unotel,2,1,0,0.01,1818
+Untangled Technology,2,1,2,0.01,1819
+Upload,2,2,1,0.01,1820
+Uztelekom,2,1,0,0.01,1821
+Dexus Property Group,2,1,0,0.01,1822
+EDGNEX,2,1,0,0.01,1823
+EDIS GmbH,2,0,0,0.01,1824
+ENI,2,1,0,0.01,1825
+ENNE Solutions,2,1,0,0.01,1826
+EO Data Center,2,1,0,0.01,1827
+Dutch-Bangla Bank,2,1,0,0.01,1828
+Dynamic Quest,2,1,2,0.01,1829
+Ipera,2,1,0,0.01,1830
+Iron Rails Data Centers,2,0,0,0.01,1831
+Intersquare,2,1,0,0.01,1832
+Interwerk,2,1,0,0.01,1833
+KIRZ,2,1,0,0.01,1834
+KPNQwest Italia SpA,2,1,0,0.01,1835
+KT,2,1,0,0.01,1836
+Kagoya Japan,2,0,0,0.01,1837
+JHJC Kort,2,2,0,0.01,1838
+JMA Ventures,2,1,2,0.01,1839
+JMA Wired,2,1,2,0.01,1840
+Iserv,2,1,2,0.01,1841
+Isocel Telecom,2,1,0,0.01,1842
+Isocentric Networks,2,1,2,0.01,1843
+Iowa Network Services,2,1,2,0.01,1844
+IpHouse,2,1,2,0.01,1845
+Direction Régionale des Douanes et Droits Indirects,2,1,0,0.01,1846
+University Heidelberg,2,1,0,0.01,1847
+University of Colorado,2,2,1,0.01,1848
+University of Lahore,2,1,0,0.01,1849
+Unet,2,1,0,0.01,1850
+Unica Schutte ICT,2,1,0,0.01,1851
+Unilogic Networks B.V.,2,1,0,0.01,1852
+Unite Private Networks,2,1,2,0.01,1853
+Datavag,2,1,0,0.01,1854
+Datawire AG,2,0,0,0.01,1855
+Datamena,2,1,0,0.01,1856
+Dataneum,2,1,0,0.01,1857
+Datapark Nederland,2,1,0,0.01,1858
+Datasix,2,1,0,0.01,1859
+Datatech,2,1,2,0.01,1860
+Direct LTx,2,1,0,0.01,1861
+Datacampus,2,1,0,0.01,1862
+Datacenter,2,1,0,0.01,1863
+Datacenter 101,2,1,2,0.01,1864
+Datacenter Brabant,2,1,0,0.01,1865
+Datacenter Groningen,2,1,0,0.01,1866
+DataVita Ltd,2,0,0,0.01,1867
+DataVolt,2,0,0,0.01,1868
+DataYard,2,1,0,0.01,1869
+Datagrex,2,1,0,0.01,1870
+Datahall Data Center,2,1,0,0.01,1871
+Datahata,2,1,0,0.01,1872
+Datacenter Nedzone,2,1,0,0.01,1873
+Datacenter Noord Holland,2,1,0,0.01,1874
+Datacenter.com,2,1,0,0.01,1875
+Datacomm Diangraha,2,1,0,0.01,1876
+Datacube,2,1,0,0.01,1877
+Jaguar Network SAS,2,1,0,0.01,1878
+Jakob Hatteland Solutions AS,2,0,0,0.01,1879
+Japan Land Limited,2,1,0,0.01,1880
+Jasco Electronics Holdings,2,1,0,0.01,1881
+Jay.net A/S,2,1,0,0.01,1882
+JeannComputech Corporation,2,2,1,0.01,1883
+We Dare BV,2,1,0,0.01,1884
+Datadock,2,1,0,0.01,1885
+KDweb,2,1,2,0.01,1886
+KEYANA IT Co.,2,1,0,0.01,1887
+Joes Datacenter,2,1,2,0.01,1888
+Johannesburg Stock Exchange (The JSE Ltd),2,1,0,0.01,1889
+John Hancock Financial Center,2,2,1,0.01,1890
+"Johnston, Dick & Associates (JDA)",2,1,0,0.01,1891
+Jomo Kenyatta University of Agriculture and Technology in Kenya (JKUAT),2,1,0,0.01,1892
+Jupiter,2,1,0,0.01,1893
+Lancom,2,0,0,0.01,1894
+LINZ AG TELEKOM,2,0,0,0.01,1895
+LOGIX Fiber Networks,2,0,0,0.01,1896
+LV.net,2,1,2,0.01,1897
+LVRTC,2,1,0,0.01,1898
+"LDeX, an iomart company",2,0,0,0.01,1899
+LEW TelNet,2,1,0,0.01,1900
+LG Telecom,2,1,0,0.01,1901
+Kielnet,2,1,0,0.01,1902
+Kiemle & Hagood,2,1,2,0.01,1903
+King Faisal University,2,1,0,0.01,1904
+Kanbar Properties KPM,2,1,2,0.01,1905
+Kanobe,2,1,2,0.01,1906
+Kedia Infotech Limited,2,1,0,0.01,1907
+LaSoTel,2,1,0,0.01,1908
+LabGroup,2,1,0,0.01,1909
+KingHost,2,1,0,0.01,1910
+Kinross Gold Corporation,2,1,0,0.01,1911
+Knight Capital Group,2,1,2,0.01,1912
+Knowledge IT,2,1,0,0.01,1913
+Koc.net Communication Technologies and Services,2,1,0,0.01,1914
+Kolos Norway,2,1,0,0.01,1915
+KeySpan Communications,2,1,2,0.01,1916
+Kheops Organisation,2,1,0,0.01,1917
+Databarn Rivium B.V,2,2,0,0.01,1918
+Datacamp.cz (SuperNetwork Ltd.),2,1,0,0.01,1919
+Dedicated Servers,2,1,0,0.01,1920
+Defense Datacenter,2,1,0,0.01,1921
+Kontron AG,2,0,0,0.01,1922
+Koonk Technologies,2,1,0,0.01,1923
+Kroll Ontrack,2,1,0,0.01,1924
+Kulacom,2,1,0,0.01,1925
+Webspesialisten,2,1,0,0.01,1926
+Weidenhammer,2,1,2,0.01,1927
+Web Werks,2,1,0,0.01,1928
+WebDC,2,1,0,0.01,1929
+Webair Internet Development,2,1,2,0.01,1930
+Warsaw Data Center (WDC),2,1,0,0.01,1931
+Warsaw Stock Exchange,2,1,0,0.01,1932
+Wateen Telecom,2,1,0,0.01,1933
+Data Techno Park sp. z o.o.,2,1,0,0.01,1934
+Data Utama Net,2,1,0,0.01,1935
+Data Valley Enterprises,2,1,0,0.01,1936
+Data102,2,1,2,0.01,1937
+Data393 Holdings,2,1,2,0.01,1938
+Westland Bunker,2,1,2,0.01,1939
+Webfactor,2,1,0,0.01,1940
+Webplus24 GmbH,2,1,0,0.01,1941
+Life Web Hosting,2,1,0,0.01,1942
+Lifeline data centers,2,0,0,0.01,1943
+Lepida,2,0,0,0.01,1944
+Let's Host,2,1,0,0.01,1945
+Levira,2,1,0,0.01,1946
+DataCenter Groningen,2,1,0,0.01,1947
+DataCenter Itech,2,1,0,0.01,1948
+DataCenter.BZ,2,1,2,0.01,1949
+LG Uplus,2,1,0,0.01,1950
+LIA,2,1,0,0.01,1951
+LIM,2,1,0,0.01,1952
+Kuwait National Guard,2,1,0,0.01,1953
+Kylos,2,1,0,0.01,1954
+LAN Services AG,2,1,0,0.01,1955
+LCP NV,2,1,0,0.01,1956
+Libya Telecom and Technology,2,1,0,0.01,1957
+Data Centre Limited (DataCentre220),2,1,0,0.01,1958
+DTS-Net,2,1,2,0.01,1959
+DYXnet Group,2,1,0,0.01,1960
+Dacentec,2,1,2,0.01,1961
+Daisy Group Plc.,2,1,0,0.01,1962
+Dakota Carrier Network,2,1,0,0.01,1963
+DanDomain,2,1,0,0.01,1964
+DataOne Lyon,2,0,0,0.01,1965
+US Secure Hosting Center (USSHC),2,1,2,0.01,1966
+UIH,2,0,0,0.01,1967
+Data Components Integration Sdn Bhd,2,1,0,0.01,1968
+Data Exchange Europe BV,2,1,0,0.01,1969
+"Data Ark Systems, LLC.",2,1,2,0.01,1970
+Data Cave,2,1,2,0.01,1971
+Data Center NYC,2,1,2,0.01,1972
+Data Centers Canada,2,1,0,0.01,1973
+LatinCloud,2,1,0,0.01,1974
+Uganda Internet Exchange Point (UiXP),2,1,0,0.01,1975
+Uganda Telecom,2,1,0,0.01,1976
+Ultrasitios,2,1,0,0.01,1977
+Ulyanovsk Internet Exchange (ULN-IX),2,1,0,0.01,1978
+Umbrellar limited,2,0,0,0.01,1979
+Uber,2,1,2,0.01,1980
+UPL Telekom,2,1,0,0.01,1981
+Waveform Technology,2,1,2,0.01,1982
+WayWeb.com,2,1,0,0.01,1983
+Waymark Communications,2,1,2,0.01,1984
+Liander,2,1,0,0.01,1985
+Layered Technologies,2,1,2,0.01,1986
+LeapSwitch Networks Pvt Limited,2,1,0,0.01,1987
+Lebanese For Advanced Information LFAIT,2,1,0,0.01,1988
+Lefdal Mine Datacenter,2,1,0,0.01,1989
+DLX AS,2,1,0,0.01,1990
+DMG Blockchain Solutions,2,0,0,0.01,1991
+DNS:NET,2,1,0,0.01,1992
+DCI Data Center Services,2,0,0,0.01,1993
+DCSTAR,2,0,0,0.01,1994
+DCforData,2,1,0,0.01,1995
+DEAC,2,1,0,0.01,1996
+DC Vault,2,1,0,0.01,1997
+LightPoint Colocation & Hosting,2,1,2,0.01,1998
+LightStorm Communications s.r.o.,2,1,0,0.01,1999
+M-Net Telecommunications,2,1,0,0.01,2000
+DRS,2,1,2,0.01,2001
+DTS Service GmbH,2,1,0,0.01,2002
+DGN Teknoloji,2,1,0,0.01,2003
+DHData,2,1,0,0.01,2004
+DLI ONE,2,2,1,0.01,2005
+Logicalis Group,2,1,0,0.01,2006
+Lintasarta,2,0,0,0.01,2007
+Linx Datacenter,2,0,0,0.01,2008
+Linz AG Telekom,2,1,0,0.01,2009
+Link Data Center,2,1,0,0.01,2010
+Link Datacenter,2,1,0,0.01,2011
+Linkbynet,2,1,0,0.01,2012
+Linode,2,1,0,0.01,2013
+DataGalaxy,2,1,0,0.01,2014
+DataHive,2,1,0,0.01,2015
+DataBridge Sites,2,0,0,0.01,2016
+ULI - Utility Line Italia srl,2,1,0,0.01,2017
+UNISYS,2,1,2,0.01,2018
+UNITED COLO GmbH,2,1,0,0.01,2019
+Logic Plus,2,1,0,0.01,2020
+LogicMonitor,2,1,0,0.01,2021
+DASSAULT,2,1,0,0.01,2022
+DATA ZYX SRL,2,1,0,0.01,2023
+DATAWIRE AG,2,1,0,0.01,2024
+Cyquator Technologies,2,1,0,0.01,2025
+D-ALiX,2,1,0,0.01,2026
+D-Hosting GmbH,2,1,0,0.01,2027
+DAMAMAX,2,1,0,0.01,2028
+DARZ,2,1,0,0.01,2029
+MULTICOMS FACILITIES MANAGEMENT,2,1,0,0.01,2030
+Mac Mini Vault,2,1,2,0.01,2031
+Magna5,2,1,2,0.01,2032
+Wholesale Internet,2,1,2,0.01,2033
+Wholesale Internet INC.,2,0,0,0.01,2034
+Wi-Manx,2,1,0,0.01,2035
+WiTCOM,2,0,0,0.01,2036
+WickedWay,2,1,0,0.01,2037
+Luna.nl,2,1,0,0.01,2038
+Lotus Wireless,2,1,0,0.01,2039
+Louhi Networks Oy,2,1,0,0.01,2040
+Lowe's,2,1,2,0.01,2041
+Logosnet Services LTD,2,1,0,0.01,2042
+London Stock Exchange plc,2,1,0,0.01,2043
+Long Port Group,2,1,0,0.01,2044
+Looking Glass Networks,2,1,2,0.01,2045
+DC2Scale,2,0,0,0.01,2046
+Data Holdings Data Center,2,0,0,0.01,2047
+Data Inn,2,1,0,0.01,2048
+Data Shelter,2,1,0,0.01,2049
+Data Stream,2,1,2,0.01,2050
+Data Centre Ventures,2,1,0,0.01,2051
+M1 Ltd,2,1,0,0.01,2052
+M2 Commander Pty,2,1,0,0.01,2053
+Masmovil Group,2,0,0,0.01,2054
+Mapletree Logistics Trust (MLT),2,1,0,0.01,2055
+Mariaplaats C.V.,2,1,0,0.01,2056
+Marias Technology,2,1,2,0.01,2057
+Marketo,2,1,0,0.01,2058
+Mainstream Technologies,2,1,2,0.01,2059
+Malaga Data Center,2,1,0,0.01,2060
+ManagedWay Company,2,1,0,0.01,2061
+MINISTERE DE L'AGRICULTURE ET DE LA PECHE,2,1,0,0.01,2062
+MK Datavault,2,1,0,0.01,2063
+MMTS-9 (Moscow Long Distance Telephone Station number 9),2,1,0,0.01,2064
+MCF Group Estonia,2,1,0,0.01,2065
+MCFMAX,2,1,2,0.01,2066
+MDENP,2,1,0,0.01,2067
+Markoja d.o.o.,2,1,0,0.01,2068
+Marlin eSolutions,2,1,2,0.01,2069
+DQE Communications,2,1,0,0.01,2070
+Mahanagar Telephone Nigam Limited (MTNL),2,1,0,0.01,2071
+MTF Swiss Cloud,2,1,0,0.01,2072
+MTV,2,1,0,0.01,2073
+MTW.ru,2,0,0,0.01,2074
+MEASAT Broadcast Network Systems,2,1,0,0.01,2075
+METEO FRANCE,2,1,0,0.01,2076
+MIDCON,2,1,2,0.01,2077
+Cyberfuel,2,1,0,0.01,2078
+Cybernet,2,1,0,0.01,2079
+Cybertechtonic Pratama,2,1,0,0.01,2080
+Cyllene Solution,2,0,0,0.01,2081
+CyberBunker,2,1,0,0.01,2082
+CyberTrails,2,1,2,0.01,2083
+Cybercon,2,1,2,0.01,2084
+DOTSI,2,1,0,0.01,2085
+Cork Internet exchange CIX,2,1,0,0.01,2086
+Corserva,2,1,0,0.01,2087
+County Government of Uasin Gishu,2,1,0,0.01,2088
+Worknet,2,1,2,0.01,2089
+World4You Internet Services GmbH,2,0,0,0.01,2090
+WorldLink Internet Services,2,1,2,0.01,2091
+Wintek,2,1,2,0.01,2092
+Wnet,2,1,0,0.01,2093
+Mediatec Solutions,2,1,0,0.01,2094
+Medyabim Internet Hizmetleri,2,1,0,0.01,2095
+Max Delbrück Center for Molecular Medicine in the Helmholtz Association,2,1,0,0.01,2096
+Cox Communications,2,1,2,0.01,2097
+Creative Network Innovations (CNI),2,1,2,0.01,2098
+Critical Colocation,2,1,0,0.01,2099
+CoreXchange,2,1,2,0.01,2100
+Coreix Limited,2,1,0,0.01,2101
+MegaHostZone,2,1,0,0.01,2102
+Megawire,2,0,0,0.01,2103
+Melbourne Data Centre,2,1,0,0.01,2104
+Melbourne Network Solutions,2,1,0,0.01,2105
+Media Inter Data,2,1,0,0.01,2106
+Media Sat,2,1,0,0.01,2107
+MediaCloud,2,0,0,0.01,2108
+Mediactive Network,2,1,0,0.01,2109
+Management Science,2,0,0,0.01,2110
+Management Science Associates,2,1,0,0.01,2111
+Manitoba Telecom Services (MTS),2,1,0,0.01,2112
+Maila Networks,2,0,0,0.01,2113
+Main Place Mall,2,1,2,0.01,2114
+Maincubes,2,0,0,0.01,2115
+Mainova,2,1,0,0.01,2116
+MegaGate Broadband,2,1,2,0.01,2117
+TurkNet Iletisim Hizmetleri,2,1,0,0.01,2118
+Turkcell Superonline,2,1,0,0.01,2119
+TurnKey Services AG,2,1,0,0.01,2120
+Trijit,2,1,0,0.01,2121
+CoolWave Communications BV,2,1,0,0.01,2122
+Core NAP,2,1,2,0.01,2123
+Contell,2,1,0,0.01,2124
+Continental Automotive,2,1,0,0.01,2125
+UFAM Universidade Federal do Amazonas,2,1,0,0.01,2126
+UFSCAR Universidade Federal de São Carlos,2,1,0,0.01,2127
+Tusmobil,2,1,0,0.01,2128
+Tux Internet,2,1,0,0.01,2129
+Tver Life,2,1,0,0.01,2130
+Tyco,2,1,0,0.01,2131
+Türk Telekom,2,1,0,0.01,2132
+Tunisie Telecom,2,1,0,0.01,2133
+Matrix Telecommunications Corporation,2,1,2,0.01,2134
+Mauritius Network Services (MNS),2,1,0,0.01,2135
+Mauritius Telecom,2,1,0,0.01,2136
+U.S. NetworX,2,1,2,0.01,2137
+UAE Telecommunications Regulatory Authority (TRA),2,1,0,0.01,2138
+UBS AG,2,2,1,0.01,2139
+UEL Universidade Estadual de Londrina,2,1,0,0.01,2140
+UEM - Universidade Estadual de Maringá,2,1,0,0.01,2141
+Wide Host Media,2,0,0,0.01,2142
+WideXS,2,1,0,0.01,2143
+WideXS / ion-ip B.V.,2,1,0,0.01,2144
+Wilcon,2,1,2,0.01,2145
+McHugh Construction,2,1,2,0.01,2146
+Medasys,2,1,0,0.01,2147
+Match-IT.NET C.V.,2,1,0,0.01,2148
+Matrix Internet,2,1,0,0.01,2149
+Miami Data Vault,2,1,2,0.01,2150
+Merit Group a.s.,2,1,0,0.01,2151
+Metro Datacenter,2,1,2,0.01,2152
+Multipla,2,1,0,0.01,2153
+Multipolar Technology,2,1,0,0.01,2154
+Mundivox,2,1,0,0.01,2155
+MyServer,2,1,0,0.01,2156
+Moro Hub,2,1,0,0.01,2157
+MigSolv,2,1,0,0.01,2158
+Milan Internet eXchange (MIX-IT),2,1,0,0.01,2159
+MindSHIFT,2,1,2,0.01,2160
+MicroHosting,2,1,0,0.01,2161
+Microlink,2,0,0,0.01,2162
+Micron21 Pty,2,1,0,0.01,2163
+Midco,2,1,0,0.01,2164
+Midco Business,2,0,0,0.01,2165
+Custodian Data Centres,2,0,0,0.01,2166
+Cyber Cast International,2,1,0,0.01,2167
+Cyber Data Center International,2,1,0,0.01,2168
+Crossconnectsolutions,2,1,2,0.01,2169
+CryptoMine,2,1,0,0.01,2170
+Tripnet AB,2,1,0,0.01,2171
+Tsohost,2,1,0,0.01,2172
+Midwest Energy & Communications,2,1,0,0.01,2173
+Continental Realty,2,1,2,0.01,2174
+ContinuityMauritius Co.,2,1,0,0.01,2175
+Continuum Datacenters,2,1,2,0.01,2176
+Connectria,2,1,2,0.01,2177
+Conova Communications GmbH,2,0,0,0.01,2178
+Contegix,2,1,0,0.01,2179
+Cushman & Wakefield,2,1,0,0.01,2180
+Custodian Data Centre,2,1,0,0.01,2181
+Concepts ICT Holding B.V.,2,1,0,0.01,2182
+Confisio,2,1,0,0.01,2183
+Connected sp. z o.o.,2,1,0,0.01,2184
+Compass Plus,2,1,0,0.01,2185
+Completel,2,1,0,0.01,2186
+Computel,2,1,0,0.01,2187
+Computel Standby BV,2,1,0,0.01,2188
+Comcast Cable,2,1,2,0.01,2189
+NJFX,2,1,0,0.01,2190
+NM Net ApS,2,1,0,0.01,2191
+NOCIX,2,1,0,0.01,2192
+NEXLINX,2,1,0,0.01,2193
+XC Networks,2,2,1,0.01,2194
+XIOLINK,2,1,2,0.01,2195
+Computer Solutions,2,1,0,0.01,2196
+Computer Warehouse Group,2,1,0,0.01,2197
+Ministry of Communications and Information Technology,2,1,0,0.01,2198
+Ministry of National Guard,2,1,0,0.01,2199
+Ministry of Transportation and Communications,2,1,0,0.01,2200
+Ministry of Women and Vulnerable Populations,2,1,0,0.01,2201
+Mirelda Properties Limited,2,1,0,0.01,2202
+Mitsubishi,2,1,0,0.01,2203
+NIC.br (The Brazilian Network Information Center),2,1,0,0.01,2204
+NIX CNI Data Center,2,1,0,0.01,2205
+Morpho,2,1,0,0.01,2206
+Mountain West Technology Networks,2,0,0,0.01,2207
+Mtel,2,1,0,0.01,2208
+Muller & Associates,2,1,0,0.01,2209
+Monaco Telecom,2,1,0,0.01,2210
+Monarch Aircraft Engineering,2,1,0,0.01,2211
+MontanaSky Networks,2,1,2,0.01,2212
+Moresi.Com SA,2,1,0,0.01,2213
+ColoUnlimited,2,1,2,0.01,2214
+Colobale,2,1,0,0.01,2215
+ColoBâle AG,2,1,0,0.01,2216
+ColoCAT,2,1,0,0.01,2217
+ColoCenter bv,2,1,0,0.01,2218
+ColoGuard,2,1,2,0.01,2219
+Xilogix,2,1,2,0.01,2220
+Xsalto,2,1,0,0.01,2221
+Naquadria,2,1,0,0.01,2222
+Nashirnet National Computer Systems Co.,2,1,0,0.01,2223
+National Bank of Kuwait (NBK),2,1,0,0.01,2224
+National Commercial Bank,2,1,0,0.01,2225
+National Information Technologies Joint Stock Company (NIT JSC),2,1,0,0.01,2226
+NYI,2,0,0,0.01,2227
+Naitel,2,1,0,0.01,2228
+ColoHub,2,1,2,0.01,2229
+NED INC.,2,0,0,0.01,2230
+N2N Connect,2,1,0,0.01,2231
+NAPWACI,2,1,0,0.01,2232
+NASA Integrated Services Network,2,1,2,0.01,2233
+NASA space agency,2,1,2,0.01,2234
+NASPlex,2,1,2,0.01,2235
+NBrIX,2,1,0,0.01,2236
+Nano IT SIA,2,1,0,0.01,2237
+Colostore.com,2,1,2,0.01,2238
+Colozug.ch,2,1,0,0.01,2239
+Core Services,2,1,2,0.01,2240
+CoreIT,2,1,2,0.01,2241
+NFrance,2,1,0,0.01,2242
+NGN Bilgi ve Iletisim Hizmetleri,2,1,0,0.01,2243
+NDC Host,2,2,1,0.01,2244
+NDIX bv,2,1,0,0.01,2245
+Transcendent,2,2,1,0.01,2246
+Transit America Data Center,2,2,1,0.01,2247
+Tower Property Fund,2,1,0,0.01,2248
+Towne Investments,2,1,2,0.01,2249
+Tissat,2,1,0,0.01,2250
+Titan Datacenters,2,1,0,0.01,2251
+Titania,2,1,0,0.01,2252
+Tokyo Stock Exchange (TSE),2,1,0,0.01,2253
+"Transportes Ochoa, S.A.",2,1,0,0.01,2254
+Transtelco,2,1,2,0.01,2255
+Transwestern,2,1,2,0.01,2256
+Travelport,2,1,2,0.01,2257
+Treureal Property Management GmbH,2,1,0,0.01,2258
+TransACT Capital Communications Pty Ltd,2,1,0,0.01,2259
+TransData AS,2,0,0,0.01,2260
+Transbeam,2,1,2,0.01,2261
+Xifos Limited,2,1,0,0.01,2262
+XNet,2,1,2,0.01,2263
+XS4ALL Internet B.V.,2,1,0,0.01,2264
+Xecunet,2,1,2,0.01,2265
+Worldstream,2,1,0,0.01,2266
+NOVA Corporation,2,1,2,0.01,2267
+NS3 SRL,2,0,0,0.01,2268
+NTP network,2,1,0,0.01,2269
+Xtreme Networks,2,1,0,0.01,2270
+Yardi,2,1,0,0.01,2271
+Yasref Company,2,1,0,0.01,2272
+Yellowstone Regional Internet Exchange (YRIX),2,1,2,0.01,2273
+Xerox,2,1,0,0.01,2274
+Xerox Powerland,2,0,0,0.01,2275
+Xertix,2,1,0,0.01,2276
+Xiaomi,2,1,0,0.01,2277
+Cloudsmart,2,1,0,0.01,2278
+Clise Properties,2,1,2,0.01,2279
+Cloud Center Andalucía,2,1,0,0.01,2280
+Cloud4C,2,1,0,0.01,2281
+Colocity,2,0,0,0.01,2282
+Colocity Pty Ltd,2,1,0,0.01,2283
+Cologne Broadcasting Center,2,1,0,0.01,2284
+Colocation.bg,2,1,0,0.01,2285
+National Information Technology Authority-Uganda (NITA-U),2,1,0,0.01,2286
+National Institute of Information and Communication Technologies (INTIC),2,1,0,0.01,2287
+Coal India Limited,2,1,0,0.01,2288
+Coaxis,2,1,0,0.01,2289
+Codisa,2,1,0,0.01,2290
+CloudFirst,2,1,0,0.01,2291
+Cloudata,2,1,0,0.01,2292
+Cloudnium LLC.,2,1,0,0.01,2293
+Nebula Oy,2,1,0,0.01,2294
+Nedcomp,2,1,0,0.01,2295
+NationalNet,2,1,2,0.01,2296
+Nationwide,2,1,2,0.01,2297
+Nautilus Data Technologies,2,1,0,0.01,2298
+NavLink,2,1,0,0.01,2299
+Navajo Tribal Utility Authority,2,1,2,0.01,2300
+Navegalo,2,1,0,0.01,2301
+Tolar Systems,2,2,1,0.01,2302
+Tonaquint Data Center,2,1,2,0.01,2303
+NeoSoft Technologies,2,1,0,0.01,2304
+Neoclyde,2,1,0,0.01,2305
+Neolo.com,2,1,0,0.01,2306
+NephoScale,2,1,2,0.01,2307
+Nestlé,2,1,0,0.01,2308
+Nebraska Colocation Centers,2,1,2,0.01,2309
+Clear Channel,2,1,2,0.01,2310
+City of Ingolstadt,2,1,0,0.01,2311
+Cisco Systems,2,1,0,0.01,2312
+Citigroup,2,0,0,0.01,2313
+City Hosting,2,0,0,0.01,2314
+City Lifeline,2,1,0,0.01,2315
+City Network Hosting AB,2,1,0,0.01,2316
+City and Provincial Properties,2,1,0,0.01,2317
+Netage.bg,2,1,0,0.01,2318
+Netcetera Limited,2,1,0,0.01,2319
+NetApp,2,1,2,0.01,2320
+NetBotanic,2,1,0,0.01,2321
+NetCologne GmbH,2,1,0,0.01,2322
+NetDataVault,2,1,0,0.01,2323
+Clinch,2,1,0,0.01,2324
+Cizgi Telekom,2,1,0,0.01,2325
+NetcroHosting,2,1,0,0.01,2326
+Netdoor,2,1,2,0.01,2327
+Netinternet,2,1,0,0.01,2328
+NetOne IT,2,1,0,0.01,2329
+NetRiver,2,1,2,0.01,2330
+NetSource,2,1,2,0.01,2331
+NetSource Communications,2,1,0,0.01,2332
+NetStandard,2,1,2,0.01,2333
+National Laboratory of Civil Engineering (LNEC),2,1,0,0.01,2334
+National Petroleum Corporation of Namibia (Namcor),2,1,0,0.01,2335
+National Post and Telecom Agency,2,1,0,0.01,2336
+Netnik,2,1,0,0.01,2337
+Netpozitif Telekomünikasyon Hizmetleri,2,1,0,0.01,2338
+Netriplex,2,1,2,0.01,2339
+Netscalibur,2,1,0,0.01,2340
+Netcologne Gesellschaft fur telekommunikation mbh,2,0,0,0.01,2341
+Nissan,2,1,0,0.01,2342
+Nitel Tech.Engineering Co.,2,1,0,0.01,2343
+Nixdoft Data Center (NDC),2,1,0,0.01,2344
+"Ngoya ETIX DC (Ghana) Limited ( trading as "" ONIX"")",2,1,0,0.01,2345
+NiNet doo,2,1,0,0.01,2346
+Nian A / S,2,1,0,0.01,2347
+Nic Br,2,0,0,0.01,2348
+Nine Internet Solutions AG,2,1,0,0.01,2349
+Neutral Data Centers,2,1,0,0.01,2350
+Neutron,2,1,0,0.01,2351
+Netsolus,2,1,2,0.01,2352
+Netspace Services Limited,2,1,0,0.01,2353
+Network Communication Sp. z o.o.,2,1,0,0.01,2354
+Network Communications,2,2,1,0.01,2355
+Niobrara NatGas,2,1,2,0.01,2356
+NipBr,2,1,0,0.01,2357
+Newnote Networks,2,1,0,0.01,2358
+Neutron Colocation,2,0,0,0.01,2359
+New England Data Services,2,1,2,0.01,2360
+New Jersey Fiber Exchange (NJFX),2,1,2,0.01,2361
+Network-I,2,1,0,0.01,2362
+NeuStyle Software & Systems Corporation,2,1,0,0.01,2363
+Neucentrix,2,0,0,0.01,2364
+Neutral Data Center Sp. z o.o.,2,1,0,0.01,2365
+Coinmint,2,2,1,0.01,2366
+Colo Facilities Atlanta,2,1,2,0.01,2367
+Colo Locker - Evocative,2,0,0,0.01,2368
+CoLouisiana,2,1,2,0.01,2369
+NetDocuments,2,1,0,0.01,2370
+NewColo,2,1,0,0.01,2371
+NewTelco GmbH,2,1,0,0.01,2372
+NewTelco Ukraine,2,1,0,0.01,2373
+Chip Electronic Services Ltd,2,1,0,0.01,2374
+Charter Communications,2,1,2,0.01,2375
+Chevron,2,1,2,0.01,2376
+China Datacom,2,1,0,0.01,2377
+China Life Insurance,2,1,0,0.01,2378
+Cepromat,2,1,0,0.01,2379
+Ch-net S.R.L.,2,1,0,0.01,2380
+Chapal,2,1,0,0.01,2381
+Chunghwa Telecom,2,1,0,0.01,2382
+ChunkyChips,2,1,0,0.01,2383
+Cincinnatti Bell,2,1,2,0.01,2384
+Cineca,2,1,0,0.01,2385
+Cires Telecom,2,1,0,0.01,2386
+China Telecom Americas,2,1,0,0.01,2387
+"China United Network Communications Group Co.,Ltd (""China Unicom"")",2,1,0,0.01,2388
+ChinaCache International Holdings,2,1,0,0.01,2389
+Novva,2,1,0,0.01,2390
+Ntirety,2,0,0,0.01,2391
+Nuco Technologies Ltd,2,0,0,0.01,2392
+Nugget Networks,2,1,2,0.01,2393
+Nugi Technologies,2,1,0,0.01,2394
+Northrop Grumman,2,2,1,0.01,2395
+Norwegian Broadcasting Corporation (NRK),2,1,0,0.01,2396
+Novadata,2,1,0,0.01,2397
+NextPointHost,2,1,0,0.01,2398
+NextiraOne Poland,2,1,0,0.01,2399
+Nexica,2,1,0,0.01,2400
+Nexion,2,1,0,0.01,2401
+Next Connex Ltd,2,1,0,0.01,2402
+Next Generation Data,2,2,0,0.01,2403
+Next Layer GmbH,2,0,0,0.01,2404
+Novex Colocation,2,1,0,0.01,2405
+Center for Scientific Computing of the Goethe University Frankfurt (CSC),2,1,0,0.01,2406
+Caspur,2,1,0,0.01,2407
+Cat Telecom Public Company Ltd (PLC),2,1,0,0.01,2408
+Catalunya Neutral Internet eXchange (CATNIX),2,1,0,0.01,2409
+Cato Digital,2,0,0,0.01,2410
+Cavern Technologies,2,1,2,0.01,2411
+Celepar,2,1,0,0.01,2412
+CarrierCom,2,1,2,0.01,2413
+OMV Petrom,2,1,0,0.01,2414
+OSO Technologies,2,1,2,0.01,2415
+Your DC,2,0,0,0.01,2416
+ZONAMERICA,2,1,0,0.01,2417
+ZTE Energy Company Limited,2,1,0,0.01,2418
+Centre Traitement Informatique Sud,2,1,0,0.01,2419
+Centre de Supercomputacio de Catalunya,2,1,0,0.01,2420
+Centrin Online,2,1,0,0.01,2421
+Northern Data Solutions Limited,2,1,0,0.01,2422
+Nordik DC,2,1,0,0.01,2423
+Obenetwork,2,0,0,0.01,2424
+Oi (Telemar Norte Leste S.A.),2,1,0,0.01,2425
+Old Mutual,2,1,0,0.01,2426
+Oman Data Park,2,1,0,0.01,2427
+Oman Information Technology Authority (ITA),2,1,0,0.01,2428
+OMNIconnect,2,1,0,0.01,2429
+ClearBearing,2,1,2,0.01,2430
+ClearData,2,1,2,0.01,2431
+Clearstream,2,1,0,0.01,2432
+Novartis,2,1,2,0.01,2433
+Novatel Bulgaria,2,1,0,0.01,2434
+NorthC Deutschland GmbH,2,1,0,0.01,2435
+NorthPoint Development,2,1,0,0.01,2436
+Northam Reality,2,1,0,0.01,2437
+Cambridge Network Solutions,2,1,2,0.01,2438
+Cambridge University,2,1,0,0.01,2439
+Campost,2,1,0,0.01,2440
+Camtel,2,1,0,0.01,2441
+Canadian Colo,2,1,0,0.01,2442
+CYMTV,2,2,0,0.01,2443
+Caduceus,2,1,0,0.01,2444
+Cafe Informatique,2,1,0,0.01,2445
+The Xinon Carrier Network,2,1,0,0.01,2446
+Thin-nology,2,1,0,0.01,2447
+ThinkTel Communications,2,1,0,0.01,2448
+Thinking Phone Networks,2,1,0,0.01,2449
+The Peshawar Electric Supply Company (Pesco),2,1,0,0.01,2450
+The Regents of the University of California,2,2,1,0.01,2451
+The Saudi Investment Bank,2,1,0,0.01,2452
+The Swig Company,2,1,2,0.01,2453
+Time Warner Cable,2,1,2,0.01,2454
+Time Warner Cable Business Class,2,1,2,0.01,2455
+Timeweb Co.,2,0,0,0.01,2456
+Timico,2,1,0,0.01,2457
+Thomas Properties Group,2,1,2,0.01,2458
+Three Ireland (Hutchison) Limited,2,1,0,0.01,2459
+Thüringer Netkom,2,1,0,0.01,2460
+TierNet,2,1,0,0.01,2461
+Casablanca INT,2,1,0,0.01,2462
+OCOSA Communication,2,1,2,0.01,2463
+OCSL Managed Services,2,1,0,0.01,2464
+OMID Solutions,2,0,0,0.01,2465
+NumeriParc,2,1,0,0.01,2466
+Nusadatacenter,2,1,0,0.01,2467
+NxData,2,1,0,0.01,2468
+Tigo Business,2,0,0,0.01,2469
+Ovus,2,1,0,0.01,2470
+Oxford Networks,2,1,2,0.01,2471
+Oy Capnova,2,1,0,0.01,2472
+Oz Servers,2,1,0,0.01,2473
+Oricom Internet,2,0,0,0.01,2474
+Ostankino Television Tower,2,1,0,0.01,2475
+Otsuka Warehouse Co,2,1,0,0.01,2476
+Opus Interactive,2,0,0,0.01,2477
+Open Caribbean Internet eXchange (OCIX),2,2,0,0.01,2478
+OpenColo,2,1,0,0.01,2479
+Onet,2,1,0,0.01,2480
+Ontario Datacenter,2,1,2,0.01,2481
+Oman Telecommunication Company,2,1,0,0.01,2482
+Omega Systems,2,1,0,0.01,2483
+Omnilogic,2,1,0,0.01,2484
+Overwatch Capital,2,1,0,0.01,2485
+ZitCom A/S,2,1,0,0.01,2486
+Zoar.ro,2,1,0,0.01,2487
+Zoho,2,1,0,0.01,2488
+Zajil Telecom,2,1,0,0.01,2489
+Zambia Information and Communications Technology Authority (ZICTA),2,1,0,0.01,2490
+ZebraHosts,2,1,0,0.01,2491
+The University of Albany,2,1,2,0.01,2492
+The Westin Building,2,1,2,0.01,2493
+Zugernet - Hofmann Informatik AG,2,1,0,0.01,2494
+Zynga Game Network,2,1,2,0.01,2495
+aCure Technology,2,1,0,0.01,2496
+adeoDC,2,1,0,0.01,2497
+Zenvoo,2,1,0,0.01,2498
+Zeta-Web Business Solutions,2,1,0,0.01,2499
+Zhejiang Yunkuaichuan Science and Technology Co. Ltd,2,1,0,0.01,2500
+Ziggo,2,1,0,0.01,2501
+COLO-D,2,1,0,0.01,2502
+COMLINK,2,1,2,0.01,2503
+COMSATS Internet Services,2,1,0,0.01,2504
+COMUE,2,1,0,0.01,2505
+Caribbean IXP,2,2,0,0.01,2506
+CaroNet,2,1,2,0.01,2507
+Carphone Warehouse,2,1,0,0.01,2508
+Carrier Colo,2,0,0,0.01,2509
+PLUTEX,2,0,0,0.01,2510
+POP-BA,2,1,0,0.01,2511
+CRServers.com,2,1,0,0.01,2512
+CS LoxInfo Plc.,2,1,0,0.01,2513
+COPEL,2,1,0,0.01,2514
+COPT Data Center,2,0,0,0.01,2515
+CORE Data Centres,2,0,0,0.01,2516
+COVAGE,2,1,0,0.01,2517
+POP-MG,2,1,0,0.01,2518
+PRISM Technologies,2,1,2,0.01,2519
+PRODEPA,2,1,0,0.01,2520
+PROEN Internet,2,1,0,0.01,2521
+PSE - Poludnie,2,1,0,0.01,2522
+PLANT hosting & co-location,2,1,0,0.01,2523
+PLIX Sp. z o.o.,2,1,0,0.01,2524
+PLTPRO Data Center Sdn Bhd,2,1,0,0.01,2525
+Orange Business Services,2,1,0,0.01,2526
+OrbitCom,2,1,2,0.01,2527
+Optimum Data Centres,2,1,0,0.01,2528
+Options Technology,2,1,0,0.01,2529
+Optiquest,2,1,2,0.01,2530
+Optron,2,1,0,0.01,2531
+Optu,2,1,0,0.01,2532
+PSN Networks,2,1,0,0.01,2533
+TeraSwitch Networks,2,1,0,0.01,2534
+Teracom,2,1,0,0.01,2535
+Parthenon Data Centres,2,1,0,0.01,2536
+Pasila Broadcasting Tower,2,1,0,0.01,2537
+Patrick Solutions,2,1,2,0.01,2538
+Patronus Data Centers,2,1,2,0.01,2539
+Panamaserver.com,2,1,0,0.01,2540
+Paragon Internet Group,2,1,0,0.01,2541
+The Long Island Data and Recovery Center (LIDARC),2,1,2,0.01,2542
+The Nairobi City County,2,1,0,0.01,2543
+The Capris Group,2,1,0,0.01,2544
+The Centre de Serveis Científics i Acadèmics de Catalunya (CESCA),2,1,0,0.01,2545
+"The Data Centers, LLC (TDC)",2,1,2,0.01,2546
+The Echo Group,2,1,2,0.01,2547
+The Energy,2,1,0,0.01,2548
+TerraTel AB,2,1,0,0.01,2549
+PCM,2,1,2,0.01,2550
+PERSIS TELECOM,2,1,0,0.01,2551
+PIN (Premium IT Infrastucture),2,1,0,0.01,2552
+PIO-NET,2,1,0,0.01,2553
+The Heights Real Estate Company,2,2,1,0.01,2554
+The Independent Network Operations Consortium (INOC),2,1,2,0.01,2555
+The Internet Centre,2,1,0,0.01,2556
+The LeFrak Organization,2,1,2,0.01,2557
+Carrier Connect Systems,2,0,0,0.01,2558
+Carrier-1 Data Centers,2,1,2,0.01,2559
+Capital Internet,2,1,2,0.01,2560
+CapitalOne,2,1,2,0.01,2561
+Carbon60,2,0,0,0.01,2562
+California Public Employees' Retirement System (CalPERS),2,1,2,0.01,2563
+PCCW Global,2,1,0,0.01,2564
+PCI,2,1,2,0.01,2565
+CIXP,2,1,0,0.01,2566
+CGi,2,1,2,0.01,2567
+CH3 Data,2,1,2,0.01,2568
+CHEOPS TECHNOLOGY,2,1,0,0.01,2569
+CHML Web Services,2,1,0,0.01,2570
+CHU DE TOULOUSE,2,1,0,0.01,2571
+CIRSO,2,1,0,0.01,2572
+CEGECOM - Artelis,2,1,0,0.01,2573
+Pittock Internet Exchange,2,1,2,0.01,2574
+Petroleum Development Oman (PDO),2,1,0,0.01,2575
+CNS Colo,2,1,2,0.01,2576
+CIS NEPHAX,2,1,0,0.01,2577
+CIS VALLEY,2,1,0,0.01,2578
+CISP,2,1,2,0.01,2579
+CITEC,2,1,0,0.01,2580
+CITIC Telecom CPC,2,0,0,0.01,2581
+PT XL Axiata Tbk,2,0,0,0.01,2582
+PT. Dwi Tunggal Putra - GSD Division,2,1,0,0.01,2583
+PTT Metro,2,1,0,0.01,2584
+Pi Datacentres Private Limited,2,1,0,0.01,2585
+PiXi Media,2,1,0,0.01,2586
+Pidgin Host S.R.L.,2,1,0,0.01,2587
+Pinewood,2,1,0,0.01,2588
+Pink Roccade,2,1,0,0.01,2589
+Parsec Data Management,2,1,1,0.01,2590
+PTT Moebius,2,1,0,0.01,2591
+PTTMETRO,2,1,0,0.01,2592
+Pacific Internet,2,1,0,0.01,2593
+Pacific Office Auromation,2,1,2,0.01,2594
+Padi Internet (PadiNET),2,1,0,0.01,2595
+Pair Networks,2,1,2,0.01,2596
+Pallada Web Service,2,1,0,0.01,2597
+Playnet Srl,2,1,0,0.01,2598
+Plexval,2,1,0,0.01,2599
+Plus.line,2,1,0,0.01,2600
+CDS Complete Discovery Source,2,1,0,0.01,2601
+CDrom,2,1,0,0.01,2602
+CE Colo,2,2,0,0.01,2603
+CABOTELECOM,2,1,0,0.01,2604
+CAPSTAR Commercial Real Estate Service,2,1,2,0.01,2605
+Perth IX,2,1,0,0.01,2606
+Penta Hosting,2,1,0,0.01,2607
+Polaris Realty,2,1,0,0.01,2608
+Polarise,2,0,0,0.01,2609
+Polcom,2,0,0,0.01,2610
+Pomorskie Centrum Przetwarzania Danych Sp. z o.o.,2,1,0,0.01,2611
+Point of Presence of the National Research and Education in the State of Paraná (POP-PR),2,1,0,0.01,2612
+Polar DC,2,0,0,0.01,2613
+CUHK - Information Technology Services Center,2,1,0,0.01,2614
+CRA (Ceske Radiokomunikace),2,2,0,0.01,2615
+CREDIT AGRICOLE,2,1,0,0.01,2616
+Philadelphia Technology Park,2,1,2,0.01,2617
+Phoenix NAP,2,1,2,0.01,2618
+Peregrin,2,1,0,0.01,2619
+Performive,2,0,0,0.01,2620
+Perigon Networks,2,1,0,0.01,2621
+CELESTE,2,1,0,0.01,2622
+CENTRA,2,1,0,0.01,2623
+CERFACS,2,1,0,0.01,2624
+CERTIA,2,1,0,0.01,2625
+CETIN Bulgaria,2,0,0,0.01,2626
+CFI,2,1,0,0.01,2627
+CSS Integration & Communication,2,1,2,0.01,2628
+CSS MPS Moscow,2,1,0,0.01,2629
+Buckeye Telesystem,2,1,0,0.01,2630
+Bulk Infrastructure AS,2,1,0,0.01,2631
+Burst.net,2,1,2,0.01,2632
+Business Consulting Center Sp. z o.o.,2,1,0,0.01,2633
+Broadbased Communications Limited,2,1,0,0.01,2634
+Broadline Networks,2,1,0,0.01,2635
+Brussels DataCenter,2,1,0,0.01,2636
+BrainServe SA,2,1,0,0.01,2637
+Tellurian,2,1,2,0.01,2638
+Telnet,2,1,0,0.01,2639
+Telsist Communications,2,1,0,0.01,2640
+Teliti,2,1,0,0.01,2641
+Telium Networks,2,0,0,0.01,2642
+Telenet,2,1,0,0.01,2643
+Birst,2,1,0,0.01,2644
+BitFury,2,1,0,0.01,2645
+Bytes Technology Group,2,1,0,0.01,2646
+CKW,2,1,0,0.01,2647
+CMC Networks,2,0,0,0.01,2648
+CNC,2,1,0,0.01,2649
+Plus4web,2,1,0,0.01,2650
+PlusOne Atlanta,2,2,1,0.01,2651
+Pixelpark AG,2,1,0,0.01,2652
+Tencent Holdings,2,1,0,0.01,2653
+CARSATT,2,1,0,0.01,2654
+Bytesnet,2,0,0,0.01,2655
+C Spire,2,1,2,0.01,2656
+C.C.S. (Leeds) Ltd,2,1,0,0.01,2657
+C4L (Connexion4London Ltd),2,1,0,0.01,2658
+Business Sviaz Holding,2,1,0,0.01,2659
+BuyVM,2,0,0,0.01,2660
+Bynet Data Communications,2,1,0,0.01,2661
+Poulina Group Holding,2,1,0,0.01,2662
+Power Shift,2,1,2,0.01,2663
+PowerNetix,2,2,0,0.01,2664
+PowerXS,2,1,0,0.01,2665
+Pulse DC,2,1,0,0.01,2666
+Pulse DC Pty Ltd,2,0,0,0.01,2667
+Puncak Semangat,2,1,0,0.01,2668
+PureColo,2,0,0,0.01,2669
+Prodabel,2,1,0,0.01,2670
+Primus Canada,2,1,0,0.01,2671
+Printers Square,2,1,2,0.01,2672
+Priora Gruppe,2,1,0,0.01,2673
+Powernet,2,1,0,0.01,2674
+President of the Republic of Peru,2,1,0,0.01,2675
+Primacom Interbuana,2,1,0,0.01,2676
+PostCy Ltd,2,1,0,0.01,2677
+Bplus Datacenter,2,1,0,0.01,2678
+Telesmart,2,2,0,0.01,2679
+Telesystem,2,0,0,0.01,2680
+Telgo,2,1,0,0.01,2681
+Pro Data Center,2,0,0,0.01,2682
+ProServe,2,1,0,0.01,2683
+ProServer,2,1,0,0.01,2684
+Procempa,2,1,0,0.01,2685
+BreezeHost.io,2,0,0,0.01,2686
+Brennan IT,2,1,0,0.01,2687
+Bridge2cloud,2,1,0,0.01,2688
+Brightsolid Ltd,2,0,0,0.01,2689
+Bombay Stock Exchange,2,1,0,0.01,2690
+Boras Energi/Nat AB,2,1,0,0.01,2691
+Bouygues Telecom,2,1,0,0.01,2692
+Boxer Property Management Corporation,2,1,2,0.01,2693
+atom86,2,1,0,0.01,2694
+bitNAP,2,1,0,0.01,2695
+Bluebird Data Centers,2,0,0,0.01,2696
+Bluelock,2,1,2,0.01,2697
+Bluemile,2,1,2,0.01,2698
+Blueprint Data Centers,2,1,0,0.01,2699
+Bolsas y Mercados Españoles (BME),2,1,0,0.01,2700
+Bletchley Cloud,2,1,0,0.01,2701
+RACK59,2,1,2,0.01,2702
+Quasar Data Center,2,1,1,0.01,2703
+Quest,2,1,2,0.01,2704
+Quest Technologies,2,0,0,0.01,2705
+daisy group,2,0,0,0.01,2706
+dc2scale Velizy,2,1,0,0.01,2707
+dcenter.pl,2,1,0,0.01,2708
+aqumo technologies SA,2,1,0,0.01,2709
+Prov.net,2,1,2,0.01,2710
+Prodam,2,1,0,0.01,2711
+Prodest,2,1,0,0.01,2712
+Profisol Telecom,2,1,0,0.01,2713
+Progressix,2,1,0,0.01,2714
+Prometheus Hyperscale,2,1,0,0.01,2715
+Qumak,2,1,0,0.01,2716
+Quonix Networks,2,1,2,0.01,2717
+Purple IO,2,2,0,0.01,2718
+Provision Data Services,2,1,0,0.01,2719
+Provision Data Systems,2,1,0,0.01,2720
+Pt HERZA,2,0,0,0.01,2721
+Ptolemy Data Systems,2,1,2,0.01,2722
+Public Pension Agency,2,1,0,0.01,2723
+Pugmarks,2,1,2,0.01,2724
+Prosodie,2,1,0,0.01,2725
+Telebrás,2,1,0,0.01,2726
+Telecarrier,2,1,0,0.01,2727
+Beanfield,2,0,0,0.01,2728
+Bedag Informatik AG,2,1,0,0.01,2729
+Behringer Harvard,2,1,2,0.01,2730
+Batelco (Bahrain Telecommunications Company),2,1,0,0.01,2731
+Bay Area Internet Services (BAIS),2,1,2,0.01,2732
+Bayou Internet and Communications,2,1,2,0.01,2733
+Telekom Srbija,2,1,0,0.01,2734
+Telemach Sirokopasovne Komunikacije,2,1,0,0.01,2735
+Telemark Telekommunikationsgesellschaft,2,0,0,0.01,2736
+Telemedia (PTY) LTD,2,1,0,0.01,2737
+Telecom Namibia,2,1,0,0.01,2738
+Telecom Real Estate Services (TRES),2,1,2,0.01,2739
+Telecom Service Bulgaria EOOD (TSBG),2,1,0,0.01,2740
+Telecommunications Services of Trinidad and Tobago (TSTT),2,1,0,0.01,2741
+Quicken Loans,2,1,2,0.01,2742
+Quickline Business,2,1,0,0.01,2743
+Qualigen,2,2,1,0.01,2744
+Qualitynet,2,1,0,0.01,2745
+QTD Systems,2,1,0,0.01,2746
+Qatar National Bank (QNB),2,1,0,0.01,2747
+QiComm,2,1,0,0.01,2748
+Telekenex,2,1,2,0.01,2749
+Bloomberg,2,1,2,0.01,2750
+Blue Hill Data Services,2,1,0,0.01,2751
+Blue Nap Americas,2,2,0,0.01,2752
+Biznet IIS,2,1,0,0.01,2753
+Black Mountain,2,1,0,0.01,2754
+BlackBridge Networks,2,1,0,0.01,2755
+BlackRock,2,1,2,0.01,2756
+Birch,2,1,2,0.01,2757
+Rack & Data,2,1,0,0.01,2758
+Rack Centre,2,1,0,0.01,2759
+RREEF,2,1,2,0.01,2760
+RT Software Systems,2,1,2,0.01,2761
+RTI connectivity pte ltd,2,0,0,0.01,2762
+RAM Infotechnology,2,1,0,0.01,2763
+RCN Telecom Services,2,1,2,0.01,2764
+RDK REVENUE,2,1,0,0.01,2765
+Rack.BG,2,1,0,0.01,2766
+RackBank Datacenters Pvt. Ltd,2,0,0,0.01,2767
+RackSquared,2,1,0,0.01,2768
+Rackbank,2,1,0,0.01,2769
+Racks Central,2,0,0,0.01,2770
+RTKOMM,2,1,0,0.01,2771
+RUE Beltelecom (Republican Unitary Telecommunications Enterprise Beltelecom),2,1,0,0.01,2772
+Rabobank,2,1,0,0.01,2773
+eHosting Datafort,2,1,0,0.01,2774
+comtrance GmbH,2,1,0,0.01,2775
+Telecom Egypt,2,1,0,0.01,2776
+Telecom International Myanmar,2,1,0,0.01,2777
+Telecom Italia,2,1,0,0.01,2778
+TeleData UK Ltd,2,2,0,0.01,2779
+TeleSource,2,1,2,0.01,2780
+Rack Lodge,2,1,0,0.01,2781
+eNet,2,2,1,0.01,2782
+eSecureData,2,1,0,0.01,2783
+eTOP,2,1,0,0.01,2784
+edpnet,2,1,0,0.01,2785
+etherFAX,2,1,0,0.01,2786
+digital.forest,2,1,2,0.01,2787
+e-tera,2,1,0,0.01,2788
+eFolder,2,1,0,0.01,2789
+BSE Software GmbH,2,1,0,0.01,2790
+Baehost (InTerBS SRL),2,1,0,0.01,2791
+BEMOBILE,2,1,0,0.01,2792
+BENESTRA,2,1,0,0.01,2793
+BHI,2,1,2,0.01,2794
+BMIT,2,1,0,0.01,2795
+Bharti Airtel Ltd,2,1,0,0.01,2796
+Bhumishq Technologies,2,1,0,0.01,2797
+"Radiokomunikace, a.s.",2,1,0,0.01,2798
+Radore Hosting,2,1,0,0.01,2799
+Bangladesh Computer Council (BCC),2,1,0,0.01,2800
+Bank Building Limited Partnership,2,1,2,0.01,2801
+Bank of America,2,2,1,0.01,2802
+BMS Bristol Myers Squibb,2,1,0,0.01,2803
+BNB Developments,2,1,0,0.01,2804
+BPL Global,2,1,0,0.01,2805
+Real Comm,2,1,0,0.01,2806
+Real Effects,2,1,2,0.01,2807
+Recovery Point Systems,2,1,0,0.01,2808
+Red Sea Group,2,1,2,0.01,2809
+Raha,2,1,0,0.01,2810
+Range Technology Development Co Ltd (IDC),2,1,0,0.01,2811
+Raya Data Center,2,1,0,0.01,2812
+Racksquared Data Center,2,0,0,0.01,2813
+REDtone,2,1,0,0.01,2814
+REN - Redes Energéticas Nacionais,2,1,0,0.01,2815
+RLB Rider Levett Bucknall,2,0,0,0.01,2816
+RMD Gibraltar,2,1,0,0.01,2817
+Redwire,2,1,0,0.01,2818
+Rehwork GmbH,2,1,0,0.01,2819
+Related Digital,2,1,0,0.01,2820
+Razor Servers,2,1,2,0.01,2821
+Axione Lotim Telecom,2,1,0,0.01,2822
+Axit (@Xit),2,1,0,0.01,2823
+AyEmTi,2,1,0,0.01,2824
+Australian Stock Exchange (ASX),2,1,0,0.01,2825
+Autonomous University of Nuevo León,2,1,0,0.01,2826
+Availo AS,2,1,0,0.01,2827
+AviaTel,2,1,0,0.01,2828
+Avit,2,1,0,0.01,2829
+Rent a Rack,2,1,0,0.01,2830
+Research In Motion (RIM),2,1,0,0.01,2831
+Research and Education Network for Uganda (RENU),2,1,0,0.01,2832
+SC Zeus Data Center,2,0,0,0.01,2833
+SCC,2,1,0,0.01,2834
+SD Data Center,2,0,0,0.01,2835
+SDIS Service Départemental d'Incendie et de Secours,2,1,0,0.01,2836
+Axcelx Technologies,2,1,2,0.01,2837
+Rockford,2,1,0,0.01,2838
+Roke,2,1,0,0.01,2839
+Rigstar Communications,2,1,0,0.01,2840
+Rio Tinto,2,1,0,0.01,2841
+Riyad Bank,2,1,0,0.01,2842
+Riyadh Municipality,2,1,0,0.01,2843
+Richard Everton,2,1,0,0.01,2844
+RelyNet,2,1,2,0.01,2845
+Bigbyte.cc,2,1,2,0.01,2846
+Binary.net,2,1,2,0.01,2847
+Belmond,2,1,0,0.01,2848
+Beltelecom,2,0,0,0.01,2849
+Benzy Infotech Pvt,2,1,0,0.01,2850
+Bersama Digital Data Center,2,0,0,0.01,2851
+Bestline Communications,2,1,2,0.01,2852
+Rockan Data Center AB,2,1,0,0.01,2853
+SQL Technologies,2,1,0,0.01,2854
+Atjeu,2,1,2,0.01,2855
+Atlanta NAP,2,1,2,0.01,2856
+Assetel,2,1,0,0.01,2857
+AstrecData,2,1,0,0.01,2858
+AtenaHost,2,1,0,0.01,2859
+Atieh Dadeh Pardaz,2,1,0,0.01,2860
+Ativas Data Center S.A,2,1,0,0.01,2861
+SABA,2,1,0,0.01,2862
+SACOFA,2,0,0,0.01,2863
+Roller Network,2,1,0,0.01,2864
+RuWeb,2,0,0,0.01,2865
+Rubicon Data Centers,2,1,2,0.01,2866
+STEALTH - ISS®,2,1,2,0.01,2867
+SPOT IMAGES,2,1,0,0.01,2868
+SPV Grodzisk,2,1,0,0.01,2869
+Baltneta,2,1,0,0.01,2870
+Banco Mellennium Atlantico,2,1,0,0.01,2871
+SAKURA Internet,2,0,0,0.01,2872
+SALT Essential Information Technology,2,1,0,0.01,2873
+SAS,2,1,0,0.01,2874
+SATOKIE,2,0,0,0.01,2875
+Rwanda Development Board,2,1,0,0.01,2876
+S3 Company,2,1,0,0.01,2877
+Aurora,2,1,0,0.01,2878
+Banque Saudi Fransi,2,1,0,0.01,2879
+Bardeen,2,1,0,0.01,2880
+Bardeen Datahotel,2,1,0,0.01,2881
+Base,2,1,0,0.01,2882
+Baselayer,2,1,2,0.01,2883
+Baltic Data Center,2,1,0,0.01,2884
+Baltimore Technology Park,2,1,2,0.01,2885
+Santander Bank,2,1,0,0.01,2886
+SadeceHosting Internet Services Ltd,2,1,0,0.01,2887
+SafeData,2,1,0,0.01,2888
+SafeHouse Datacenter,2,1,2,0.01,2889
+Safehosts,2,1,0,0.01,2890
+Safenames,2,1,0,0.01,2891
+Sagrada Família,2,1,0,0.01,2892
+SVTIX,2,1,2,0.01,2893
+SIGNAL IDUNA,2,1,0,0.01,2894
+Santander Estates Ltd,2,1,0,0.01,2895
+Sapphire Networks Limited,2,1,0,0.01,2896
+Sai InfoSystem India Ltd. (SIS),2,1,0,0.01,2897
+Sakura Internet,2,1,0,0.01,2898
+Salesforce.com,2,1,0,0.01,2899
+Samsung Electronics,2,1,0,0.01,2900
+Sanity Technology Pty Ltd,2,1,0,0.01,2901
+SSC Networks Norge AS,2,1,0,0.01,2902
+SSC-ICT,2,1,0,0.01,2903
+SSE Data Centres,2,1,0,0.01,2904
+SIGNET,2,1,0,0.01,2905
+SMH Colocation,2,1,2,0.01,2906
+SOCO Network Solutions GmbH,2,1,0,0.01,2907
+SECTEC Secretaria de Ciencia e Tecnologia,2,1,0,0.01,2908
+SICOVAL,2,1,0,0.01,2909
+Ashgoal,2,1,0,0.01,2910
+Asia Consultancy Group (ACG),2,1,0,0.01,2911
+Ask4,2,1,0,0.01,2912
+Aspire Technology Solutions,2,1,0,0.01,2913
+Azur Datacenter,2,0,0,0.01,2914
+Aéroport de Toulouse-Blagnac,2,1,0,0.01,2915
+BBBell SpA,2,1,0,0.01,2916
+BBG Communications,2,2,1,0.01,2917
+Artefact,2,1,0,0.01,2918
+Artmotion Ltd,2,1,0,0.01,2919
+ArianeGroup,2,1,0,0.01,2920
+Arizona Data Centers,2,1,2,0.01,2921
+Arizona Land Consulting (ALC),2,1,0,0.01,2922
+Ark Datacenters,2,1,2,0.01,2923
+Arctur d.o.o.,2,1,0,0.01,2924
+Ardent Data Centers,2,1,0,0.01,2925
+American Tower,2,0,0,0.01,2926
+Artnet Sp. z o.o.,2,1,0,0.01,2927
+Arvato,2,1,0,0.01,2928
+Arvato Systems,2,0,0,0.01,2929
+Asaweb Serviços em multmídia,2,1,0,0.01,2930
+Ascenix Pte Ltd,2,1,0,0.01,2931
+Armenian Datacom Company (ADC),2,1,0,0.01,2932
+Arseva,2,1,0,0.01,2933
+Tanzania Telecommunication Corporation,2,1,0,0.01,2934
+Tascom telecomunicaes ltda,2,0,0,0.01,2935
+TeDoc Web Management,2,1,0,0.01,2936
+Teamnet Technologies,2,1,2,0.01,2937
+Tech Futures Interactive,2,0,0,0.01,2938
+Tahiti Nui Telecom,2,1,0,0.01,2939
+"Taiwan Mobile Co., Ltd. (TWM)",2,0,0,0.01,2940
+American Technology Services,2,1,2,0.01,2941
+SWU Stadtwerke Ulm / Neu-Ulm GmbH,2,1,0,0.01,2942
+Sabah Net Sdn. Bhd.,2,1,0,0.01,2943
+TelJet Longhaul,2,1,2,0.01,2944
+TelNet Worldwide (TelNet),2,1,2,0.01,2945
+TelOne,2,1,0,0.01,2946
+Techcréa Solutions,2,1,0,0.01,2947
+Technology Solutions Of SC,2,2,1,0.01,2948
+Technology and Innovation Center,2,1,0,0.01,2949
+Algar Telecom,2,0,0,0.01,2950
+Algolia,2,1,0,0.01,2951
+AliCloud,2,1,0,0.01,2952
+Alienor.net,2,1,0,0.01,2953
+Applied Systems,2,1,0,0.01,2954
+Appnor,2,1,0,0.01,2955
+Apto,2,0,0,0.01,2956
+Aptus Solutions,2,1,0,0.01,2957
+Saxon Data,2,1,0,0.01,2958
+Satyam Computer Services,2,1,0,0.01,2959
+Saudi Arabian Monetary Authority,2,1,0,0.01,2960
+Saudi Aramco,2,1,0,0.01,2961
+Saudi Basic Industries Corp. (SABIC),2,1,0,0.01,2962
+Saudi British Bank,2,1,0,0.01,2963
+Saudi Maksab Holdings,2,1,0,0.01,2964
+Algar Technologia,2,1,0,0.01,2965
+Screamer Telecoms,2,1,0,0.01,2966
+Secant,2,1,2,0.01,2967
+SecureData 365,2,2,1,0.01,2968
+ScaleUp Technologies,2,1,0,0.01,2969
+ScanNet,2,1,0,0.01,2970
+Schiecentrale,2,1,0,0.01,2971
+Scipio Technologies,2,1,0,0.01,2972
+Saveho,2,1,0,0.01,2973
+Area Project Solutions S.L.,2,1,0,0.01,2974
+Talex S.A,2,0,0,0.01,2975
+Talex S.A.,2,1,0,0.01,2976
+TalkTalk Communications Ltd,2,1,0,0.01,2977
+Tango,2,1,0,0.01,2978
+Tanzania Internet eXchange (TIX),2,1,0,0.01,2979
+Scotia Global,2,1,0,0.01,2980
+Scott Technology Center,2,1,2,0.01,2981
+Shenzhen Stock Exchange (SZSE),2,1,0,0.01,2982
+Shopvizier,2,1,0,0.01,2983
+Shore.net,2,1,2,0.01,2984
+Sielte,2,1,0,0.01,2985
+Siemens,2,1,0,0.01,2986
+Seznam.cz,2,1,0,0.01,2987
+Shabakah Integrated Technology (Shabakah Net),2,1,0,0.01,2988
+Shanghai Data Solutions,2,1,0,0.01,2989
+ServeisWeb,2,1,0,0.01,2990
+Server Central,2,1,2,0.01,2991
+Sentinel Data Centers,2,0,0,0.01,2992
+SentraColo,2,1,0,0.01,2993
+Secured Network Services (SNS),2,1,2,0.01,2994
+Securus Data Property Fund,2,1,0,0.01,2995
+SeeConnect,2,0,0,0.01,2996
+Sheffield Hallam University,2,2,0,0.01,2997
+Saudi Royal Air Force,2,1,0,0.01,2998
+Server Cloud Canada,2,1,0,0.01,2999
+Server Corps,2,1,2,0.01,3000
+Serbia BroadBand,2,2,0,0.01,3001
+ServOnDemand,2,1,2,0.01,3002
+ServaxNet,2,0,0,0.01,3003
+ServeNet,2,1,0,0.01,3004
+Servecentric,2,1,0,0.01,3005
+Antel Urugauy,2,1,0,0.01,3006
+Antwerp DC,2,1,0,0.01,3007
+Americatel,2,1,0,0.01,3008
+Anacondaweb,2,0,0,0.01,3009
+Anadolu Bili?im Hizmetleri ABH,2,1,0,0.01,3010
+Amcom Telecommunications,2,1,0,0.01,3011
+America Net,2,1,0,0.01,3012
+American Electric Power (AEP),2,1,2,0.01,3013
+Alternative Data Center,2,1,0,0.01,3014
+Amaara Networks,2,0,0,0.01,3015
+Alonstelefonstroy (ATC),2,1,0,0.01,3016
+AlphaHost.lv,2,1,0,0.01,3017
+Alpharetta DC,2,2,1,0.01,3018
+Alpine Datacenter LTD,2,1,0,0.01,3019
+Alpine Electronics,2,1,0,0.01,3020
+Alinma Bank,2,1,0,0.01,3021
+SingleHop,2,2,1,0.01,3022
+Simplex,2,1,0,0.01,3023
+Airtel Malawi,2,1,0,0.01,3024
+Advanced Data Centres (ADC),2,1,0,0.01,3025
+Advania Data Centres,2,1,0,0.01,3026
+Adylnet Telcom,2,1,0,0.01,3027
+Aegis Data,2,1,0,0.01,3028
+Altaire,2,1,0,0.01,3029
+Sesa,2,1,0,0.01,3030
+ServerHouse Ltd,2,1,0,0.01,3031
+ServerPhase,2,1,2,0.01,3032
+Serverius datacenter DC1,2,1,0,0.01,3033
+Singapore Open Exchange,2,1,0,0.01,3034
+Singapore Open eXchange (SOX),2,1,0,0.01,3035
+Singapore Science Park (Ascendas Pte Ltd),2,1,0,0.01,3036
+Singapore Technologies Engineering (ST Engineering),2,1,0,0.01,3037
+Shatter IT,2,0,0,0.01,3038
+Shaw Communications,2,1,0,0.01,3039
+Servernet Services,2,1,0,0.01,3040
+Servers Australia,2,1,0,0.01,3041
+Servers Lodge,2,1,0,0.01,3042
+Services DR de México,2,1,0,0.01,3043
+Servicios y Telecomunicaciones SA (SYT),2,1,0,0.01,3044
+Servizi Internet S.r.l.,2,1,0,0.01,3045
+TNG Stadtnetz GmbH,2,0,0,0.01,3046
+"TEO LT, AB Group",2,1,0,0.01,3047
+TEX97,2,1,0,0.01,3048
+THALES,2,1,0,0.01,3049
+THC Projects,2,1,0,0.01,3050
+TISSEO,2,1,0,0.01,3051
+Slovak Telecom,2,1,0,0.01,3052
+Smart Brasil,2,1,0,0.01,3053
+TTC Telekomunikace s.r.o.,2,1,0,0.01,3054
+TUXIS Internet Engineering,2,0,0,0.01,3055
+TU TELEKOM,2,1,0,0.01,3056
+Tadawul Group,2,1,0,0.01,3057
+TOPNET,2,1,0,0.01,3058
+TOTAL PAU,2,1,0,0.01,3059
+TPnets.com,2,1,0,0.01,3060
+TKTelekom,2,1,0,0.01,3061
+Silver Telecom,2,1,0,0.01,3062
+Simah,2,1,0,0.01,3063
+Siminn.dk,2,1,0,0.01,3064
+Sierra Data Center,2,1,2,0.01,3065
+Sigma Net,2,1,0,0.01,3066
+Sigmatic Oy,2,1,0,0.01,3067
+Silicon System Limited,2,1,0,0.01,3068
+TRG Datacenters (Technical Realty Group),2,2,1,0.01,3069
+Alionis,2,1,0,0.01,3070
+Allama Iqbal Open University (AIOU),2,1,0,0.01,3071
+Alexhost SRL,2,1,0,0.01,3072
+Simply Connect,2,1,0,0.01,3073
+SinalBR,2,1,0,0.01,3074
+Sinar Mas Multi Finance,2,1,0,0.01,3075
+Silicon Valley Telecom & Internet Exchange,2,1,2,0.01,3076
+Silver Knight Enterprises Corp / Data Max,2,1,0,0.01,3077
+Alestra,2,1,0,0.01,3078
+Airwire,2,1,0,0.01,3079
+Aiso,2,1,2,0.01,3080
+AkashiQ Data Care India Pvt.Ltd.,2,1,0,0.01,3081
+Aktif Setegap Sdn Bhd,2,1,0,0.01,3082
+Akzo Nobel,2,1,0,0.01,3083
+Aiber Networks,2,1,0,0.01,3084
+Airbus,2,1,0,0.01,3085
+fsit ag,2,0,0,0.01,3086
+hgc global communications limited,2,0,0,0.01,3087
+hostoweb,2,1,0,0.01,3088
+house4IT Hosting,2,1,0,0.01,3089
+i-Tech Network Solutions,2,1,0,0.01,3090
+Al Rajhi Bank,2,1,0,0.01,3091
+Alerify,2,1,0,0.01,3092
+Alert Communications,2,1,0,0.01,3093
+SkyOnline,2,1,0,0.01,3094
+Sistec,2,1,0,0.01,3095
+Sitco,2,1,2,0.01,3096
+SiteB Data,2,2,1,0.01,3097
+Six Degrees,2,0,0,0.01,3098
+iColo,2,1,0,0.01,3099
+iDataGreen,2,1,0,0.01,3100
+fpt telecom,2,0,0,0.01,3101
+Smart City,2,1,2,0.01,3102
+Smart Link Communication (SLC),2,1,0,0.01,3103
+Skylink Data Centers,2,0,0,0.01,3104
+Skytap,2,1,0,0.01,3105
+Skyway DataCenter GmbH,2,1,0,0.01,3106
+Sleek Networks,2,1,0,0.01,3107
+Skae Power Solutions,2,1,2,0.01,3108
+SkyLink Data Center GmbH,2,1,0,0.01,3109
+AcroNOC,2,1,2,0.01,3110
+AZNetwork,2,1,0,0.01,3111
+Academia Sinica Computing Centre,2,1,0,0.01,3112
+Accelerated IT Services GmbH,2,1,0,0.01,3113
+"Access Basic Server ""Abserver""",2,1,0,0.01,3114
+icosnet,2,1,0,0.01,3115
+inAsset Networks,2,1,0,0.01,3116
+interscholz GmbH & Co. KG,2,1,0,0.01,3117
+Spicenet,2,1,0,0.01,3118
+Spirit Communications,2,1,2,0.01,3119
+SpringNet,2,1,2,0.01,3120
+Springfield Land Corporation,2,1,0,0.01,3121
+Springs Hosting,2,1,2,0.01,3122
+Acehost Data Centers,2,0,0,0.01,3123
+Acens,2,0,0,0.01,3124
+Ackstorm,2,1,0,0.01,3125
+Softbank,2,1,0,0.01,3126
+Sohonet Ltd,2,2,1,0.01,3127
+Solar Communications,2,1,0,0.01,3128
+Smartcom telephone llc,2,0,0,0.01,3129
+Smartronix,2,1,2,0.01,3130
+Smith and Hammaker,2,1,2,0.01,3131
+Société Arabe Internationale de Banque (SAIB),2,1,0,0.01,3132
+Speedbone,2,1,0,0.01,3133
+SolutionPro,2,1,2,0.01,3134
+Solutions and Infrastructure Services Ltd. SIS,2,1,0,0.01,3135
+Sonatel,2,1,0,0.01,3136
+Sonda IT,2,1,0,0.01,3137
+Soleblanca SA,2,1,0,0.01,3138
+Solihull Metropolitan Borough Council,2,1,0,0.01,3139
+Sologigabit,2,1,0,0.01,3140
+Sofia Connect Ltd,2,0,0,0.01,3141
+Stanbic Bank Ghana,2,1,0,0.01,3142
+Stanbic Bank Uganda,2,1,0,0.01,3143
+ATE,2,1,0,0.01,3144
+ANEXIA Internetdienstleistungs GmbH,2,1,0,0.01,3145
+AOC Group,2,1,0,0.01,3146
+APA-IT Informations Technologie GmbH,2,0,0,0.01,3147
+AQ Compute,2,0,0,0.01,3148
+AQL Telecommunication Services,2,1,0,0.01,3149
+South Front Networks,2,0,0,0.01,3150
+South Hook Gas,2,1,0,0.01,3151
+Steel Orca,2,1,2,0.01,3152
+SteelVault,2,1,2,0.01,3153
+Stellar Professional Communication Systems,2,0,0,0.01,3154
+Stellar Technologies,2,0,0,0.01,3155
+Starpoint Digital,2,1,2,0.01,3156
+State Farm,2,1,2,0.01,3157
+SouthTech,2,1,0,0.01,3158
+Sovereign Business Integration,2,1,0,0.01,3159
+SpaceNet,2,1,0,0.01,3160
+Sontius d.o.o.,2,1,0,0.01,3161
+Sortis,2,1,0,0.01,3162
+Sota Solutions Limited (Sota Connect),2,1,0,0.01,3163
+Sota Solutions Ltd,2,0,0,0.01,3164
+Sotea,2,1,0,0.01,3165
+iLevant,2,1,0,0.01,3166
+iNES,2,1,0,0.01,3167
+iRis Networks,2,1,2,0.01,3168
+i2b Networks,2,0,0,0.01,3169
+i3b GmbH,2,1,0,0.01,3170
+Spectra Access,2,1,2,0.01,3171
+Spectrum Softtech Solutions ( P ),2,1,0,0.01,3172
+SpectrumNet,2,1,0,0.01,3173
+AGIRC ARRCO,2,1,0,0.01,3174
+AHA Consulting Engineers (AHA),2,1,0,0.01,3175
+AHI33,2,1,0,0.01,3176
+ABTInfo.net,2,1,0,0.01,3177
+ACASIA Communications,2,1,0,0.01,3178
+ACD.net,2,1,2,0.01,3179
+ACME Universal Communications,2,1,0,0.01,3180
+ACS Angola Comunicações e Sistemas,2,1,0,0.01,3181
+TELUS Communications Company,2,1,0,0.01,3182
+TDM,2,1,0,0.01,3183
+TDS,2,1,2,0.01,3184
+TAKODA,2,0,0,0.01,3185
+TAS France,2,1,0,0.01,3186
+TAS Sophia,2,1,0,0.01,3187
+AES Eletropaulo,2,1,0,0.01,3188
+AFRANET,2,1,0,0.01,3189
+Star Storage,2,1,0,0.01,3190
+St. Petersburg State University of Industrial Technology and Design,2,1,0,0.01,3191
+Stack Data Network,2,1,0,0.01,3192
+Stadtwerke Hall in Tirol GmbH,2,1,0,0.01,3193
+Stadtwerke Klagenfurt AG,2,1,0,0.01,3194
+TEK Systems,2,2,1,0.01,3195
+TEKNET INTERNET VE BILISIM TEKNOLOJILERI,2,1,0,0.01,3196
+TELE Greenland,2,1,0,0.01,3197
+ASAC Comunicaciones,2,0,0,0.01,3198
+AIC,2,1,0,0.01,3199
+AIR FRANCE,2,1,0,0.01,3200
+ANET Internet Solutions,2,1,2,0.01,3201
+Adentro Cloud Solutions,2,0,0,0.01,3202
+Admo.net,2,1,2,0.01,3203
+Advanced Data Centers,2,1,2,0.01,3204
+AdNet Telecom,2,1,0,0.01,3205
+Sveu?ilini ra?unski centar Srce (SRCE),2,1,0,0.01,3206
+Swift Networks,2,1,0,0.01,3207
+Swiss Data Safe AG,2,1,0,0.01,3208
+todo,2,1,0,0.01,3209
+tops.net,2,1,0,0.01,3210
+truenetwork russia,2,0,0,0.01,3211
+teleNAP,2,1,0,0.01,3212
+nawork,2,0,0,0.01,3213
+Sybyl,2,1,0,0.01,3214
+Symphony Communication Public Company Limited,2,0,0,0.01,3215
+Synapsecom,2,0,0,0.01,3216
+Synapsis,2,1,0,0.01,3217
+Syncom,2,1,0,0.01,3218
+Swiss Government,2,1,0,0.01,3219
+Swoscom AB,2,1,0,0.01,3220
+Suzhou Industry Park (SIP),2,1,0,0.01,3221
+511 Building,2,1,2,0.01,3222
+421 West Church Street,2,1,2,0.01,3223
+ADDIX Internet Services GmbH,2,1,0,0.01,3224
+ADITU IZARBEL,2,1,0,0.01,3225
+ADRAL S.A.,2,1,0,0.01,3226
+SysEleven,2,0,0,0.01,3227
+Systemec Data Centers,2,1,0,0.01,3228
+Süc // dacor GmbH.,2,0,0,0.01,3229
+ipNX Nigeria Ltd,2,1,0,0.01,3230
+ipcore,2,1,0,0.01,3231
+itelligence Sp. z o.o.,2,1,0,0.01,3232
+639 Solar,2,0,0,0.01,3233
+702 Communications,2,1,0,0.01,3234
+60 Fed,2,1,2,0.01,3235
+470 exchange,2,1,2,0.01,3236
+4D Data Centres Ltd,2,1,0,0.01,3237
+GIGANET Internet Szolgáltató Kft,2,1,0,0.01,3238
+GCI,2,1,0,0.01,3239
+GCX,2,1,0,0.01,3240
+GCX (Global Cloud Xchange),2,0,0,0.01,3241
+GigaHost DA,2,1,0,0.01,3242
+Giganet,2,1,0,0.01,3243
+Gigared,2,1,0,0.01,3244
+Gigastream plc,2,1,0,0.01,3245
+GIPNetworks,2,1,2,0.01,3246
+GLOBE Datacenter B.V.,2,2,0,0.01,3247
+GLS,2,1,0,0.01,3248
+GO,2,1,0,0.01,3249
+GO (Etihad Atheeb Telecom),2,1,0,0.01,3250
+GGEW net,2,0,0,0.01,3251
+GI Partners,2,1,0,0.01,3252
+GIFT Gujarat International Finance Tec-City,2,1,0,0.01,3253
+plusnet gmbh and co kg,2,0,0,0.01,3254
+prodata Rechenzentrum und Informationstechnologie GmbH,2,1,0,0.01,3255
+3EX Hosting,2,1,0,0.01,3256
+3SAMNET,2,1,0,0.01,3257
+"250,000 SqFt",2,0,0,0.01,3258
+325 Hudson Street,2,1,2,0.01,3259
+186k Limited,2,1,0,0.01,3260
+xDefenders,2,1,2,0.01,3261
+ndtArtemis,2,1,2,0.01,3262
+iway AG,2,1,0,0.01,3263
+railtel corporation of india ltd,2,0,0,0.01,3264
+root S.A.,2,1,0,0.01,3265
+seeweb srl,2,1,0,0.01,3266
+senseLAN,2,0,0,0.01,3267
+senseLAN GmbH,2,1,0,0.01,3268
+nwiNetworks,2,1,2,0.01,3269
+"1,057,000 SqFt",1,0,0,0.0,3270
+21 Century Technologies,1,1,0,0.0,3271
+21st Century Technologies,1,1,0,0.0,3272
+"223,000 SqFt",1,0,0,0.0,3273
+247rack.com,1,1,0,0.0,3274
+"255,200 SqFt",1,0,0,0.0,3275
+"284,800 SqFt",1,0,0,0.0,3276
+325 Hudson,1,1,0,0.0,3277
+"330,000 SqFt",1,0,0,0.0,3278
+"340,000 SqFt",1,0,0,0.0,3279
+360 Technology Center Solutions,1,1,0,0.0,3280
+360E 22nd,1,1,0,0.0,3281
+382 Communications,1,1,0,0.0,3282
+"396,343 SqFt",1,0,0,0.0,3283
+3MDC,1,1,0,0.0,3284
+3W Infra B.V.,1,0,0,0.0,3285
+oodoo communications,1,0,0,0.0,3286
+raiffeisen informatik gmbh,1,0,0,0.0,3287
+runxun,1,0,0,0.0,3288
+talia limited,1,0,0,0.0,3289
+tcc technology,1,0,0,0.0,3290
+tele columbus,1,0,0,0.0,3291
+the benaroya company,1,0,0,0.0,3292
+SupraNet Communications,1,0,0,0.0,3293
+Suttons Cloud,1,0,0,0.0,3294
+Syaala Infra,1,0,0,0.0,3295
+Adamant,1,1,0,0.0,3296
+ASICSPACE,1,1,0,0.0,3297
+ATLEX It Infrastructure,1,0,0,0.0,3298
+AUBix,1,0,0,0.0,3299
+"750,000 SqFt",1,0,0,0.0,3300
+76th Business Complex,1,1,0,0.0,3301
+"868,431 SqFt",1,0,0,0.0,3302
+"970,000 SqFt",1,0,0,0.0,3303
+iHost.AL,1,1,0,0.0,3304
+iStreet Solutions,1,1,0,0.0,3305
+infinity telecom,1,0,0,0.0,3306
+AbsCloud,1,0,0,0.0,3307
+Accel Communications,1,0,0,0.0,3308
+Acceleration,1,1,0,0.0,3309
+Acehost,1,1,0,0.0,3310
+Acorn Technology Services,1,1,0,0.0,3311
+Apollo Global Management,1,1,0,0.0,3312
+Apotech,1,1,0,0.0,3313
+Apotech Group,1,0,0,0.0,3314
+Applied Digital,1,1,0,0.0,3315
+Almaguin Data,1,0,0,0.0,3316
+Altafiber,1,1,0,0.0,3317
+Air Products,1,1,0,0.0,3318
+Alcove Development,1,1,0,0.0,3319
+Ashland Technology Complex and Data Center,1,1,0,0.0,3320
+Astound Business,1,1,0,0.0,3321
+Astute Hosting Incorporated,1,1,0,0.0,3322
+Atlas Capital Group,1,1,0,0.0,3323
+Atlas Power,1,1,0,0.0,3324
+"Arena Investors, LP",1,1,0,0.0,3325
+Arteria Networks Corporation,1,0,0,0.0,3326
+Amp Z,1,1,0,0.0,3327
+Simple Helix,1,0,0,0.0,3328
+Simply Bits LLLC,1,1,0,0.0,3329
+Sinch,1,1,0,0.0,3330
+Servpac,1,0,0,0.0,3331
+Shatter I.T,1,0,0,0.0,3332
+Shorenstein,1,1,0,0.0,3333
+Sejong Telecom,1,0,0,0.0,3334
+Semaphore Corporation,1,1,0,0.0,3335
+TPC Data Centers,1,1,0,0.0,3336
+TSBG Hosting,1,0,0,0.0,3337
+TSR Solutions,1,0,0,0.0,3338
+TTC Transtelecom,1,0,0,0.0,3339
+Sierra Data Centers,1,1,0,0.0,3340
+Sierra Morena Tower,1,1,0,0.0,3341
+Silvernox,1,0,0,0.0,3342
+Simcentric Solutions Limited,1,0,0,0.0,3343
+Skygard,1,0,0,0.0,3344
+Skyonline,1,0,0,0.0,3345
+Smart City Holdings,1,1,0,0.0,3346
+SmartCIC,1,0,0,0.0,3347
+TELY Ltda.,1,0,0,0.0,3348
+TNNet Oy,1,0,0,0.0,3349
+TNS Chile – TechNetSecurity SpA,1,0,0,0.0,3350
+TOHKnet,1,0,0,0.0,3351
+Sofia Data Center (SDC),1,1,0,0.0,3352
+Sollensys,1,1,0,0.0,3353
+Solstice Data,1,1,0,0.0,3354
+Solutrix,1,1,0,0.0,3355
+Soniko,1,1,0,0.0,3356
+Singtel Optus Pty Limited (Optus),1,0,0,0.0,3357
+SkyLink,1,0,0,0.0,3358
+SkyLink Data Centers,1,1,0,0.0,3359
+SOCO Network Solutions,1,0,0,0.0,3360
+STL,1,1,0,0.0,3361
+Russo Development,1,1,0,0.0,3362
+SAMX Data,1,1,0,0.0,3363
+SDC Capital Partners,1,1,0,0.0,3364
+ReliableSite,1,1,0,0.0,3365
+Revelation Network Management,1,1,0,0.0,3366
+Revitalization Unlimited,1,1,0,0.0,3367
+TelNet Worldwide,1,1,0,0.0,3368
+SW Hosting,1,0,0,0.0,3369
+SWU TeleNet,1,0,0,0.0,3370
+Sanef Télécoms,1,0,0,0.0,3371
+Saskatoon Internet Exchange,1,0,0,0.0,3372
+Satcom Direct,1,1,0,0.0,3373
+SH OTC,1,1,0,0.0,3374
+SMS Datacenter,1,1,0,0.0,3375
+Secant Technologies,1,0,0,0.0,3376
+Securebit AG,1,0,0,0.0,3377
+TasmaNet Pty Ltd,1,0,0,0.0,3378
+Technology Center Perg GmbH,1,0,0,0.0,3379
+Technology Solutions of SC,1,0,0,0.0,3380
+Teclenet Soluções Tecnológicas,1,0,0,0.0,3381
+Teknet,1,0,0,0.0,3382
+Tel-NetworksUSA,1,1,0,0.0,3383
+Senawave,1,0,0,0.0,3384
+Sequitor Edge,1,1,0,0.0,3385
+"Servecentric Ltd, Dublin Ireland",1,0,0,0.0,3386
+Server Farm OÜ,1,1,0,0.0,3387
+ServerDiscounter,1,0,0,0.0,3388
+ServerHosh Internet Service,1,0,0,0.0,3389
+Satellite Mediaport Services,1,0,0,0.0,3390
+Seattle Colocation,1,1,0,0.0,3391
+Quetta,1,0,0,0.0,3392
+Quicktel,1,0,0,0.0,3393
+Quinby Building,1,1,0,0.0,3394
+QumulusAI,1,1,0,0.0,3395
+Quonix,1,0,0,0.0,3396
+RACK59 Data Center,1,0,0,0.0,3397
+Proen,1,0,0,0.0,3398
+Pronexon,1,0,0,0.0,3399
+Rackdog,1,0,0,0.0,3400
+Telconet,1,1,0,0.0,3401
+TeleSource Communications,1,1,0,0.0,3402
+QScale,1,0,0,0.0,3403
+QX.Net,1,0,0,0.0,3404
+Quad State Internet,1,1,0,0.0,3405
+QuadraNet.com,1,1,0,0.0,3406
+Qualysite Technologies,1,0,0,0.0,3407
+Real Estate Data Center,1,0,0,0.0,3408
+Redestel Data Center,1,0,0,0.0,3409
+Reese Data Center,1,1,0,0.0,3410
+RAX,1,0,0,0.0,3411
+RT Software Hosting,1,1,0,0.0,3412
+RX- name,1,1,0,0.0,3413
+Rack Bunker Data Centers,1,0,0,0.0,3414
+Rack Digital,1,0,0,0.0,3415
+Richweb,1,1,0,0.0,3416
+Ricoh Americas Corporation,1,0,0,0.0,3417
+Ridge Max,1,0,0,0.0,3418
+Rochester Colo,1,1,0,0.0,3419
+Rockbridge Area Network Authority,1,1,0,0.0,3420
+Radore Data Centers,1,0,0,0.0,3421
+Raxio,1,0,0,0.0,3422
+Ready Tecnologia da Informação Ltda,1,0,0,0.0,3423
+Penta-Infra,1,1,0,0.0,3424
+Personal Computers,1,1,0,0.0,3425
+Phoenix Internet,1,1,0,0.0,3426
+PierDC,1,0,0,0.0,3427
+PT Usaha Adi Sanggoro,1,0,0,0.0,3428
+PT remala abadi,1,0,0,0.0,3429
+PT. Rak Super Ninja,1,0,0,0.0,3430
+Paratus Africa,1,1,0,0.0,3431
+Plano Data Center | Global IP Networks,1,1,0,0.0,3432
+Plug and Play Tech Center,1,1,0,0.0,3433
+PocketInet,1,1,0,0.0,3434
+Point,1,0,0,0.0,3435
+PointVoIP,1,1,0,0.0,3436
+Poolside AI,1,1,0,0.0,3437
+PenDC Data Center Solutions,1,0,0,0.0,3438
+Penta Berlin GmbH,1,1,0,0.0,3439
+Prime Center,1,0,0,0.0,3440
+Prime Plaza,1,0,0,0.0,3441
+Prism Capital Partners,1,1,0,0.0,3442
+TenHats,1,1,0,0.0,3443
+Tennet Telecom,1,0,0,0.0,3444
+Planet Access Networks,1,0,0,0.0,3445
+Planet Networks,1,1,0,0.0,3446
+Planetel S.p.A.,1,0,0,0.0,3447
+Pronto Net,1,0,0,0.0,3448
+Prored Comunicaciones,1,0,0,0.0,3449
+Prosoluce,1,1,0,0.0,3450
+PwC,1,1,0,0.0,3451
+Power PRotection Products,1,1,0,0.0,3452
+PowerTransitions,1,1,0,0.0,3453
+PremierDC Veri Merkezi,1,0,0,0.0,3454
+Prime Campus,1,0,0,0.0,3455
+Orchard Partners,1,1,0,0.0,3456
+Orion Data Centers,1,1,0,0.0,3457
+"Oso Grande Technologies,",1,0,0,0.0,3458
+OuiHeberg,1,0,0,0.0,3459
+Overton Moore Properties,1,1,0,0.0,3460
+OzarksGo,1,0,0,0.0,3461
+Omnis Network,1,1,0,0.0,3462
+On-Ramp Indiana,1,0,0,0.0,3463
+PS Lightwave,1,1,0,0.0,3464
+PT Andalas Media Informatika,1,0,0,0.0,3465
+PT Cybertechtonic Pratama,1,0,0,0.0,3466
+PT Julia Multimedia Nusantara,1,0,0,0.0,3467
+PT Lingkar Sentral Data,1,0,0,0.0,3468
+PT Padi Internet (PadiTech),1,0,0,0.0,3469
+Opti9 Technology,1,1,0,0.0,3470
+Optimum Computer Solutions (OCS),1,1,0,0.0,3471
+The Benchmark Group,1,1,0,0.0,3472
+The Computer Company,1,1,0,0.0,3473
+The Globe Building,1,1,0,0.0,3474
+The Gotham Bus Company,1,1,0,0.0,3475
+PGNet Provedor,1,0,0,0.0,3476
+PLTPRO,1,0,0,0.0,3477
+PRP Real Estate Investment,1,1,0,0.0,3478
+PRSM Group,1,1,0,0.0,3479
+Park One,1,0,0,0.0,3480
+Park Ultra,1,0,0,0.0,3481
+Partimus,1,0,0,0.0,3482
+Patmos Hosting,1,1,0,0.0,3483
+Pavlov Media,1,1,0,0.0,3484
+Terra Ventures,1,1,0,0.0,3485
+Teton Digital,1,1,0,0.0,3486
+The 130 Building,1,1,0,0.0,3487
+Nexeon,1,1,0,0.0,3488
+Nextel Telecomunicacoes LTDA,1,0,0,0.0,3489
+Nextra by Airtel,1,1,0,0.0,3490
+Nexus Data Center,1,0,0,0.0,3491
+Nexus Data Centers,1,1,0,0.0,3492
+NexusTek,1,1,0,0.0,3493
+NikHef Housing,1,0,0,0.0,3494
+Nocix,1,0,0,0.0,3495
+Nunsys Paterna,1,0,0,0.0,3496
+Nuvollo,1,0,0,0.0,3497
+ODC Data Center,1,0,0,0.0,3498
+ONET.PL S.A.,1,0,0,0.0,3499
+Oasis Digital Properties,1,1,0,0.0,3500
+Odessa Traffic Exchange Network (Od-IX),1,1,0,0.0,3501
+Nordiska Servercentralen AB,1,0,0,0.0,3502
+Novatel,1,0,0,0.0,3503
+"The Westin Building, 2001 Sixth",1,1,0,0.0,3504
+ThinkOn,1,0,0,0.0,3505
+Thomas Kalamaris,1,1,0,0.0,3506
+Three,1,0,0,0.0,3507
+Thrive,1,1,0,0.0,3508
+Thésée Datacenter,1,0,0,0.0,3509
+Tillion DC,1,0,0,0.0,3510
+Tillion Data Centers,1,1,0,0.0,3511
+OnFire Datacenter,1,1,0,0.0,3512
+One C1,1,1,0,0.0,3513
+OneColo,1,1,0,0.0,3514
+"OnePartner, LLC.",1,1,0,0.0,3515
+Onix Data Centres,1,1,0,0.0,3516
+Open Hub Med,1,0,0,0.0,3517
+OpenMetal.io,1,0,0,0.0,3518
+The STEM Practice,1,1,0,0.0,3519
+NISS Fibernet,1,0,0,0.0,3520
+Miran Data Center,1,0,0,0.0,3521
+Mobius Partners,1,1,0,0.0,3522
+Morgan Reed Group,1,1,0,0.0,3523
+"Morlin Asset Management, LP",1,1,0,0.0,3524
+Mountain West Technologies,1,1,0,0.0,3525
+N Plus Networks,1,0,0,0.0,3526
+Metro Edge,1,1,0,0.0,3527
+Treefaz,1,0,0,0.0,3528
+NSIA Technologies,1,1,0,0.0,3529
+NVIDIA,1,1,0,0.0,3530
+NXO OI,1,1,0,0.0,3531
+NacSpace.com,1,1,0,0.0,3532
+NCS Datacom,1,1,0,0.0,3533
+NES Data,1,1,0,0.0,3534
+NETHINKS GmbH,1,0,0,0.0,3535
+NetTek,1,1,0,0.0,3536
+Netforchoice Data Center,1,0,0,0.0,3537
+Nebula,1,0,0,0.0,3538
+Nessus,1,0,0,0.0,3539
+Top NET,1,1,0,0.0,3540
+Top Systems Data Centers,1,0,0,0.0,3541
+Tops.net GmbH & Co. KG,1,0,0,0.0,3542
+Tornado Datacenter GmbH & Co. KG,1,0,0,0.0,3543
+Nettalk .Com,1,1,0,0.0,3544
+Nettogo,1,1,0,0.0,3545
+Netwise,1,0,0,0.0,3546
+New Wave Industries,1,1,0,0.0,3547
+New York Connect.Net,1,1,0,0.0,3548
+NewBridge,1,1,0,0.0,3549
+NewTelco,1,0,0,0.0,3550
+NetEx,1,1,0,0.0,3551
+Maroc Datacenter,1,1,0,0.0,3552
+Mars Data Center,1,0,0,0.0,3553
+Mascom,1,1,0,0.0,3554
+MAXNOD,1,0,0,0.0,3555
+MEO,1,1,0,0.0,3556
+MNSi Telecom,1,0,0,0.0,3557
+Machine Investment Group,1,1,0,0.0,3558
+LogosNet Services Ltd,1,0,0,0.0,3559
+Mawson Infrastructure Group,1,1,0,0.0,3560
+Max,1,0,0,0.0,3561
+Medallion Communications,1,1,0,0.0,3562
+Media Datacentre,1,1,0,0.0,3563
+MenkiSys Networks,1,0,0,0.0,3564
+Main Place Liberty Group,1,1,0,0.0,3565
+Mango Bay Internet,1,1,0,0.0,3566
+Markley Group,1,0,0,0.0,3567
+Millennium Systems,1,1,0,0.0,3568
+TrueNet,1,1,0,0.0,3569
+Trusted-Colo GmbH & Co,1,0,0,0.0,3570
+Trustwave Holdings,1,1,0,0.0,3571
+Tulix Systems,1,1,0,0.0,3572
+TurnKey Internet,1,0,0,0.0,3573
+Turnket,1,0,0,0.0,3574
+Massive Networks,1,0,0,0.0,3575
+Metro Optic,1,0,0,0.0,3576
+Metro Plaza,1,0,0,0.0,3577
+Metro Station,1,0,0,0.0,3578
+Metronet,1,1,0,0.0,3579
+Micron21,1,0,0,0.0,3580
+Microtronix ESolutions,1,1,0,0.0,3581
+Middletown Data Center,1,1,0,0.0,3582
+Mihta Askiy Datacenter LP,1,0,0,0.0,3583
+Libyan Spider,1,1,0,0.0,3584
+LightHouse Data Centers,1,1,0,0.0,3585
+LCUB,1,1,0,0.0,3586
+LIM DC,1,0,0,0.0,3587
+LN Compute,1,1,0,0.0,3588
+Lalani Ventures,1,1,0,0.0,3589
+Lambda,1,1,0,0.0,3590
+Lancium,1,1,0,0.0,3591
+Ubiquity,1,1,0,0.0,3592
+Ucomline (Digital Generation),1,1,0,0.0,3593
+Ukrnames,1,1,0,0.0,3594
+UnReal Servers,1,0,0,0.0,3595
+Layer 9 Data Center,1,0,0,0.0,3596
+LeFrak Organization,1,1,0,0.0,3597
+Legacy Investing,1,1,0,0.0,3598
+Leuk Teleport and Data Centre,1,0,0,0.0,3599
+LiteWire Data,1,0,0,0.0,3600
+Litewire,1,1,0,0.0,3601
+UKDedicated,1,0,0,0.0,3602
+UNIT-IS,1,1,0,0.0,3603
+UPX technologies,1,0,0,0.0,3604
+US Internet (USI),1,0,0,0.0,3605
+US Secure Hosting Center,1,0,0,0.0,3606
+UV&S,1,1,0,0.0,3607
+Long Beach Data Center,1,1,0,0.0,3608
+Long Island Interconnect,1,1,0,0.0,3609
+Loop Internet,1,1,0,0.0,3610
+Lounea,1,0,0,0.0,3611
+LightSpeed Technologies,1,1,0,0.0,3612
+LightWave Networks,1,1,0,0.0,3613
+Link Logistics,1,1,0,0.0,3614
+Linkdata.com,1,1,0,0.0,3615
+Info Data Center Ltd,1,0,0,0.0,3616
+Infotel Systems,1,1,0,0.0,3617
+InfraDMS,1,1,0,0.0,3618
+Inland Fiber & Data,1,1,0,0.0,3619
+Integris,1,1,0,0.0,3620
+Intel Corporation,1,1,0,0.0,3621
+IXAfrica Data Centre,1,1,0,0.0,3622
+Imperial Valley Computer Manufacturing,1,1,0,0.0,3623
+Unisecure Data Centers,1,1,0,0.0,3624
+University of Maine System,1,0,0,0.0,3625
+Utility Line Italia,1,0,0,0.0,3626
+InterVest Capital Partners,1,1,0,0.0,3627
+"Intercontinental Exchange, Inc. (ICE)",1,1,0,0.0,3628
+Interlink Advantage,1,1,0,0.0,3629
+Infinite Chain,1,0,0,0.0,3630
+Infiumhost,1,1,0,0.0,3631
+K&D Real Estate Services,1,1,0,0.0,3632
+KBS Capital Markets Group,1,1,0,0.0,3633
+Intraworks I.T.,1,0,0,0.0,3634
+Iozera,1,1,0,0.0,3635
+Iris Networks,1,1,0,0.0,3636
+JEMB Realty,1,1,0,0.0,3637
+JMF Solutions,1,1,0,0.0,3638
+Unidata Aziende,1,0,0,0.0,3639
+Kentucky Underground Storage,1,1,0,0.0,3640
+KevlinX,1,0,0,0.0,3641
+Keystone Nap,1,0,0,0.0,3642
+Kooba,1,0,0,0.0,3643
+Krambu,1,1,0,0.0,3644
+James Byaruhanga,1,1,0,0.0,3645
+Joes Datacenter,1,1,0,0.0,3646
+Jones Lang LaSalle (JLL),1,1,0,0.0,3647
+Hosting.UA,1,1,0,0.0,3648
+Hostman LTD,1,0,0,0.0,3649
+Hub Beta,1,0,0,0.0,3650
+Hudson InterXchange,1,1,0,0.0,3651
+Huemer Group,1,0,0,0.0,3652
+Humber Tech Park Ltd,1,1,0,0.0,3653
+Huntleigh Technology Group,1,1,0,0.0,3654
+Hines,1,1,0,0.0,3655
+HydraVault,1,1,0,0.0,3656
+Hyperscale Data,1,1,0,0.0,3657
+Hyperscale Data Center,1,0,0,0.0,3658
+I-Evolve Technology Services,1,1,0,0.0,3659
+I74 Wired,1,1,0,0.0,3660
+ICS BİLİŞİM TEKNOLOJİLERİ DANIŞMANLIK HİZMETLERİ A.Ş.,1,0,0,0.0,3661
+IDL Internet,1,0,0,0.0,3662
+HostRocket,1,0,0,0.0,3663
+IONOS,1,1,0,0.0,3664
+IPHH - Internet Port Hamburg GmbH,1,1,0,0.0,3665
+VOLhighspeed,1,0,0,0.0,3666
+Valley Oak Partners,1,1,0,0.0,3667
+Valley Pro,1,0,0,0.0,3668
+Varna,1,0,0,0.0,3669
+Vastnet,1,1,0,0.0,3670
+Vazata,1,0,0,0.0,3671
+In2net Network,1,0,0,0.0,3672
+Inferencia Integral,1,0,0,0.0,3673
+IPcore,1,0,0,0.0,3674
+IT Solutions Group,1,0,0,0.0,3675
+IHNetworks,1,1,0,0.0,3676
+ILK Internet GmbH,1,0,0,0.0,3677
+INNON,1,1,0,0.0,3678
+IONIC Digital,1,1,0,0.0,3679
+Garden State Backup,1,1,0,0.0,3680
+Gearheart Communications,1,1,0,0.0,3681
+GigeNET,1,1,0,0.0,3682
+G4 Communications,1,0,0,0.0,3683
+GIGA Data Centers,1,0,0,0.0,3684
+GNET Grupalia Internet S.A,1,0,0,0.0,3685
+GTD Internet,1,0,0,0.0,3686
+Flo Networks,1,1,0,0.0,3687
+Vescnet,1,0,0,0.0,3688
+Global,1,0,0,0.0,3689
+Global AI,1,1,0,0.0,3690
+Global Campus,1,0,0,0.0,3691
+Global Enterprise Technologies,1,1,0,0.0,3692
+Global Technical Realty,1,0,0,0.0,3693
+GTT Communications,1,1,0,0.0,3694
+Galaxy,1,1,0,0.0,3695
+Heartland Business System,1,1,0,0.0,3696
+Grid/Jet Datacentres,1,0,0,0.0,3697
+HHHunt Corporation,1,1,0,0.0,3698
+Gouvernement de Côte d'Ivoire,1,1,0,0.0,3699
+Green Bridge Real Estate,1,1,0,0.0,3700
+Vegasystems GmbH & Co. KG,1,0,0,0.0,3701
+Vermaland,1,1,0,0.0,3702
+Verus Corporation,1,0,0,0.0,3703
+Homer City Redevelopment,1,1,0,0.0,3704
+HopOne @CherryRoad,1,0,0,0.0,3705
+Habitat Real Estate Partners,1,1,0,0.0,3706
+Hackman Capital Partners,1,1,0,0.0,3707
+Halton DC,1,0,0,0.0,3708
+Hamilton Telecommunications,1,1,0,0.0,3709
+Hammer Technology Holdings,1,1,0,0.0,3710
+Harvest Properties,1,1,0,0.0,3711
+European Data Hub S.A.,1,1,0,0.0,3712
+Evoswitch,1,1,0,0.0,3713
+Ewl Stollen Luzern,1,0,0,0.0,3714
+Eww Gruppe,1,0,0,0.0,3715
+Exaion,1,0,0,0.0,3716
+ExcalTech,1,0,0,0.0,3717
+Energy Concepts,1,1,0,0.0,3718
+Energy Transfer,1,1,0,0.0,3719
+Facility Gateway Corporation,1,1,0,0.0,3720
+FairlawnGig,1,1,0,0.0,3721
+Faros Properties,1,1,0,0.0,3722
+Fast2host - Fast4networks Ltd,1,1,0,0.0,3723
+FiberHub,1,0,0,0.0,3724
+EspacioRack,1,0,0,0.0,3725
+Euperline,1,1,0,0.0,3726
+Euphemystic Ventures,1,1,0,0.0,3727
+FirstDigital,1,1,0,0.0,3728
+"Flex Data Center, LLC.",1,1,0,0.0,3729
+Virtual networks,1,0,0,0.0,3730
+Virtuaoperator,1,0,0,0.0,3731
+Visa,1,1,0,0.0,3732
+Vivo Empresas,1,0,0,0.0,3733
+FCCN,1,0,0,0.0,3734
+FLEX-Integration,1,1,0,0.0,3735
+Fortescue,1,1,0,0.0,3736
+Franklin PUD,1,1,0,0.0,3737
+Frasier Cole,1,1,0,0.0,3738
+Free Pro,1,0,0,0.0,3739
+FullControl Network,1,1,0,0.0,3740
+Fiberstate,1,0,0,0.0,3741
+Fireline Broadband,1,1,0,0.0,3742
+First Communications,1,1,0,0.0,3743
+DotBlock DataCenter,1,1,0,0.0,3744
+Duomenu Logistikos Centras,1,1,0,0.0,3745
+Dynamic Internet,1,0,0,0.0,3746
+Digital Value,1,0,0,0.0,3747
+Digitial Cloud Vault,1,1,0,0.0,3748
+Dataprana,1,1,0,0.0,3749
+Davey Holdings,1,1,0,0.0,3750
+Dedicated Solutions,1,0,0,0.0,3751
+East Africa Data Centre (EADC),1,1,0,0.0,3752
+East Kentucky Network,1,1,0,0.0,3753
+Echelon Data Center,1,0,0,0.0,3754
+Econocom,1,0,0,0.0,3755
+Edge Center,1,0,0,0.0,3756
+Edge Park,1,0,0,0.0,3757
+Edge Tower,1,0,0,0.0,3758
+Dnsnetworks corporation,1,0,0,0.0,3759
+Voltekko,1,0,0,0.0,3760
+WANSecurity Hosting,1,1,0,0.0,3761
+WDC Data Center Solutions,1,0,0,0.0,3762
+WOBCOM,1,0,0,0.0,3763
+WV Energie AG,1,0,0,0.0,3764
+Wacolo (Columbia Colocation),1,0,0,0.0,3765
+Walhalla,1,0,0,0.0,3766
+East,1,0,0,0.0,3767
+EnergyNet,1,1,0,0.0,3768
+Eneus Energy,1,1,0,0.0,3769
+Eonix Communications,1,1,0,0.0,3770
+Epic Ltd,1,0,0,0.0,3771
+Epic.io,1,1,0,0.0,3772
+Epsilon,1,1,0,0.0,3773
+Eir Evo,1,0,0,0.0,3774
+Elm Datacenter,1,1,0,0.0,3775
+DataRush IT,1,0,0,0.0,3776
+Dade2,1,0,0,0.0,3777
+Data Facilities Data Centers,1,0,0,0.0,3778
+Data Felix,1,0,0,0.0,3779
+DBT DATA - Cyber Integration Center,1,1,0,0.0,3780
+DC IT ROOM,1,0,0,0.0,3781
+DC Mining,1,0,0,0.0,3782
+DCA | PIER,1,0,0,0.0,3783
+Data-Tech,1,1,0,0.0,3784
+DataCell,1,0,0,0.0,3785
+DataCity,1,0,0,0.0,3786
+DataNOC.com,1,1,0,0.0,3787
+DataNovaX,1,1,0,0.0,3788
+DataOne,1,1,0,0.0,3789
+DataOne NL,1,1,0,0.0,3790
+DataPoint,1,1,0,0.0,3791
+WebNX,1,0,0,0.0,3792
+WebNX Internet Services,1,1,0,0.0,3793
+Webservio,1,1,0,0.0,3794
+Wells Interconnection,1,0,0,0.0,3795
+West,1,0,0,0.0,3796
+West Station,1,0,0,0.0,3797
+WhiteHosting,1,1,0,0.0,3798
+Data Suites,1,1,0,0.0,3799
+Delimiter,1,1,0,0.0,3800
+Delska (DEAC European Data Center Operator),1,0,0,0.0,3801
+Databridge Sites,1,1,0,0.0,3802
+Datacentre220,1,0,0,0.0,3803
+Datagroup,1,1,0,0.0,3804
+Datalahti,1,0,0,0.0,3805
+Watch Communications,1,0,0,0.0,3806
+WeConnect Data Center,1,0,0,0.0,3807
+Curtis Hall Limited,1,0,0,0.0,3808
+Conscious Capital Data Center,1,1,0,0.0,3809
+Conscious Data Centers,1,0,0,0.0,3810
+Constant Hosting,1,1,0,0.0,3811
+Converge Technology Solutions,1,1,0,0.0,3812
+Core Plaza,1,0,0,0.0,3813
+Core Tower,1,0,0,0.0,3814
+Core42 - G42 Company,1,1,0,0.0,3815
+Winsor Consulting Group,1,1,0,0.0,3816
+Wintek Corporation,1,0,0,0.0,3817
+Wnet Telecom,1,0,0,0.0,3818
+Wolast Technologies,1,1,0,0.0,3819
+Cosmonova,1,1,0,0.0,3820
+Cover-All Computer Services,1,0,0,0.0,3821
+Creanova Datacenter,1,0,0,0.0,3822
+Cube Global Storage,1,0,0,0.0,3823
+DATAHIVE,1,0,0,0.0,3824
+DATAONE,1,1,0,0.0,3825
+Whitelabel IT Solutions,1,0,0,0.0,3826
+Whitelabelitsolutions,1,1,0,0.0,3827
+Wicity Srl,1,0,0,0.0,3828
+Wicorp S.A (Nubenet),1,0,0,0.0,3829
+Wiki Telecomunicações,1,0,0,0.0,3830
+Wingu,1,0,0,0.0,3831
+DCX,1,1,0,0.0,3832
+DNA OYJ,1,0,0,0.0,3833
+Cyber Data Centre,1,0,0,0.0,3834
+Cyber Wurx,1,1,0,0.0,3835
+Cybercon.com,1,1,0,0.0,3836
+Cyberverse,1,0,0,0.0,3837
+Cyfuture Cloud,1,0,0,0.0,3838
+D-Alix Data Center,1,0,0,0.0,3839
+CloudBurst Data Centers,1,1,0,0.0,3840
+CloudCenters,1,1,0,0.0,3841
+CloudSouth,1,0,0,0.0,3842
+Cohere Communications,1,1,0,0.0,3843
+City of Westerville - WeConnect,1,1,0,0.0,3844
+CityFibre Networks,1,0,0,0.0,3845
+Clarkson University,1,1,0,0.0,3846
+Cleardata Networks,1,1,0,0.0,3847
+ColoCSX,1,1,0,0.0,3848
+ColoCenters,1,1,0,0.0,3849
+ColoInSeattle.com,1,1,0,0.0,3850
+Colobâle AG,1,0,0,0.0,3851
+Colombia Colocation,1,1,0,0.0,3852
+Cloud Carrier,1,1,0,0.0,3853
+Cloud South,1,1,0,0.0,3854
+CloudBalkan,1,0,0,0.0,3855
+XINON GmbH,1,0,0,0.0,3856
+XMission,1,0,0,0.0,3857
+XNet Information Systems,1,1,0,0.0,3858
+XTX Markets,1,1,0,0.0,3859
+"Xecunet, LLC.",1,1,0,0.0,3860
+Xentime,1,1,0,0.0,3861
+Xera Data Center,1,0,0,0.0,3862
+Xyvest Holdings,1,1,0,0.0,3863
+Coloware,1,0,0,0.0,3864
+Colozueri,1,0,0,0.0,3865
+Columbia Data Vault,1,0,0,0.0,3866
+Commonwealth Technical Services,1,1,0,0.0,3867
+Communication Square,1,1,0,0.0,3868
+Community ISP,1,1,0,0.0,3869
+Compugen,1,1,0,0.0,3870
+Computer Facilities Technical Services (CFTS),1,0,0,0.0,3871
+COOLHOUSING,1,0,0,0.0,3872
+CPD TITAN,1,0,0,0.0,3873
+CRG,1,1,0,0.0,3874
+CSS Communications,1,1,0,0.0,3875
+CVM,1,1,0,0.0,3876
+CWCS,1,0,0,0.0,3877
+CL8 (Cyprus IT Services),1,0,0,0.0,3878
+CMS Internet,1,1,0,0.0,3879
+Cablenet Communication Systems,1,0,0,0.0,3880
+Cabo Verde Telecom,1,1,0,0.0,3881
+Calpine Corporation,1,1,0,0.0,3882
+Canon IT Solutions,1,0,0,0.0,3883
+Carrier Core,1,1,0,0.0,3884
+Carrier One,1,0,0,0.0,3885
+COM-IN Telekommunikations GmbH,1,0,0,0.0,3886
+COMSTAR - United TeleSystems,1,1,0,0.0,3887
+Cascade Divide Data Centers,1,0,0,0.0,3888
+Center Plus,1,0,0,0.0,3889
+CenterGrid,1,1,0,0.0,3890
+CenterPoint Properties,1,1,0,0.0,3891
+Centre WISP Venture Company,1,1,0,0.0,3892
+Century,1,1,0,0.0,3893
+Zugernet,1,0,0,0.0,3894
+Zulu Technology Ltd,1,0,0,0.0,3895
+Clearstream Technology Group Ltd,1,0,0,0.0,3896
+Century CEM-DC01,1,1,0,0.0,3897
+Cetin,1,0,0,0.0,3898
+Charlotte Colocation Center,1,0,0,0.0,3899
+ChimeNet,1,1,0,0.0,3900
+Carrier-Neutral Data Center,1,0,0,0.0,3901
+Carrierhouse Data Center,1,1,0,0.0,3902
+Carroll-Net,1,0,0,0.0,3903
+Barrio Energy,1,1,0,0.0,3904
+Atos Group,1,1,0,0.0,3905
+Aunalytics,1,1,0,0.0,3906
+Aureon,1,0,0,0.0,3907
+Aureon Networks,1,1,0,0.0,3908
+Aurum Capital Ventures,1,1,0,0.0,3909
+Australian data centre,1,0,0,0.0,3910
+Axon Datacenters,1,1,0,0.0,3911
+aspStation,1,1,0,0.0,3912
+bigbyte.cc,1,0,0,0.0,3913
+eNET,1,1,0,0.0,3914
+Baum Realty Group,1,1,0,0.0,3915
+Bay Pointe,1,1,0,0.0,3916
+"Bestline Communications, L.P.",1,1,0,0.0,3917
+Bexar Datacenter,1,1,0,0.0,3918
+BGMU Fiber,1,1,0,0.0,3919
+BroadBand Tower,1,0,0,0.0,3920
+Brush Mountain Data Center,1,1,0,0.0,3921
+"BitPusher, LLC.",1,1,0,0.0,3922
+Bitera Data Center,1,0,0,0.0,3923
+Bitzero Blockchain,1,1,0,0.0,3924
+Blockfusion,1,1,0,0.0,3925
+Blue,1,1,0,0.0,3926
+Bluebird Network,1,1,0,0.0,3927
+ByteLok IT Solutions,1,0,0,0.0,3928
+"Bytemark, an iomart company",1,0,0,0.0,3929
+CAPS (Computer Alternative Processing Sites),1,1,0,0.0,3930
+CARI.net,1,1,0,0.0,3931
+CDW Corporation,1,1,0,0.0,3932
+Borealis Data Center,1,0,0,0.0,3933
+Botswana Innovation Hub,1,1,0,0.0,3934
+Box2bit,1,0,0,0.0,3935
+w-doors,1,1,0,0.0,3936
+121 Varick Street,1,1,0,0.0,3937
+1010 Technology Center,1,1,0,0.0,3938
+1001 Texas Data Center,1,1,0,0.0,3939
+xefi shd cloud,1,0,0,0.0,3940
+yartranzittelecom cjs,1,0,0,0.0,3941
+"1,400,000 SqFt",1,0,0,0.0,3942
+Synapse Data Center,1,0,0,0.0,3943
+"691,530 SqFt",1,0,0,0.0,3944
+"700,000 SqFt",1,0,0,0.0,3945
+"703,450 SqFt",1,0,0,0.0,3946
+irix Sdn. Bhd.,1,0,0,0.0,3947
+"182,350 SqFt",1,0,0,0.0,3948
+1623 Farnam,1,1,0,0.0,3949
+"161,459 SqFt",1,0,0,0.0,3950
+1606,1,1,0,0.0,3951
+"495,000 SqFt",1,0,0,0.0,3952
+"531,700 SqFt",1,0,0,0.0,3953
+"550,000 SqFt",1,0,0,0.0,3954
+"564,789 SqFt",1,0,0,0.0,3955
+5nines,1,0,0,0.0,3956
+"602,779 SqFt",1,0,0,0.0,3957
+"606,388 SqFt",1,0,0,0.0,3958
+"682,500 SqFt",1,0,0,0.0,3959
+"995,000 SqFt",1,0,0,0.0,3960
+ABcom,1,1,0,0.0,3961
+"400,000 SqFt",1,0,0,0.0,3962
+"430,000 SqFt",1,0,0,0.0,3963
+"438,460 SqFt",1,0,0,0.0,3964
+"450,000 SqFt",1,0,0,0.0,3965
+"455,000 SqFt",1,0,0,0.0,3966
+"486,000 SqFt",1,0,0,0.0,3967
+South Tower,1,0,0,0.0,3968
+Southwest Cyberport,1,0,0,0.0,3969
+Sparrow Technology Solutions,1,0,0,0.0,3970
+Spectrum,1,1,0,0.0,3971
+SpeedBone,1,0,0,0.0,3972
+Speedcast International,1,1,0,0.0,3973
+SmartColo,1,1,0,0.0,3974
+SmarttNet,1,0,0,0.0,3975
+Stadtwerke Wörgl,1,0,0,0.0,3976
+Star Europe Limited,1,0,0,0.0,3977
+Starwood Digital Ventures,1,1,0,0.0,3978
+Station Gamma,1,0,0,0.0,3979
+Stealth - ISS,1,1,0,0.0,3980
+SteelVault Data Centers,1,1,0,0.0,3981
+SteepHost DC-UA,1,1,0,0.0,3982
+Stellium,1,0,0,0.0,3983
+SunnyVision,1,0,0,0.0,3984
+"Superb Internet, A CherryRoad Company",1,0,0,0.0,3985
+SupraNet AG,1,0,0,0.0,3986
+T4 Group,1,0,0,0.0,3987
+TAS Cloud Services,1,0,0,0.0,3988
+TELVGG,1,0,0,0.0,3989
+Sprint S.A,1,0,0,0.0,3990
+Stadtwerke Feldkirch,1,0,0,0.0,3991
+Synergy Fiber,1,0,0,0.0,3992
+Sterling Telecom Office Building,1,1,0,0.0,3993
+Stonerock Capital Partners,1,1,0,0.0,3994
+StoreSpeed,1,0,0,0.0,3995
+StratCap Data Centers,1,1,0,0.0,3996
+Strata Expanse,1,1,0,0.0,3997
+Strata Networks,1,0,0,0.0,3998
+Strategic Datasphere,1,1,0,0.0,3999

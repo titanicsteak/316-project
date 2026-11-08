@@ -1,0 +1,1377 @@
+name,company,state,status,capacity_mw,lat,lon,state_name,capacity_known
+IREN Childress (Bitcoin mining),IREN,TX,Operating,750.0,34.38247237,-100.055684,Texas,True
+AWS New Carlisle - Phase 1,Amazon AWS,IN,Operating,525.0,41.6713922,-86.4812191,Indiana,True
+Henrico Data Center,Meta,VA,Operating,500.0,37.484439,-77.236867,Virginia,True
+EdgeCore Mesa: PH03,EdgeCore,AZ,Operating,450.0,33.34430587,-111.619829,Arizona,True
+Stack Infrastructure NVA02 Campus,STACK Infrastructure,VA,Operating,420.0,38.74435198,-77.53293039,Virginia,True
+Project Zodiac - Phase 1,Google,IN,Operating,400.0,41.03472,-85.047459,Indiana,True
+Core Scientific: Denton 1,Core Scientific,TX,Operating,391.0,33.21467944,-97.21037879,Texas,True
+Fairwater 2 - Atlanta,Microsoft,GA,Operating,350.0,33.4487885,-84.5222894,Georgia,True
+Black Pearl Bitcoin mining,Cipher Mining,TX,Operating,300.0,31.6904044,-103.0763544,Texas,True
+Council Bluffs Data Center - Campus 2 West,Google,IA,Operating,300.0,41.1758333,-95.8096853,Iowa,True
+Stream Data Center: Phoenix I-VII,Stream Data Centers,AZ,Operating,280.0,33.41963459,-112.3601586,Arizona,True
+Colossus 1,xAI,TN,Operating,280.0,35.06009776,-90.15633975,Tennessee,True
+QTS Atlanta 1,QTS,GA,Operating,278.0,33.7783453,-84.4210909,Georgia,True
+DFW III-I,Compass Datacenters,TX,Operating,262.0,32.537467,-96.80455072,Texas,True
+QTS Richmond 1,QTS,VA,Operating,240.0,37.48891621,-77.24632494,Virginia,True
+Phoenix - Goodyear,Compass Datacenters,AZ,Operating,212.0,33.43532,-112.35821,Arizona,True
+QTS Phoenix II Campus,QTS,AZ,Operating,210.0,33.4623,-111.9952,Arizona,True
+Ashburn Data Center Campus VA1,Vantage Data Centers,VA,Operating,206.0,39.00236425,-77.43771856,Virginia,True
+Stream Data Center: San Antonio III - VII,Stream Data Centers,TX,Operating,200.0,29.44869783,-98.71268396,Texas,True
+Abilene Stargate Campus - Phase 1,Crusoe,TX,Operating,200.0,32.4986286,-99.7887683,Texas,True
+Fort Worth Data Center,Meta,TX,Operating,200.0,32.90594,-97.33518,Texas,True
+QTS Manassas DC1-DC6,QTS,VA,Operating,190.0,38.75294822,-77.51292626,Virginia,True
+IAD 01-04,Microsoft,VA,Operating,180.0,39.075329,-77.5642059,Virginia,True
+QTS Hillsboro 2,QTS,OR,Operating,180.0,45.5569403,-122.9319418,Oregon,True
+Aligned Phoenix PHX 01/02/03,Aligned,AZ,Operating,180.0,33.65924564,-112.1106723,Arizona,True
+Phoenix Data Center Campus: AZ1,Vantage Data Centers,AZ,Operating,176.0,33.4467458,-112.3740166,Arizona,True
+Northlake Chicago CH1,Microsoft,IL,Operating,158.0,41.922527,-87.918665,Illinois,True
+Papillion Data Center - Phase 2,Google,NE,Operating,150.0,41.1340621,-96.152247,Nebraska,True
+"Core Scientific: Calvert 1, 2 & 3",Core Scientific,KY,Operating,150.0,37.05091085,-88.3937639,Kentucky,True
+Microsoft Project Osmium,Microsoft,IA,Operating,150.0,41.49669,-93.787992,Iowa,True
+Microsoft Goodyear Campus,Microsoft,AZ,Operating,143.0,33.49257,-112.43882,Arizona,True
+Core Scientific: Dalton 3,Core Scientific,GA,Operating,142.0,34.70051551,-84.95049086,Georgia,True
+Tahoe Reno 1,Switch,NV,Operating,130.0,39.5141083,-119.4736264,Nevada,True
+Council Bluffs Data Center - Campus 2 East,Google,IA,Operating,125.0,41.1758333,-95.8096853,Iowa,True
+ASH1,Cologix,VA,Operating,120.0,39.01941242,-77.45794519,Virginia,True
+Aligned Ashburn IAD 02,Aligned,VA,Operating,120.0,39.01022199,-77.47503627,Virginia,True
+Los Lunas Data Center,Meta,NM,Operating,120.0,34.828031,-106.780983,New Mexico,True
+West Jordan Campus - Phase 1,Novva,UT,Operating,120.0,40.5757525,-112.0469697,Utah,True
+Core Scientific: Marble 1,Core Scientific,NC,Operating,103.0,35.1853864,-83.91627717,North Carolina,True
+Evoque TN campus (including expansion),Centersquare (formerly Evoque),TN,Operating,100.0,36.40917218,-86.38681503,Tennessee,True
+Papillion Data Center - Phase 1,Google,NE,Operating,100.0,41.134281,-96.144341,Nebraska,True
+Core Scientific: Grand Forks 1,Core Scientific,ND,Operating,100.0,47.90981134,-97.11160174,North Dakota,True
+Aligned Salt Lake SLC 03,Aligned,UT,Operating,100.0,40.58194643,-111.9688115,Utah,True
+Las Vegas Campus - Phase 1,Novva,NV,Operating,100.0,36.2717161,-115.0494066,Nevada,True
+Polaris Forge 1 Campus - Phase 1,Applied Digital,ND,Operating,100.0,46.0128747,-98.5727875,North Dakota,True
+QTS Chicago (including building 2 expansion),QTS,IL,Operating,95.0,41.84217943,-87.66924969,Illinois,True
+CyrusOne DFW1,CyrusOne,TX,Operating,90.0,32.99209459,-96.93034414,Texas,True
+QTS San Antonio,QTS,TX,Operating,90.0,29.4459502,-98.6559305,Texas,True
+Stream Data Center: DFW VIII –X,Stream Data Centers,TX,Operating,90.0,32.58404542,-96.70144147,Texas,True
+Quincy Data Center Campus: WA1,Vantage Data Centers,WA,Operating,89.0,47.24858133,-119.8224995,Washington,True
+TECfusions Clarksville,TECfusions,VA,Operating,80.0,36.60103301,-78.55016914,Virginia,True
+QTS Ashburn 3 DC1,QTS,VA,Operating,80.0,38.99867277,-77.47463163,Virginia,True
+Santa Clara Data Center CA1,Vantage Data Centers,CA,Operating,77.0,37.37240695,-121.9736641,California,True
+QTS Ashburn 2 DC1,QTS,VA,Operating,75.0,38.99553454,-77.45531493,Virginia,True
+QTS Irving  DFW2-DC1 & 2,QTS,TX,Operating,75.0,32.89711831,-96.98298574,Texas,True
+Santa Clara Data Center CA2,Vantage Data Centers,CA,Operating,75.0,37.36433227,-121.9473071,California,True
+Aligned Ashburn IAD 03,Aligned,VA,Operating,72.0,38.98849417,-77.44104912,Virginia,True
+Gainesville Crossing Data Campus Building 1,Corscale,VA,Operating,72.0,38.80132457,-77.58030133,Virginia,True
+Gainesville Crossing Data Campus Building 2,Corscale,VA,Operating,72.0,38.79995915,-77.58346392,Virginia,True
+QTS Fort Worth,QTS,TX,Operating,70.0,32.981432,-97.262693,Texas,True
+QTS East Windsor,QTS,NJ,Operating,70.0,40.2777337,-74.5478003,New Jersey,True
+Lake Mariner - CB-1 and CB-2,TeraWulf,NY,Operating,70.0,43.35973,-78.60527,New York,True
+QTS Piscataway,QTS,NJ,Operating,65.0,40.5569548,-74.4841745,New Jersey,True
+Santa Clara Data Center CA3,Vantage Data Centers,CA,Operating,64.0,37.37076827,-121.9745262,California,True
+Altoona Data Center,Meta,IA,Operating,60.0,41.6675,-93.5065,Iowa,True
+PowerHouse ABX-1,PowerHouse,VA,Operating,60.0,39.019629,-77.4503973,Virginia,True
+Aligned Ashburn IAD 01,Aligned,VA,Operating,60.0,39.01347033,-77.47100795,Virginia,True
+Skybox Santa Clara,Skybox,CA,Operating,60.0,37.361279,-121.9538531,California,True
+Novva Tahoe Reno,Novva,NV,Operating,60.0,39.5247823,-119.4855011,Nevada,True
+Henderson Data Center,Google,NV,Operating,60.0,36.058452,-115.009285,Nevada,True
+Digital Realty PHX15,Digital Realty,AZ,Operating,54.0,33.27485,-111.886948,Arizona,True
+Apple Mesa Global Data Command Center,Apple,AZ,Operating,50.0,33.3469,-111.604,Arizona,True
+COL4,Cologix,OH,Operating,50.0,40.1182819,-83.0009805,Ohio,True
+Core Scientific: Dalton 1 & 2,Core Scientific,GA,Operating,50.0,34.71320553,-84.95143169,Georgia,True
+Centersquare ORD2,Centersquare (formerly Evoque),IL,Operating,50.0,41.9922035,-87.9581676,Illinois,True
+CyrusOne DFW3-5,CyrusOne,TX,Operating,50.0,33.14592135,-96.66004104,Texas,True
+Project Dorothy 1,Soluna Holdings,TX,Operating,50.0,34.432267,-101.2372,Texas,True
+QTS Suwanee 1,QTS,GA,Operating,50.0,34.0352667,-84.0613078,Georgia,True
+Iron Mountain AZP-2,Iron Mountain,AZ,Operating,48.0,33.45195599,-111.9776687,Arizona,True
+Aligned Salt Lake SLC 02,Aligned,UT,Operating,48.0,40.58371543,-111.968525,Utah,True
+CyrusOne HOU4,CyrusOne,TX,Operating,48.0,29.84402474,-95.55768501,Texas,True
+Yondr Loudoun Campus Phase 1,Yondr,VA,Operating,48.0,38.94984278,-77.54913757,Virginia,True
+Stack Infrastructure SVY02A,STACK Infrastructure,CA,Operating,48.0,37.36150421,-121.9534367,California,True
+Project Dorothy 2,Soluna Holdings,TX,Operating,48.0,34.432267,-101.2372,Texas,True
+CyrusOne HOU3,CyrusOne,TX,Operating,43.0,29.84374342,-95.56021888,Texas,True
+Stream Data Center: DFW VII – Garland,Stream Data Centers,TX,Operating,43.0,32.9836693,-96.65502969,Texas,True
+Plano Data Center: DFW8,DataBank,TX,Operating,41.0,33.08771823,-96.81506978,Texas,True
+Iron Mountain AZP-1,Iron Mountain,AZ,Operating,41.0,33.45444539,-111.9774701,Arizona,True
+Iron Mountain VA-5,Iron Mountain,VA,Operating,40.0,38.77309867,-77.54098994,Virginia,True
+LGA3 data center,DataBank,NY,Operating,40.0,41.03993972,-73.98993623,New York,True
+Patmos: Kansas City,Patmos,MO,Operating,40.0,39.09457257,-94.5793006,Missouri,True
+Centersquare DFW1,Centersquare (formerly Evoque),TX,Operating,40.0,32.83235729,-97.04053568,Texas,True
+Colorado Springs Campus - Phase 1,Novva,CO,Operating,40.0,39.0141737,-104.8142886,Colorado,True
+South Fulton Data Center: ATL 4,DataBank,GA,Operating,40.0,33.75046019,-84.54816819,Georgia,True
+CyrusOne SAT2-4,CyrusOne,TX,Operating,36.0,29.47087137,-98.67073274,Texas,True
+Edged Phoenix,Edged,AZ,Operating,36.0,33.3349737,-111.6443501,Arizona,True
+Iron Mountain VA-2,Iron Mountain,VA,Operating,36.0,38.77706612,-77.54646561,Virginia,True
+Iron Mountain CHI-1,Iron Mountain,IL,Operating,36.0,42.01137428,-87.88146672,Illinois,True
+Aligned ORD-01 Data Center,Aligned,IL,Operating,36.0,41.9139885,-87.91751607,Illinois,True
+Aligned ORD-02 Data Center,Aligned,IL,Operating,36.0,41.91278101,-87.91754947,Illinois,True
+NTT Chicago CH1,NTT,IL,Operating,36.0,41.98799602,-88.00728472,Illinois,True
+NTT Hillsboro HI1,NTT,OR,Operating,36.0,45.54950625,-122.9374106,Oregon,True
+Novva San Francisco,Novva,CA,Operating,36.0,37.7229327,-122.4009842,California,True
+NTT Phoenix PH1,NTT,AZ,Operating,36.0,33.35556729,-111.6133664,Arizona,True
+NTT Chicago CH2,NTT,IL,Operating,36.0,41.98750679,-88.00881308,Illinois,True
+Aligned Salt Lake SLC 01,Aligned,UT,Operating,34.0,40.58627348,-111.9701007,Utah,True
+CoreSite SV9,CoreSite,CA,Operating,34.0,37.3752714,-121.9689335,California,True
+Centersquare IAD1: 45901 Nokes,Centersquare (formerly Evoque),VA,Operating,34.0,39.02339626,-77.41340501,Virginia,True
+Prime Data Centers: Los Angeles,Prime Data Centers,CA,Operating,33.0,34.00086519,-118.2310933,California,True
+NTT Chicago CH3,NTT,IL,Operating,32.0,41.98905924,-88.00747778,Illinois,True
+Stream Data Center: Chicago II Data Center,Stream Data Centers,IL,Operating,32.0,41.99914822,-87.95770387,Illinois,True
+Serverfarm CH1,Serverfarm,IL,Operating,32.0,41.87114074,-87.63976997,Illinois,True
+Iron Mountain VA-4,Iron Mountain,VA,Operating,32.0,38.77457668,-77.5428949,Virginia,True
+QTS Phoenix Van Buren,QTS,AZ,Operating,32.0,33.4515,-112.0719,Arizona,True
+NTT Ashburn VA5,NTT,VA,Operating,32.0,39.018154,-77.47288888,Virginia,True
+Stack Infrastructure SVY01B,STACK Infrastructure,CA,Operating,32.0,37.40215362,-121.8924536,California,True
+Digital Realty PHX10,Digital Realty,AZ,Operating,32.0,33.4515,-112.0719,Arizona,True
+NTT Ashburn VA4,NTT,VA,Operating,32.0,39.018154,-77.47288888,Virginia,True
+Iron Mountain VA-6,Iron Mountain,VA,Operating,32.0,38.76803767,-77.5384062,Virginia,True
+Prineville Data Center,Meta,OR,Operating,30.0,44.300978,-120.890907,Oregon,True
+Skybox Austin Data Center 1,Skybox,TX,Operating,30.0,30.48189219,-97.62304114,Texas,True
+Skybox Chicago,Skybox,IL,Operating,30.0,41.9859219,-87.9817849,Illinois,True
+COL1 and COL2,Cologix,OH,Operating,30.0,40.1160187,-83.0021665,Ohio,True
+Forest City Data Center,Meta,NC,Operating,30.0,35.316711,-81.826883,North Carolina,True
+Iron Mountain NJE-1,Iron Mountain,NJ,Operating,30.0,40.52064192,-74.34709152,New Jersey,True
+PhoenixNAP PHX01,PhoenixNAP,AZ,Operating,30.0,33.41603,-112.00937,Arizona,True
+QTS Ashburn 1 DC1,QTS,VA,Operating,28.0,38.99950971,-77.45058443,Virginia,True
+YLO-01 & 02,Chirisa Technology Parks,IL,Operating,28.0,42.323887,-88.14764574,Illinois,True
+Centersquare LAX4,Centersquare (formerly Evoque),CA,Operating,28.0,33.92440435,-118.3207229,California,True
+Centersquare ATL1,Centersquare (formerly Evoque),GA,Operating,28.0,33.74416329,-84.58117278,Georgia,True
+Chirisa Technology Parks: CTP01,Chirisa Technology Parks,VA,Operating,28.0,37.35990563,-77.32691513,Virginia,True
+CyrusOne DFW2,CyrusOne,TX,Operating,27.0,33.00225201,-97.00016894,Texas,True
+Edged ATL01-01,Edged,GA,Operating,27.0,33.80026374,-84.43806548,Georgia,True
+SkyBox Houston 1,Skybox,TX,Operating,26.0,29.8029255,-95.7558216,Texas,True
+H5 Data Centers Phoenix,H5 Data Centers,AZ,Operating,26.0,33.277,-111.886,Arizona,True
+NTT Sacramento CA2,NTT,CA,Operating,26.0,38.65047577,-121.4894321,California,True
+Edged Kansas City,Edged,MO,Operating,26.0,39.15634987,-94.46434269,Missouri,True
+Centersquare EWR2,Centersquare (formerly Evoque),NJ,Operating,25.0,40.76078229,-74.02582243,New Jersey,True
+Richardson Data Center,KDC Real Estate Development,TX,Operating,25.0,32.9843266,-96.69648433,Texas,True
+Stack Infrastructure POR03B,STACK Infrastructure,OR,Operating,24.0,45.55424923,-122.939353,Oregon,True
+Edged DFW Data Center,Edged,TX,Operating,24.0,32.81776037,-96.91783569,Texas,True
+CyrusOne AUS3,CyrusOne,TX,Operating,24.0,30.20705161,-97.70094675,Texas,True
+EdgeConneX CHI01,EdgeConneX,IL,Operating,24.0,42.00083224,-87.95104382,Illinois,True
+TRG Houston Data Center,TRG,TX,Operating,24.0,30.06610536,-95.45919424,Texas,True
+Stack Infrastructure CHI01B,STACK Infrastructure,IL,Operating,24.0,42.00686654,-87.96658492,Illinois,True
+Stack Infrastructure POR03A,STACK Infrastructure,OR,Operating,24.0,45.5542135,-122.9378603,Oregon,True
+Douglasville 1 data center,Flexential,GA,Operating,23.0,33.7293051,-84.6218375,Georgia,True
+Tierpoint Valley Forge Data Center,TierPoint,PA,Operating,23.0,40.1218846,-75.42093892,Pennsylvania,True
+ColoCrossing: LA01,ColoCrossing,CA,Operating,23.0,34.05120743,-118.2662842,California,True
+Granite Point Data Center: SLC6,DataBank,UT,Operating,22.0,40.48078693,-111.906355,Utah,True
+Stack Infrastructure DFW01A,STACK Infrastructure,TX,Operating,21.0,33.06494079,-96.81104044,Texas,True
+QTS Hillsboro 1,QTS,OR,Operating,20.0,45.5569403,-122.9279931,Oregon,True
+Orangeburg Data Center: LGA 3,DataBank,NY,Operating,20.0,41.0400091,-73.99011892,New York,True
+HPC data center,Northern Data,PA,Operating,20.0,40.43974849,-80.14241165,Pennsylvania,True
+COL3,Cologix,OH,Operating,20.0,40.1160187,-83.0021665,Ohio,True
+Green Bay Data Center,Ark Data Centers,WI,Operating,20.0,44.20461156,-88.3447794,Wisconsin,True
+Core Scientific: Austin 1,Core Scientific,TX,Operating,20.0,30.26900038,-97.66638026,Texas,True
+Centersquare DEN1,Centersquare (formerly Evoque),CO,Operating,20.0,39.5498978,-105.0342222,Colorado,True
+Centersquare LAX3,Centersquare (formerly Evoque),CA,Operating,20.0,33.68793857,-117.8479734,California,True
+Centersquare SFO2,Centersquare (formerly Evoque),CA,Operating,20.0,37.39757161,-121.9808221,California,True
+Centersquare SEA3,Centersquare (formerly Evoque),WA,Operating,20.0,47.8417761,-122.3017443,Washington,True
+DC Blox: Myrtle Beach Data Center,DC Blox,SC,Operating,19.0,33.67465061,-78.94287149,South Carolina,True
+EdgeConneX DEN02,EdgeConneX,CO,Operating,19.0,39.56348515,-104.8268276,Colorado,True
+Centersquare EWR3,Centersquare (formerly Evoque),NJ,Operating,18.0,40.55377633,-74.45718714,New Jersey,True
+Tierpoint Fort Worth Data Center – Dallas,TierPoint,TX,Operating,18.0,32.9797149,-97.25249063,Texas,True
+CyrusOne SAT5-6,CyrusOne,TX,Operating,18.0,29.41908623,-98.78790858,Texas,True
+Centersquare SEA1,Centersquare (formerly Evoque),WA,Operating,18.0,47.4919122,-122.2898245,Washington,True
+Centersquare IAD2,Centersquare (formerly Evoque),VA,Operating,17.0,38.98419476,-77.42401873,Virginia,True
+Stack Infrastructure NVA01,STACK Infrastructure,VA,Operating,17.0,39.0045421,-77.4419761,Virginia,True
+Stack Infrastructure CHI01A,STACK Infrastructure,IL,Operating,16.0,42.00683067,-87.96457327,Illinois,True
+Centersquare PHX1,Centersquare (formerly Evoque),AZ,Operating,16.0,33.45452839,-111.9773885,Arizona,True
+NTT Silicon Valley SV1,NTT,CA,Operating,16.0,37.36945483,-121.9550984,California,True
+Centersquare SFO1,Centersquare (formerly Evoque),CA,Operating,16.0,37.37043401,-121.969927,California,True
+Centersquare SFO3,Centersquare (formerly Evoque),CA,Operating,16.0,37.37204906,-121.9859728,California,True
+Centersquare BOS1,Centersquare (formerly Evoque),MA,Operating,16.0,42.39299576,-71.26531057,Massachusetts,True
+Tierpoint: Allentown - TekPark Data Center,TierPoint,PA,Operating,16.0,40.54373758,-75.64967912,Pennsylvania,True
+NTT Ashburn VA3,NTT,VA,Operating,16.0,39.018154,-77.47288888,Virginia,True
+Iron Mountain WPA-1,Iron Mountain,PA,Operating,16.0,41.09149721,-79.9135121,Pennsylvania,True
+Westway Park I Data Center: HOU 1,DataBank,TX,Operating,16.0,29.84344059,-95.5570862,Texas,True
+NTT Dallas TX1,NTT,TX,Operating,16.0,32.98208897,-96.65762103,Texas,True
+Centennial II Data Center DEN5,DataBank,CO,Operating,16.0,39.59004323,-104.8469578,Colorado,True
+Centersquare LAX5,Centersquare (formerly Evoque),CA,Operating,15.0,33.6847916,-117.8368351,California,True
+Centersquare BOS4,Centersquare (formerly Evoque),MA,Operating,15.0,42.3655869,-71.15935433,Massachusetts,True
+Stream Data Center: Chicago I Data Center,Stream Data Centers,IL,Operating,15.0,42.00257941,-87.9505569,Illinois,True
+Centersquare ORD4,Centersquare (formerly Evoque),IL,Operating,15.0,41.80245409,-88.09461628,Illinois,True
+QTS Colorado Springs,QTS,CO,Operating,14.0,38.922122,-104.8427351,Colorado,True
+Tierpoint Boston - Marlborough Data Center,TierPoint,MA,Operating,14.0,42.3132583,-71.5789359,Massachusetts,True
+NTT Ashburn VA2,NTT,VA,Operating,14.0,39.02291354,-77.4547677,Virginia,True
+Plano Data Center: DFW3,DataBank,TX,Operating,14.0,33.08771823,-96.81506978,Texas,True
+Iron Mountain DEN-1,Iron Mountain,CO,Operating,14.0,39.77720284,-104.9683149,Colorado,True
+Centersquare PHX3,Centersquare (formerly Evoque),AZ,Operating,14.0,33.42131452,-111.858958,Arizona,True
+NTT Sacramento CA3,NTT,CA,Operating,14.0,38.64427836,-121.4988451,California,True
+Stream Data Center: Santa Clara I-II,Stream Data Centers,CA,Operating,14.0,37.3781352,-121.954986,California,True
+NTT Ashburn VA1,NTT,VA,Operating,13.0,39.02291354,-77.4547677,Virginia,True
+NTT Sacramento CA1,NTT,CA,Operating,13.0,38.65032996,-121.4921092,California,True
+Lynnwood,Chirisa Technology Parks,WA,Operating,13.0,47.8225022,-122.2894752,Washington,True
+South Lake Campus Data Center MCI3,DataBank,KS,Operating,13.0,38.92523257,-94.77033424,Kansas,True
+Ashburn Campus Data Center: IAD1,DataBank,VA,Operating,13.0,39.01537668,-77.48176008,Virginia,True
+Centersquare EWR5,Centersquare (formerly Evoque),NJ,Operating,12.0,40.78616701,-74.06910927,New Jersey,True
+Iron Mountain VA-1,Iron Mountain,VA,Operating,12.0,38.77804577,-77.54706933,Virginia,True
+Centersquare TPA1,Centersquare (formerly Evoque),FL,Operating,12.0,27.9460582,-82.35111779,Florida,True
+Centersquare ORD1,Centersquare (formerly Evoque),IL,Operating,12.0,41.85363666,-87.61855044,Illinois,True
+Centersquare DFW2,Centersquare (formerly Evoque),TX,Operating,12.0,33.09490488,-96.68336765,Texas,True
+Stack Infrastructure DFW01B,STACK Infrastructure,TX,Operating,11.0,33.06653911,-96.8113523,Texas,True
+Stack Infrastructure NAL01A,STACK Infrastructure,OH,Operating,11.0,40.10615363,-82.8011127,Ohio,True
+Prime Data Centers: San Jose,Prime Data Centers,CA,Operating,10.0,37.23529978,-121.7823907,California,True
+Centersquare IAD4 21571 Beaumeade Circle,Centersquare (formerly Evoque),VA,Operating,10.0,39.02227189,-77.45367467,Virginia,True
+Stream Data Center: Santa Clara VI,Stream Data Centers,CA,Operating,10.0,37.37641963,-121.948018,California,True
+Tierpoint Seattle Data Center,TierPoint,WA,Operating,10.0,47.618961,-122.3486082,Washington,True
+Centersquare DFW3,Centersquare (formerly Evoque),TX,Operating,10.0,32.91168626,-96.87106493,Texas,True
+Centersquare MSP1,Centersquare (formerly Evoque),MN,Operating,10.0,44.77946493,-93.46140487,Minnesota,True
+Tierpoint Omaha - Midlands Data Center,TierPoint,NE,Operating,10.0,41.13450828,-96.039079,Nebraska,True
+Aligned Dallas DFW01-02,Aligned,TX,Operating,10.0,33.00902114,-96.67603351,Texas,True
+Granite Point Data Center: SLC5,DataBank,UT,Operating,10.0,40.48141302,-111.9038785,Utah,True
+Stream Data Center: San Antonio II – Westover Hills,Stream Data Centers,TX,Operating,10.0,29.47211889,-98.67181213,Texas,True
+Tierpoint Raleigh Data Center,TierPoint,NC,Operating,10.0,35.85441982,-78.59708718,North Carolina,True
+CyrusOne SAT1,CyrusOne,TX,Operating,9.0,29.46660033,-98.68797903,Texas,True
+SV1,Cologix,CA,Operating,9.0,37.365431,-121.961738,California,True
+Centersquare SFO4,Centersquare (formerly Evoque),CA,Operating,9.0,37.37572083,-121.9562571,California,True
+Prime Data Centers: 1111 Comstack,Prime Data Centers,CA,Operating,9.0,37.374917,-121.9531788,California,True
+SJC01 Silicon Valley,Colovore,CA,Operating,9.0,37.37680369,-121.9531422,California,True
+SJC02 Silicon Valley,Colovore,CA,Operating,9.0,37.37729837,-121.9531106,California,True
+CyrusOne AUS2,CyrusOne,TX,Operating,9.0,30.20592392,-97.69800321,Texas,True
+Stack Infrastructure SVY01A,STACK Infrastructure,CA,Operating,9.0,37.40258437,-121.8934297,California,True
+Westway Park II Data Center: HOU 2,DataBank,TX,Operating,9.0,29.84430031,-95.55660488,Texas,True
+Brooklyn Park Data Center MSP3,DataBank,MN,Operating,9.0,45.14362089,-93.38769008,Minnesota,True
+Chicago Tri-State Data Center ORD4,DataBank,IL,Operating,9.0,41.85361719,-87.92064803,Illinois,True
+EdgeConneX ATL02,EdgeConneX,GA,Operating,9.0,33.73158434,-84.42352135,Georgia,True
+Tierpoint Oklahoma City Data OKC 2,TierPoint,OK,Operating,8.0,35.51354392,-97.59508356,Oklahoma,True
+Prime Data Centers:  McClellan Business Park Phase 1,Prime Data Centers,CA,Operating,8.0,38.64306335,-121.4067033,California,True
+Stream Data Center: Houston I,Stream Data Centers,TX,Operating,8.0,30.17803268,-95.48679044,Texas,True
+Centersquare CMH1,Centersquare (formerly Evoque),OH,Operating,8.0,40.1688577,-83.01084062,Ohio,True
+Tierpoint St. Louis - Locust Data Center,TierPoint,MO,Operating,8.0,38.6334969,-90.21266068,Missouri,True
+Centersquare SEA2,Centersquare (formerly Evoque),WA,Operating,8.0,47.44068459,-122.2565311,Washington,True
+Irvine Data Center: SNA2,DataBank,CA,Operating,8.0,33.68808368,-117.8429459,California,True
+Tierpoint Raleigh - RTP Data Center,TierPoint,NC,Operating,8.0,35.89732239,-78.87873813,North Carolina,True
+QTS Santa Clara,QTS,CA,Operating,7.5,37.3927404,-121.9783809,California,True
+Stack Infrastructure ATL01A Alpharetta,STACK Infrastructure,GA,Operating,7.0,34.07574349,-84.26442123,Georgia,True
+Stream Data Center: Minneapolis I,Stream Data Centers,MN,Operating,7.0,44.80859139,-93.63747598,Minnesota,True
+Downtown Dallas Data Center: DFW1,DataBank,TX,Operating,7.0,32.77847426,-96.79829462,Texas,True
+Stream Data Center: Austin I,Stream Data Centers,TX,Operating,7.0,30.34099179,-97.68498105,Texas,True
+Centersquare DEN2,Centersquare (formerly Evoque),CO,Operating,7.0,39.56102833,-104.8307106,Colorado,True
+Granite Point Data Center: SLC3,DataBank,UT,Operating,7.0,40.47983287,-111.9057643,Utah,True
+San Diego World Trade Data Center: SAN1,DataBank,CA,Operating,7.0,32.98871818,-117.0724603,California,True
+Tierpoint New York - Hawthorne Data Centers HWT,TierPoint,NY,Operating,7.0,41.08845519,-73.81531624,New York,True
+EdgeConneX MIA02,EdgeConneX,FL,Operating,6.0,25.94542026,-80.19147877,Florida,True
+Atlanta West End Data Center: ATL 3,DataBank,GA,Operating,6.0,33.73439569,-84.42592533,Georgia,True
+North Dallas Data Center: DFW2,DataBank,TX,Operating,6.0,32.96619103,-96.71073765,Texas,True
+Centersquare ABQ1,Centersquare (formerly Evoque),NM,Operating,6.0,35.08638699,-106.6517135,New Mexico,True
+Iron Mountain AZS-1,Iron Mountain,AZ,Operating,6.0,33.64463616,-111.8958822,Arizona,True
+EdgeConneX POR02,EdgeConneX,OR,Operating,6.0,45.55220005,-122.9143673,Oregon,True
+Tierpoint Omaha - Bellevue Data Center,TierPoint,NE,Operating,6.0,41.17828173,-95.92445779,Nebraska,True
+Tierpoint Lenexa Data Center,TierPoint,KS,Operating,5.0,38.94061571,-94.75501179,Kansas,True
+Stack Infrastructure POR01,STACK Infrastructure,OR,Operating,5.0,45.54941491,-122.9278035,Oregon,True
+EdgeConneX PHX01,EdgeConneX,AZ,Operating,5.0,33.39553871,-111.9701092,Arizona,True
+Tierpoint Boston - Andover Data Center,TierPoint,MA,Operating,5.0,42.68568186,-71.20865842,Massachusetts,True
+NNJ3,Cologix,NJ,Operating,5.0,40.8216,-74.4565,New Jersey,True
+Tierpoint Philadelphia Data Center,TierPoint,PA,Operating,5.0,39.89241691,-75.16557227,Pennsylvania,True
+Tierpoint Lehigh Valley Data Center,TierPoint,PA,Operating,5.0,40.67487468,-75.37813989,Pennsylvania,True
+Centersquare IAD3,Centersquare (formerly Evoque),VA,Operating,5.0,38.98105939,-77.44433907,Virginia,True
+Summit Park Data Center: PIT 2,DataBank,PA,Operating,5.0,40.45123577,-80.19013352,Pennsylvania,True
+Tierpoint Charlotte - Center Park Data Cente,TierPoint,NC,Operating,5.0,35.17315538,-80.9281185,North Carolina,True
+Midtown Atlanta Data Center: ATL1,DataBank,GA,Operating,5.0,33.77550064,-84.38775516,Georgia,True
+EdgeConneX SEA01,EdgeConneX,WA,Operating,5.0,47.498222,-122.2899421,Washington,True
+DC Blox - Birmingham Data Center,DC Blox,AL,Operating,5.0,33.50054711,-86.82101277,Alabama,True
+Tierpoint Spokane Data Centers SPO01/02,TierPoint,WA,Operating,5.0,47.67193406,-117.09121,Washington,True
+Tierpoint Nashville Data Center,TierPoint,TN,Operating,5.0,35.92452311,-86.85585199,Tennessee,True
+Tierpoint Chicago Data Center (Polk St.),TierPoint,IL,Operating,5.0,41.87185265,-87.64295618,Illinois,True
+Tierpoint Little Rock Data Center,TierPoint,AR,Operating,5.0,34.75603706,-92.44420056,Arkansas,True
+Tierpoint Dallas Data Center,TierPoint,TX,Operating,5.0,32.97967727,-97.25258078,Texas,True
+Tierpoint Tulsa - State Farm,TierPoint,OK,Operating,5.0,36.0965051,-95.84001751,Oklahoma,True
+Westway Park III Data Center: HOU 3,DataBank,TX,Operating,5.0,29.84401347,-95.56051493,Texas,True
+Houston Galleria Data Center: HOU 5,DataBank,TX,Operating,5.0,29.7281481,-95.44507888,Texas,True
+East Twin Cities Data Cente MSP2,DataBank,MN,Operating,5.0,44.83796435,-93.14616635,Minnesota,True
+Tierpoint Charlotte - North Myers Data Center,TierPoint,NC,Operating,4.0,35.22214016,-80.83533035,North Carolina,True
+QTS Ashburn Moran,QTS,VA,Operating,4.0,38.99432634,-77.44781672,Virginia,True
+Tierpoint New York - Hawthorne Data Centers HW2,TierPoint,NY,Operating,4.0,41.08654902,-73.81734139,New York,True
+Iron Mountain BOS-1,Iron Mountain,MA,Operating,4.0,42.3404558,-71.63989561,Massachusetts,True
+QTS Sacramento,QTS,CA,Operating,4.0,38.646312,-121.4862722,California,True
+EdgeConneX SVC01,EdgeConneX,CA,Operating,4.0,37.36432885,-121.9587523,California,True
+Las Vegas Data Center: LAS1,DataBank,NV,Operating,4.0,36.0591617,-115.1460308,Nevada,True
+Granite Point Data Center: SLC4,DataBank,UT,Operating,4.0,40.48139128,-111.9050092,Utah,True
+Centennial Data Cente DEN2,DataBank,CO,Operating,4.0,39.59135241,-104.8470051,Colorado,True
+Dallas Empire Central Data Center: DFW4,DataBank,TX,Operating,4.0,32.82187854,-96.87351757,Texas,True
+Tierpoint Dallas - Allen Data Center,TierPoint,TX,Operating,4.0,33.1378914,-96.65750069,Texas,True
+Iron Mountain KCM-1,Iron Mountain,MO,Operating,4.0,39.0098226,-94.50371094,Missouri,True
+Tierpoint St. Louis - Millpark Data Center,TierPoint,MO,Operating,4.0,38.69988399,-90.41079979,Missouri,True
+Tierpoint Chicago Data Center (West),TierPoint,IL,Operating,4.0,41.92879636,-87.85879303,Illinois,True
+Downtown Indianapolis Data Center IND02,DataBank,IN,Operating,4.0,39.7602247,-86.17049223,Indiana,True
+Atlanta West End Data Center: ATL 2,DataBank,GA,Operating,4.0,33.73411268,-84.42572807,Georgia,True
+Tierpoint Jacksonville Data Center,TierPoint,FL,Operating,4.0,30.21652454,-81.58203409,Florida,True
+Databank: McLean Data Center IAD2,DataBank,VA,Operating,3.0,38.91997921,-77.21347607,Virginia,True
+Piscataway Data Center: EWR2,DataBank,NJ,Operating,3.0,40.73685692,-74.17344358,New Jersey,True
+DC Blox: Greensville Data Center,DC Blox,SC,Operating,3.0,34.80677511,-82.34577184,South Carolina,True
+EdgeConneX DET01,EdgeConneX,MI,Operating,3.0,42.44765026,-83.26265114,Michigan,True
+Mount Prospect Data Cente: ORD3,DataBank,IL,Operating,3.0,42.07816277,-87.92351454,Illinois,True
+Tierpoint Milwaukee Data Center,TierPoint,WI,Operating,3.0,43.00932809,-87.96113634,Wisconsin,True
+MIN4,Cologix,MN,Operating,3.0,44.972336,-93.253098,Minnesota,True
+DAL1,Cologix,TX,Operating,3.0,32.8009,-96.8196,Texas,True
+Tierpoint Oklahoma City Data OKC,TierPoint,OK,Operating,3.0,35.5141423,-97.59658248,Oklahoma,True
+EdgeConneX DEN01,EdgeConneX,CO,Operating,3.0,39.56029583,-104.8281036,Colorado,True
+Granite Point Data Center: SLC2,DataBank,UT,Operating,3.0,40.47962899,-111.9045973,Utah,True
+Tierpoint Spokane Data Centers SPO03,TierPoint,WA,Operating,3.0,47.67197417,-117.0959114,Washington,True
+Silicon Valley Data Center: SFO1,DataBank,CA,Operating,3.0,37.40730022,-121.9660934,California,True
+Irvine Data Center: SNA1,DataBank,CA,Operating,3.0,33.69036812,-117.8406242,California,True
+EdgeConneX POR01,EdgeConneX,OR,Operating,3.0,45.55180253,-122.9152914,Oregon,True
+SeaTac Data Center: SEA2,DataBank,WA,Operating,2.0,47.49498321,-122.2906226,Washington,True
+EdgeConneX ATL01,EdgeConneX,GA,Operating,2.0,33.72942454,-84.42016132,Georgia,True
+Pine Ridge Data Center MCI2,DataBank,KS,Operating,2.0,38.97521786,-94.7089214,Kansas,True
+EdgeConneX HOU01,EdgeConneX,TX,Operating,2.0,29.79461344,-95.74526205,Texas,True
+EdgeConneX MIA01,EdgeConneX,FL,Operating,2.0,25.79309462,-80.38114594,Florida,True
+Tierpoint Tulsa - Archer Data Center,TierPoint,OK,Operating,2.0,36.15874109,-95.98866293,Oklahoma,True
+Tierpoint Sioux Falls - East Data Center,TierPoint,SD,Operating,2.0,43.59553898,-96.71709476,South Dakota,True
+Downtown Pittsburgh Data Center: PIT1,DataBank,PA,Operating,2.0,40.45110503,-80.00507037,Pennsylvania,True
+DC Blox - Huntville Data Center,DC Blox,AL,Operating,2.0,34.7098955,-86.69290018,Alabama,True
+MIN5,Cologix,MN,Operating,2.0,44.972336,-93.253098,Minnesota,True
+Downtown Chicago Metro Data Center ORD2,DataBank,IL,Operating,2.0,41.87091446,-87.63974311,Illinois,True
+Downtown Miami Data Center: MIA 1,DataBank,FL,Operating,2.0,25.77588427,-80.19314796,Florida,True
+Stream Data Center: Minneapolis I!,Stream Data Centers,MN,Operating,2.0,44.80730547,-93.63710448,Minnesota,True
+Tierpoint Baltimore Data Center,TierPoint,MD,Operating,2.0,39.27535636,-76.62560545,Maryland,True
+Tierpoint Bethlehem Data Center,TierPoint,PA,Operating,2.0,40.6699351,-75.37468517,Pennsylvania,True
+Downtown Newark Data Center: EWR1,DataBank,NJ,Operating,2.0,40.73696614,-74.17335938,New Jersey,True
+Downtown Indianapolis Data Center IND01,DataBank,IN,Operating,2.0,39.75953799,-86.1722478,Indiana,True
+QTS Miami,QTS,FL,Operating,2.0,25.7922837,-80.3781016,Florida,True
+EdgeConneX BOS01,EdgeConneX,MA,Operating,2.0,42.52892984,-71.24969397,Massachusetts,True
+Tierpoint St. Louis - Olive Data Center,TierPoint,MO,Operating,2.0,38.62956343,-90.19616135,Missouri,True
+DAL3,Cologix,TX,Operating,2.0,32.8009,-96.8196,Texas,True
+DAL2,Cologix,TX,Operating,2.0,32.8009,-96.8196,Texas,True
+Englewood Data Center DEN1,DataBank,CO,Operating,2.0,39.56405347,-104.8666193,Colorado,True
+Downtown Denver Data Center DEN3,DataBank,CO,Operating,2.0,39.74574449,-104.9946579,Colorado,True
+Los Angeles One Wilshire Data Center: LAX1,DataBank,CA,Operating,2.0,34.04793697,-118.2555304,California,True
+EdgeConneX SAC01,EdgeConneX,CA,Operating,2.0,38.59233554,-121.2773388,California,True
+Downtown New York City Data Center: LGA 1,DataBank,NY,Operating,1.0,40.71765418,-74.00838533,New York,True
+EdgeConneX LAS01,EdgeConneX,NV,Operating,1.0,36.0654302,-115.1308138,Nevada,True
+EdgeConneX SLC01,EdgeConneX,UT,Operating,1.0,40.72085715,-111.9850319,Utah,True
+Downtown Salt Lake City Data Center: SLC1,DataBank,UT,Operating,1.0,40.76852173,-111.8858728,Utah,True
+Stream Data Center: Santa Clara VI,Stream Data Centers,CO,Operating,1.0,39.88449507,-105.0801922,Colorado,True
+Westminster Data Center DEN4,DataBank,CO,Operating,1.0,39.88444333,-105.0801518,Colorado,True
+Waco Data Center ACT1,DataBank,TX,Operating,1.0,31.55501088,-97.13360867,Texas,True
+Dallas Infomart Data Center: DFW5,DataBank,TX,Operating,1.0,32.800491,-96.81939839,Texas,True
+Dallas Love Field Data Center DFW6,DataBank,TX,Operating,1.0,32.83878736,-96.86510878,Texas,True
+Tierpoint Sioux Falls - West Data Center,TierPoint,SD,Operating,1.0,43.60708497,-96.80929673,South Dakota,True
+Dallas LBJ Data Center DFW7,DataBank,TX,Operating,1.0,32.92288774,-96.79132442,Texas,True
+DSM1,Cologix,IA,Operating,1.0,41.585694,-93.625422,Iowa,True
+EdgeConneX MSP01,EdgeConneX,MN,Operating,1.0,44.8787974,-93.40424343,Minnesota,True
+West Twin Cities Data Cente MSP1,DataBank,MN,Operating,1.0,44.86273358,-93.33053012,Minnesota,True
+Downtown Minneapolis Data Cente MSP4,DataBank,MN,Operating,1.0,44.97146912,-93.25467696,Minnesota,True
+MIN1,Cologix,MN,Operating,1.0,44.972389,-93.253159,Minnesota,True
+MIN3,Cologix,MN,Operating,1.0,44.972336,-93.253098,Minnesota,True
+DSM2,Cologix,IA,Operating,1.0,42.474167,-92.458792,Iowa,True
+EdgeConneX MEM01,EdgeConneX,TN,Operating,1.0,35.03880975,-89.88539922,Tennessee,True
+EdgeConneX SLI01,EdgeConneX,LA,Operating,1.0,30.28683394,-89.73743303,Louisiana,True
+EdgeConneX MAD01,EdgeConneX,WI,Operating,1.0,43.04889448,-89.29743291,Wisconsin,True
+Downtown Chicago Loop Data Center: ORD1,DataBank,IL,Operating,1.0,41.87417451,-87.62999575,Illinois,True
+EdgeConneX NAS01,EdgeConneX,TN,Operating,1.0,36.14488996,-86.70175369,Tennessee,True
+DC Blox - Chattanooga Data Center,DC Blox,TN,Operating,1.0,35.031544,-85.29727925,Tennessee,True
+Iron Mountain OHS-1,Iron Mountain,OH,Operating,1.0,39.59091791,-84.23647436,Ohio,True
+JAX2,Cologix,FL,Operating,1.0,30.27682,-81.613904,Florida,True
+EdgeConneX JAX01,EdgeConneX,FL,Operating,1.0,30.25433804,-81.60429936,Florida,True
+EdgeConneX PIT01,EdgeConneX,PA,Operating,1.0,40.45237276,-80.04178852,Pennsylvania,True
+Edge data center RA1,American Tower,NC,Operating,1.0,35.78810742,-78.72657028,North Carolina,True
+Tierpoint Waterbury Data Center,TierPoint,CT,Operating,1.0,41.5543763,-73.04113432,Connecticut,True
+EdgeConneX RIC01,EdgeConneX,VA,Operating,1.0,37.63891965,-77.46778456,Virginia,True
+Tierpoint Baltimore - BWI Data Center,TierPoint,MD,Operating,1.0,39.21355124,-76.68280491,Maryland,True
+Downtown New York City Data Center: LGA 2,DataBank,NY,Operating,1.0,40.74099004,-74.00192739,New York,True
+EdgeConneX NOR01,EdgeConneX,VA,Operating,1.0,36.86186044,-76.23534168,Virginia,True
+Downtown Boston Data Center: BOS1,DataBank,MA,Operating,1.0,42.35507885,-71.06014943,Massachusetts,True
+Stream Data Center: Santa Clara V,Stream Data Centers,CA,Operating,,37.50989759,-122.0016678,California,False
+Santa Clara SV Campus,Microsoft,CA,Operating,,37.38988,-121.96604,California,False
+Stream Data Center: Santa Clara III,Stream Data Centers,CA,Operating,,37.37765417,-121.9516286,California,False
+Stream Data Center: Santa Clara IV,Stream Data Centers,CA,Operating,,37.37759491,-121.9506232,California,False
+Brush Mountain Blacksburg,BRUSH MOUNTAIN DATA CENTER,VA,Operating,,37.20372918,-80.41179282,Virginia,False
+Stack Infrastructure POR02,STACK Infrastructure,OR,Operating,,45.54694369,-122.8985875,Oregon,False
+The Dalles Data Center,Google,OR,Operating,,45.63167,-121.20108,Oregon,False
+Quincy Columbia Campus,Microsoft,WA,Operating,,47.239079,-119.859735,Washington,False
+Tahoe-Reno Industrial Center Campus,Google,NV,Operating,,39.501174,-119.430102,Nevada,False
+Amazon: PDX80,Amazon AWS,OR,Operating,,45.80573574,-119.364416,Oregon,False
+Microsoft El Mirage Campus,Microsoft,AZ,Operating,,33.56328,-112.33861,Arizona,False
+Eagle Mountain Data Center,Meta,UT,Operating,,40.264863,-112.015144,Utah,False
+Aligned Salt Lake SLC 04,Aligned,UT,Operating,,40.58194643,-111.9688115,Utah,False
+Mesa Data Center,Meta,AZ,Operating,,33.35488386,-111.6357585,Arizona,False
+BBT Midland Data Center,BBT,TX,Operating,,31.93124492,-102.2137744,Texas,False
+Texas Research Park (SAT46),Microsoft,TX,Operating,,29.415317,-98.803538,Texas,False
+TTX Data Center,TTX,TX,Operating,,31.12849781,-97.36817322,Texas,False
+Arlington Data Center,D.R. Horton,TX,Operating,,32.7607664,-97.08922015,Texas,False
+Midlothian Campus,Google,TX,Operating,,32.442484,-97.062535,Texas,False
+Prime Data Centers: DFW01-02,Prime Data Centers,TX,Operating,,32.83794707,-96.87851827,Texas,False
+CyrusOne DFW6,CyrusOne,TX,Operating,,32.98412411,-96.69644141,Texas,False
+Viawest Shiloh Data Center,Viawest,TX,Operating,,33.00767647,-96.66638426,Texas,False
+Stream Data Center: DFW IV,Stream Data Centers,TX,Operating,,33.00010966,-96.66170239,Texas,False
+Cisco Allen Data Centter,Cisco,TX,Operating,,33.13594472,-96.66095311,Texas,False
+DFW II A,Compass Datacenters,TX,Operating,,33.13740055,-96.65870584,Texas,False
+Project Gold Garland,Digital Realty,TX,Operating,,32.9746858,-96.65074457,Texas,False
+Rellis Campus Data and Research Center,Rellis Campus Data and Research Center,TX,Operating,,30.64195692,-96.4684382,Texas,False
+Sarpy Data Center (Papillion),Meta,NE,Operating,,41.12262,-96.144254,Nebraska,False
+QTS Manassas DC 2,QTS,VA,Operating,,38.75243583,-77.51314445,Virginia,False
+Westover Link campus (SAT15/SAT16),Microsoft,TX,Operating,,29.469556,-98.70241059,Texas,False
+DFW DFW I-II,Compass Datacenters,TX,Operating,,33.13784015,-96.65757532,Texas,False
+DPN Data Center,Galaxy Digital,TX,Operating,,33.77431893,-100.868849,Texas,False
+Omaha Campus - Phase 1,Google,NE,Operating,,41.337653,-96.086446,Nebraska,False
+Council Bluffs Data Center - Campus 1,Google,IA,Operating,,41.221457,-95.864369,Iowa,False
+Disney Digital Data Center 3,Disney,TX,Operating,,30.17960637,-95.48482763,Texas,False
+Pryor Creek Campus,Google,OK,Operating,,36.24083,-95.3301,Oklahoma,False
+Kansas City Data Center,Diode Ventures,MO,Operating,,39.326489,-94.601347,Missouri,False
+Microsoft Project Mountain,Microsoft,IA,Operating,,41.539602,-93.8273,Iowa,False
+Microsoft Project Alluvion,Microsoft,IA,Operating,,41.51607,-93.708776,Iowa,False
+MIN2,Cologix,MN,Operating,,44.972336,-93.253098,Minnesota,False
+DeKalb Data Center,Meta,IL,Operating,,41.8910937,-88.9067601,Illinois,False
+Clarksville Data Center,Google,TN,Operating,,36.62207,-87.26264,Tennessee,False
+Huntsville Data Center,Meta,AL,Operating,,34.840817,-86.631483,Alabama,False
+Gallatin Data Center,Meta,TN,Operating,,36.410542,-86.369351,Tennessee,False
+Jackson County Data Center,Google,AL,Operating,,34.913744,-85.747052,Alabama,False
+Pyramid Data Center Campus: Phase 1,Switch,MI,Operating,,42.85229991,-85.5602422,Michigan,False
+Douglas County Campus,Google,GA,Operating,,33.749445,-84.58465,Georgia,False
+Stanton Springs Data Center,Meta,GA,Operating,,33.6007968,-83.6940463,Georgia,False
+Columbus Data Center - Phase 1,Google,OH,Operating,,39.851617,-83.0011236,Ohio,False
+Duffield Premier Data Center Site,ONEPARTNER,VA,Operating,,36.71256549,-82.80250359,Virginia,False
+New Albany Data Center - Phase 1,Google,OH,Operating,,40.0592147,-82.766047,Ohio,False
+New Albany Data Center - Phase 3,Meta,OH,Operating,,40.067538,-82.75073354,Ohio,False
+New Albany Data Center - Phase 2,Meta,OH,Operating,,40.067538,-82.75073354,Ohio,False
+Lancaster Data Center - Phase 1,Google,OH,Operating,,39.7252942,-82.6867036,Ohio,False
+DP Facilities: Mineral Gap,DP FACILITIES INC SOUTH,VA,Operating,,36.97806629,-82.5270336,Virginia,False
+LAK1,Cologix,FL,Operating,,28.054382,-81.920196,Florida,False
+JAX1,Cologix,FL,Operating,,30.329727,-81.660694,Florida,False
+Lenoir Data Center,Google,NC,Operating,,35.8922,-81.54686,North Carolina,False
+Apple NC Campus,Apple,NC,Operating,,35.58702862,-81.26001806,North Carolina,False
+ACC7 Digital Realty,ALSHAIN VENTURES,VA,Operating,,39.01753003,-77.46567818,Virginia,False
+Berkeley County (Moncks Corner) Campus,Google,SC,Operating,,33.064464,-80.045867,South Carolina,False
+DBT Data Cyber Integration Center,AC 139 TYCO STREET,VA,Operating,,38.46248816,-78.85679395,Virginia,False
+Boydton Campus,Microsoft,VA,Operating,,36.660047,-78.365035,Virginia,False
+Middletown Data Center,Middletown Data Center,VA,Operating,,39.01765012,-78.29093138,Virginia,False
+SWIFT,,VA,Operating,,38.45553926,-77.98348028,Virginia,False
+Equinix,Equinix,VA,Operating,,38.45493884,-77.9782759,Virginia,False
+DATA CENTER VINT HILL,DB Data Center Vint Hill,VA,Operating,,38.74741879,-77.6742572,Virginia,False
+DC 11 DE LLC (Amazon),DC 11 DE LLC (Amazon),VA,Operating,,38.81517405,-77.64867969,Virginia,False
+PORPOISE VENTURES LLC (Digital Realty Trust),PORPOISE VENTURES LLC (Digital Realty Trust),VA,Operating,,38.77805742,-77.59468079,Virginia,False
+NOVA MANGO FARMS LLC,NOVA MANGO FARMS,VA,Operating,,38.77619086,-77.58340321,Virginia,False
+GCDC PURCHASER PHASE 1 LLC,GCDC PURCHASER PHASE 1,VA,Operating,,38.80240839,-77.58255503,Virginia,False
+Cavalier Innsbrook Data Center,HIGHWOODS PROP,VA,Operating,,37.66087584,-77.5739227,Virginia,False
+SES AMERICOM INC,SES AMERICOM INC,VA,Operating,,38.78380889,-77.5723158,Virginia,False
+24244 QUAIL RIDGE LN,Amazon AWS,VA,Operating,,38.94905003,-77.56043618,Virginia,False
+Quail Ridge C - D,Amazon AWS,VA,Operating,,38.94839095,-77.55883643,Virginia,False
+DC 12 14 DE LLC (Amazon),DC 12 14 DE LLC (Amazon),VA,Operating,,38.77810604,-77.55823182,Virginia,False
+COPT DC 19 LLC,COPT DC 19,VA,Operating,,38.77942075,-77.54248132,Virginia,False
+GI TC 7510 MASON KING CT LLC (Amazon),GI TC 7510 MASON KING CT LLC (Amazon),VA,Operating,,38.7903438,-77.54118715,Virginia,False
+Hayden Technologies Loudoun Data Center,Hayden Technologies,VA,Operating,,39.05081508,-77.5395668,Virginia,False
+MANASSAS TECHNOLOGY PARTNERS LLC (Amazon),MANASSAS TECHNOLOGY PARTNERS LLC (Amazon),VA,Operating,,38.79125396,-77.53829389,Virginia,False
+IAD 1,Compass Datacenters,VA,Operating,,39.0438211,-77.53760127,Virginia,False
+POWERLOFT @ INNOVATION I,POWERLOFT @ INNOVATION I,VA,Operating,,38.74735946,-77.53176726,Virginia,False
+Thomasson Barn Rd. Campus,Amazon AWS,VA,Operating,,38.74384399,-77.53051372,Virginia,False
+COPT DC INNOVATION LLC,COPT DC INNOVATION,VA,Operating,,38.74405917,-77.52985457,Virginia,False
+WHEELER SURVEY COMPANY,WHEELER SURVEY COMPANY,VA,Operating,,38.94236155,-77.52864356,Virginia,False
+Fadeley Campus,Amazon AWS,VA,Operating,,38.94895567,-77.52147554,Virginia,False
+Innovation Drive (IAD‑104/105/106 cluster),Amazon AWS,VA,Operating,,38.74709426,-77.52027103,Virginia,False
+MANASSAS NCP LLC,MANASSAS NCP,VA,Operating,,38.76058192,-77.51869199,Virginia,False
+Freedom Center Blvd. / Hornbaker corridor,Amazon AWS,VA,Operating,,38.760572,-77.518589,Virginia,False
+QTS Manassas DC 5,QTS,VA,Operating,,38.75484953,-77.51757918,Virginia,False
+MCI COMMUNICATION SERVICES LLC VERIZON GLOBAL REAL ESTATE,MCI COMMUNICATION SERVICES LLC VERIZON GLOBAL REAL ESTATE,VA,Operating,,38.80485812,-77.51249065,Virginia,False
+EQUINIX LLC,Equinix,VA,Operating,,38.80343871,-77.51079471,Virginia,False
+Tanner Way campus (IAD‑101/102/103/100),Amazon AWS,VA,Operating,,38.73493005,-77.50674204,Virginia,False
+NV-9 CYRUSONE,C1 NORTHERN VIRGINIA - STERLING IX,VA,Operating,,38.95866473,-77.50507079,Virginia,False
+Lumen Richmond 2,LEVEL 3 COMMUNICATIONS,VA,Operating,,37.62389546,-77.50267372,Virginia,False
+ABTEEN VENTURES LLC (CloudHQ),ABTEEN VENTURES LLC (CloudHQ),VA,Operating,,38.71685464,-77.49973722,Virginia,False
+BOURZOU VENTURES LLC (CloudHQ),BOURZOU VENTURES LLC (CloudHQ),VA,Operating,,38.72297975,-77.49923145,Virginia,False
+PROLOGIS-EXCHANGE 43461 OLD OX ROAD,PROLOGIS-EXCHANGE 43461 OLD OX ROAD,VA,Operating,,38.95745135,-77.49767788,Virginia,False
+IAD 18 AMAZON,Amazon AWS,VA,Operating,,38.91918936,-77.49497537,Virginia,False
+MANUCHEHR VENTURES LLC,MANUCHEHR VENTURES,VA,Operating,,38.71508644,-77.49476365,Virginia,False
+AWS IAD61-IAD63 South Riding,Amazon AWS,VA,Operating,,38.91676919,-77.49379612,Virginia,False
+IAD44,Digital Realty,VA,Operating,,38.96118067,-77.49052334,Virginia,False
+IAD14,Digital Realty,VA,Operating,,39.00329462,-77.48721424,Virginia,False
+43831 DEVIN SHAFRON DR,Digital Realty,VA,Operating,,39.0026917,-77.48534609,Virginia,False
+IAD24,DIGITAL LOUDOUN II,VA,Operating,,39.00466209,-77.48496657,Virginia,False
+IAD12,Digital Realty,VA,Operating,,39.00198339,-77.48332173,Virginia,False
+AWS H&M Property,Amazon AWS,VA,Operating,,38.92173048,-77.48288047,Virginia,False
+DIGITAL-GCEAR1 ASHBURN,GI TC DEVIN SHAFRON,VA,Operating,,39.00285962,-77.48191497,Virginia,False
+Ashburn Campus Data Center: IAD3,DataBank,VA,Operating,,39.01787369,-77.48176457,Virginia,False
+IAD3 DataBank,ZCOLO,VA,Operating,,39.01779141,-77.48172298,Virginia,False
+IAD Digital Loudoun Plaza,Digital Realty,VA,Operating,,39.00082839,-77.47920034,Virginia,False
+Red Rum Dr Campus Sabey Data Centers,INTERGATE ASHBURN I,VA,Operating,,39.01470116,-77.47845566,Virginia,False
+Sutton Bay,Amazon AWS,VA,Operating,,38.91631015,-77.47834197,Virginia,False
+EQUINEX DC13,Equinix,VA,Operating,,39.01260183,-77.47533285,Virginia,False
+QTS Ashburn 3 DC2,QTS,VA,Operating,,38.99867277,-77.47463163,Virginia,False
+Infotel Systems Data Center,Infotel,VA,Operating,,37.61285122,-77.47348365,Virginia,False
+CHANTILLY TECHNOLOGY PARTNERS,CHANTILLY TECHNOLOGY PARTNERS,VA,Operating,,38.91006955,-77.47269439,Virginia,False
+DULLES BERRY LC4,CloudHQ,VA,Operating,,39.00252011,-77.47227907,Virginia,False
+SDC ASHBURN I,SDC ASHBURN ALPHA I,VA,Operating,,38.99620896,-77.47163813,Virginia,False
+BLUE SLING ACC 9,BLUE SLING ACC 9,VA,Operating,,39.01549243,-77.46757943,Virginia,False
+IAD Round Table Campus Digital Realty,DIGITAL LOUDOUN 3,VA,Operating,,39.00662947,-77.46619629,Virginia,False
+DIGITAL REALTY ACC10,BLUE SLING ACC 10,VA,Operating,,39.01327692,-77.46601762,Virginia,False
+ACC5 ACC6 Digital Realty,FOX PROPERTIES,VA,Operating,,39.02070229,-77.46347144,Virginia,False
+44621 WAXPOOL RD,KAVEH VENTURES,VA,Operating,,39.01213849,-77.4629108,Virginia,False
+21955 LOUDOUN COUNTY PKWY,CloudHQ,VA,Operating,,39.01002754,-77.46273662,Virginia,False
+ACC4 Digital Realty,GRIZZLY VENTURES,VA,Operating,,39.01794393,-77.4626604,Virginia,False
+TFG INDEPENDENCE CENTER I PROPERTY,TFG INDEPENDENCE CENTER I PROPERTY,VA,Operating,,38.88027303,-77.46223559,Virginia,False
+COPT STONECROFT,COPT STONECROFT,VA,Operating,,38.87626236,-77.46177616,Virginia,False
+44470 Chilum Place,Equinix,VA,Operating,,39.02220796,-77.46144166,Virginia,False
+44520 HASTINGS DR,QUILL EQUITY,VA,Operating,,39.01993471,-77.45988872,Virginia,False
+Filigree Ct Campus,Equinix,VA,Operating,,39.01585308,-77.45988623,Virginia,False
+CLOUD HQ LC3,LOHRASP VENTURES,VA,Operating,,39.01115409,-77.45961026,Virginia,False
+DC 8 9 10 DE,DC 8 9 10 DE,VA,Operating,,39.02907864,-77.45896392,Virginia,False
+44490 CHILUM PL,BLUE SLING ACC 2,VA,Operating,,39.02134109,-77.45830079,Virginia,False
+"IAD 41, IAD 42, BLDG P",DIGITAL LOUDOUN 3,VA,Operating,,39.00840765,-77.45794438,Virginia,False
+QTS Ashburn 2 DC2,QTS,VA,Operating,,38.99543448,-77.45692425,Virginia,False
+EQUINIX DC21,Equinix,VA,Operating,,39.01186426,-77.45481385,Virginia,False
+AWS Westfax A,Amazon AWS,VA,Operating,,38.89798901,-77.45402906,Virginia,False
+Amazon Web Services Mallory,Amazon AWS,VA,Operating,,38.90492701,-77.45381063,Virginia,False
+Lee Road Property,Lee Road Property,VA,Operating,,38.89053684,-77.45367771,Virginia,False
+AWS Westfax B,Amazon AWS,VA,Operating,,38.89959217,-77.45343897,Virginia,False
+21310 BEAUMEADE CIR,BEAUMEADE DC BUILDING,VA,Operating,,39.01584869,-77.45340782,Virginia,False
+Centersquare IAD4 21561 Beaumeade Circle,Centersquare (formerly Evoque),VA,Operating,,39.0217301,-77.45283782,Virginia,False
+21320 BEAUMEADE CIR,BEAUMEADE DC BUILDING,VA,Operating,,39.01704513,-77.4522879,Virginia,False
+H5 CAPITAL-ASHBURN,ASHBURN DATA PROPERTY OWNER LP,VA,Operating,,39.01373262,-77.45174904,Virginia,False
+DIGITAL LOUDOUN IV,DIGITAL LOUDOUN IV,VA,Operating,,39.0051437,-77.45119527,Virginia,False
+BCORE COPT DC-15,BCORE COPT DC-15,VA,Operating,,39.02639748,-77.45114855,Virginia,False
+21551 BEAUMEADE CIR,BEAUMEADE TECHNOLOGY PARTNERS,VA,Operating,,39.02088482,-77.45114126,Virginia,False
+IAD114,BEAUMEADE LC PHASE III,VA,Operating,,39.03563056,-77.45093717,Virginia,False
+44790 PERFORMANCE CIR,Equinix,VA,Operating,,39.02357221,-77.45090467,Virginia,False
+PowerHouse/AREP ABX-1,AREP BEAUMEADE,VA,Operating,,39.01957896,-77.45049386,Virginia,False
+IAD76,FR RANDOLPH DRIVE,VA,Operating,,38.99405639,-77.45023482,Virginia,False
+BEAUMEADE LC PHASE III LLC,BEAUMEADE LC PHASE III,VA,Operating,,39.0363794,-77.44978929,Virginia,False
+DCT DULLES PHASE II,DCT DULLES PHASE II,VA,Operating,,38.99059927,-77.4488546,Virginia,False
+DATA CENTER BUILDING C,DCT DULLES PHASE II,VA,Operating,,38.9917194,-77.44855245,Virginia,False
+FR SUMMIT AWS,FR SUMMIT,VA,Operating,,38.98870993,-77.44764983,Virginia,False
+VISA USA INC,Visa,VA,Operating,,39.04920476,-77.44556813,Virginia,False
+VERISIGN INC,VERISIGN INC,VA,Operating,,38.99773902,-77.4436832,Virginia,False
+MCP 22745 & 22755 RELOCATION DRIVE,MCP 22745 & 22755 RELOCATION DRIVE,VA,Operating,,38.98649106,-77.44223349,Virginia,False
+DCT DULLES DOWNS,DCT DULLES DOWNS,VA,Operating,,38.99117809,-77.44136698,Virginia,False
+SENTINEL ASHBURN II,GI TC LOUDOUN,VA,Operating,,39.0006039,-77.43985679,Virginia,False
+21641 CHARLES VIEW DR,Amazon AWS,VA,Operating,,39.0179646,-77.43968178,Virginia,False
+Lumen Richmond 1,LEVEL 3 COMMUNICATIONS,VA,Operating,,37.64678362,-77.43844303,Virginia,False
+PROLOGIS,Prologis,VA,Operating,,38.99013715,-77.4372931,Virginia,False
+Pixel Factory,PIXEL FACTORY DEVELOPMENT,VA,Operating,,37.69900902,-77.4362707,Virginia,False
+22370 KIPPER DR AWS,Amazon AWS,VA,Operating,,38.99696471,-77.43580741,Virginia,False
+22350 KIPPER DR AWS,Amazon AWS,VA,Operating,,38.99508858,-77.43511004,Virginia,False
+1304 SQUIRE CT,ELECTRIC BUILDING,VA,Operating,,39.02152866,-77.43475817,Virginia,False
+DIGITAL STERLING PREMIER,DIGITAL STERLING PREMIER,VA,Operating,,38.99003896,-77.43467403,Virginia,False
+DC 21/IAD 98,BCORE COPT DC-21,VA,Operating,,39.01945652,-77.43400188,Virginia,False
+GI TC 45360 SEVERN WAY LLC,GI TC 45360 SEVERN WAY,VA,Operating,,39.02167671,-77.43291713,Virginia,False
+MECP3 ASHBURN 3 LLC,MECP3 ASHBURN 3,VA,Operating,,39.0323483,-77.4299109,Virginia,False
+MECP2 ASHBURN 2 LLC,MECP2 ASHBURN 2,VA,Operating,,39.03041241,-77.42901323,Virginia,False
+MECP1 ASHBURN 1 LLC,MECP1 ASHBURN 1,VA,Operating,,39.02848588,-77.42768499,Virginia,False
+22945 INTERNATIONAL DR AWS,Amazon AWS,VA,Operating,,38.98215669,-77.42751353,Virginia,False
+Perspecta Datacenter Campus,Amazon AWS,VA,Operating,,38.92334599,-77.42683496,Virginia,False
+NV-4 CYRUSONE LLC,C1 NORTHERN VIRGINIA - STERLING IV,VA,Operating,,38.98468471,-77.42581523,Virginia,False
+23005 INTERNATIONAL DR,DULLES NCP II,VA,Operating,,38.97999809,-77.42562186,Virginia,False
+DULLES NCP LLC,DULLES NCP,VA,Operating,,38.98239872,-77.42485244,Virginia,False
+MARIES TECH PARK LLC,Amazon AWS,VA,Operating,,39.02399856,-77.41950271,Virginia,False
+WATERSIDE AWS,WATERSIDE I,VA,Operating,,38.98124896,-77.4179307,Virginia,False
+Centersquare IAD1: 45845 Nokes,Centersquare (formerly Evoque),VA,Operating,,39.02391493,-77.41498384,Virginia,False
+C1 NORTHERN VA - STERLING I-III,CyrusOne,VA,Operating,,39.02606689,-77.41453647,Virginia,False
+NV-8 CYRUSONE,C1 NORTHERN VIRGINIA - STERLING VIII,VA,Operating,,39.02124555,-77.41336558,Virginia,False
+Centersquare IAD1: 21110 Ridgetop,Centersquare (formerly Evoque),VA,Operating,,39.02477001,-77.41245771,Virginia,False
+CPUS STERLING LP,CPUS STERLING LP,VA,Operating,,38.98774634,-77.4108618,Virginia,False
+BIT HOLDINGS FIFTY-FOUR,BIT HOLDINGS FIFTY-FOUR INC,VA,Operating,,38.86084188,-77.39341084,Virginia,False
+Equinix DC 97,LDI PROPCO 2,VA,Operating,,38.96167052,-77.37743129,Virginia,False
+Coresite 12100 SV & 12098 SV,CoreSite,VA,Operating,,38.94845694,-77.371707,Virginia,False
+SUNRISE TECHNOLOGY PARK,CoreSite,VA,Operating,,38.95070431,-77.36489041,Virginia,False
+Virginia Information Technologies Agency,SLK GLOBAL SOLUTIONS AMERICA,VA,Operating,,37.36041473,-77.33177783,Virginia,False
+RDC-1807 MICHAEL FARADAY COURT,RDC-1807 MICHAEL FARADAY COURT,VA,Operating,,38.94886307,-77.32922339,Virginia,False
+Digital Fortress: Richmond,Chirisa Technology Parks,VA,Operating,,37.36048164,-77.3274112,Virginia,False
+LEMUR PROPERTIES LLC,Digital Realty,VA,Operating,,38.94855576,-77.32713967,Virginia,False
+Bank of America,Bank of America,VA,Operating,,37.49566163,-77.23807993,Virginia,False
+6200 Technology Blvd,Meta,VA,Operating,,37.48184863,-77.23646395,Virginia,False
+701 Technology Blvd,Meta,VA,Operating,,37.47831145,-77.22688023,Virginia,False
+Tysons Enterprise West,Equinix,VA,Operating,,38.90900557,-77.22049996,Virginia,False
+Valo Park,TAMARES 7950 OWNER,VA,Operating,,38.93238559,-77.21859114,Virginia,False
+Northrop Grummon Systems Corporation,Northrop Grumman Systems Corporation,VA,Operating,,38.86781411,-77.21562208,Virginia,False
+Roosevelt Building,YOSEMITE DC ASSETS,VA,Operating,,38.91998209,-77.21175663,Virginia,False
+VA 95 BUILDING NINE LP,VA 95 BUILDING NINE LP,VA,Operating,,38.73919219,-77.20798002,Virginia,False
+Northrop Grumman Systems Corporation,Northrop Grumman Systems Corporation,VA,Operating,,38.92187671,-77.20684374,Virginia,False
+Globalinx Virginia Beach,LANDING 888,VA,Operating,,36.7837077,-76.00894299,Virginia,False
+Telxius Cable Landing Station Virginia Beach,Telxius,VA,Operating,,36.77754701,-76.00713488,Virginia,False
+NNJ2,Cologix,NJ,Operating,,40.8216,-74.4565,New Jersey,False
+NNJ4,Cologix,NJ,Operating,,40.8216,-74.4565,New Jersey,False
+GI Partners: Nutley,GI Partners,NJ,Operating,,40.82138404,-74.13444419,New Jersey,False
+Downtown Seattle Data Center: SEA1,DataBank,WA,Operating,,47.61435724,-122.3388644,Washington,False
+Mesa Campus - Redhawk 1,Google,AZ,Operating,,33.3544444,-111.6806359,Arizona,False
+Science Applications International Corp (SAIC),DISCOVERY SQUARE,VA,Operating,,38.95265185,-77.3499866,Virginia,False
+Zone5,Fair Holdings Llc,VA,Operating,,36.87813023,-76.21607603,Virginia,False
+EdgeConneX SDG01,EdgeConneX,CA,Operating,,32.84140496,-117.1697046,California,False
+Austin Data Center: AUS1,DataBank,TX,Operating,,30.4360466,-97.76607827,Texas,False
+Memphis Data Center MEM1,DataBank,TN,Operating,,35.2031302,-89.80843383,Tennessee,False
+EdgeConneX TAL01,EdgeConneX,FL,Operating,,30.47176036,-84.35367038,Florida,False
+Downtown Cleveland Data Center: CLE1,DataBank,OH,Operating,,41.50129635,-81.68336327,Ohio,False
+Downtown Philadelphia Data Center: PHL1,DataBank,PA,Operating,,39.95958459,-75.16100808,Pennsylvania,False
+AWS Rockfish,Amazon AWS,TX,Operating,,29.3019,-98.3888,Texas,False
+HyscaleIX Nashville Carrier Hotel,H5 Data Centers / Novacap,TN,Operating,,36.1628,-86.77863,Tennessee,False
+HyscaleIX Tampa Carrier Hotel,H5 Data Centers / Novacap,FL,Operating,,27.949581,-82.45849,Florida,False
+Google Arcola Campus,Google,VA,Operating,,38.9432,-77.5253,Virginia,False
+Google Stonewall Campus,Google,VA,Operating,,39.0515,-77.5393,Virginia,False
+Google Bristow Campus,Google,VA,Operating,,38.79,-77.585,Virginia,False
+Google Lockbourne Data Center,Google,OH,Operating,,39.8611,-83.004,Ohio,False
+PORTS Technology Campus - Phase 2,SB Energy,OH,Planned,9200.0,39.008333,-83.0,Ohio,True
+GW Ranch,Pacifico Energy,TX,Planned,7650.0,31.1621064,-102.8964115,Texas,True
+Nexus Data Centers Hubbard Data Center,Nexus Data Centers,TX,Planned,7200.0,31.8394143,-96.7873009,Texas,True
+Monarch Compute Campus - Phase 2,American Intelligence & Power,WV,Planned,6000.0,38.9087381,-82.105927,West Virginia,True
+Fermi - Phase 3 (SMR/Expansion),Fermi America,TX,Planned,4600.0,35.294622,-101.605936,Texas,True
+Homer City Energy Campus,Homer City Redevelopment,PA,Planned,4500.0,40.51371697,-79.19672639,Pennsylvania,True
+Fermi - Phase 2 (Nuclear),Fermi America,TX,Planned,4400.0,35.294622,-101.605936,Texas,True
+Tract Caldwell Valley,Tract,TX,Planned,4000.0,29.921659,-97.759283,Texas,True
+High Performance Compute Data Center Campus,Joule Capital Partners,UT,Planned,4000.0,39.1997678,-112.3689572,Utah,True
+Aligned Shippingport Data Center,Aligned,PA,Planned,3600.0,40.63213,-80.4145,Pennsylvania,True
+Hyperion - Phase 2,Meta,LA,Planned,3000.0,32.507011,-91.636105,Louisiana,True
+TECfusions Keystone Connect,TECfusions,PA,Planned,3000.0,40.5475375,-79.6493059,Pennsylvania,True
+Vermaland La Osa Data Center Campus,Vermaland,AZ,Planned,3000.0,32.68,-111.55,Arizona,True
+Gainseville Data Center,Microsoft,VA,Planned,2982.0,38.7914246,-77.5845138,Virginia,True
+North Creek Tech Campus,Amazon AWS,VA,Planned,2700.0,37.96837812,-77.95334145,Virginia,True
+Microsoft Pecos Data Center,Microsoft,TX,Planned,2500.0,31.1343,-103.4383,Texas,True
+AWS Hobart,Amazon AWS,IN,Planned,2400.0,41.4883163,-87.3355017,Indiana,True
+Stargate - Project Jupiter,STACK Infrastructure,NM,Planned,2210.0,31.82,-106.672,New Mexico,True
+Birchwood AWS,Amazon AWS,VA,Planned,2175.0,38.26640245,-77.31772806,Virginia,True
+George Washington Village Data Center,Garrett Development Corporation,VA,Planned,2100.0,38.40892022,-77.44693146,Virginia,True
+Fermi - Phase 1 (Gas),Fermi America,TX,Planned,2000.0,35.294622,-101.605936,Texas,True
+Monarch Compute Campus - Phase 1,American Intelligence & Power,WV,Planned,2000.0,38.9087381,-82.105927,West Virginia,True
+Eneus Energy Cameron Data Center,Eneus Energy,TX,Planned,2000.0,26.226423,-97.63307,Texas,True
+Delta Gigasite,Fibernet,UT,Planned,2000.0,39.51095,-112.580122,Utah,True
+Hyperion - Phase 1,Meta,LA,Planned,2000.0,32.507011,-91.636105,Louisiana,True
+Crusoe WY Campus,Crusoe,WY,Planned,1800.0,41.02251,-104.8177849,Wyoming,True
+Joliet Technology Center,PowerHouse,IL,Planned,1800.0,41.46179335,-88.15049047,Illinois,True
+Project Cardinal Data Center,Pioneer Development,IL,Planned,1800.0,41.71730289,-88.47554231,Illinois,True
+AWS New Carlisle - Expansion,Amazon AWS,IN,Planned,1725.0,41.6713922,-86.4812191,Indiana,True
+LC Campus,CloudHQ,VA,Planned,1700.0,39.01015,-77.4627,Virginia,True
+Fundamental Ridgeline Data Center,Fundamental Data,WV,Planned,1656.0,39.13851,-79.4867,West Virginia,True
+IREN Oklahoma,IREN,OK,Planned,1600.0,36.753143,-98.78616,Oklahoma,True
+Colossus 2,xAI,TN,Planned,1563.0,35.00019187,-90.0433191,Tennessee,True
+Digital Gateway (Compass),Compass Datacenters,VA,Planned,1500.0,38.8049033,-77.5735955,Virginia,True
+Crusoe Victoria Data Center,Crusoe,TX,Planned,1500.0,28.689142,-96.96172,Texas,True
+Wilderness Crossing,Amazon AWS,VA,Planned,1500.0,38.333162,-77.731088,Virginia,True
+Gouldsboro Data Center,1778 Rich Pike,PA,Planned,1500.0,41.248901,-75.5163103,Pennsylvania,True
+Project Horizon Phase 2,Poolside,TX,Planned,1500.0,30.421732,-102.509315,Texas,True
+Takanock Goshen Data Center,Takanock,IN,Planned,1500.0,41.67126617,-85.80403264,Indiana,True
+Digital Gateway (QTS),QTS,VA,Planned,1500.0,38.8049033,-77.5735955,Virginia,True
+Hassayampa Ranch Data Center,Arizona Land Consulting,AZ,Planned,1500.0,33.4509,-112.6346,Arizona,True
+Fairwater 1 - Mount Pleasant,Microsoft,WI,Planned,1480.0,42.690679,-87.937411,Wisconsin,True
+Stargate - Frontier,Vantage Data Centers,TX,Planned,1400.0,32.543,-99.55,Texas,True
+IREN Sweetwater 1,IREN,TX,Planned,1400.0,32.46384557,-100.3299567,Texas,True
+Stargate - Michigan Data Center,Related Digital,MI,Planned,1400.0,42.12,-83.885,Michigan,True
+PAX – Pennsylvania Digital I,PowerHouse,PA,Planned,1350.0,40.256625,-77.1191193,Pennsylvania,True
+Spring Valley Technology Park,Active Infrastructure,VA,Planned,1300.0,38.9961614,-77.5686106,Virginia,True
+Zenith Volts Roswell Data Center,Zenith Volts,NM,Planned,1250.0,33.38971,-104.536,New Mexico,True
+Tract South Valley,Tract,NV,Planned,1215.0,39.47083,-119.40618,Nevada,True
+Oasis Dahlgren West Data Center,Oasis Digital Properties,VA,Planned,1200.0,38.30967,-77.1084,Virginia,True
+CloudBurst San Marcos Data Center,CloudBurst,TX,Planned,1200.0,29.76191299,-97.99088995,Texas,True
+Nebius Independence Campus,Nebius,MO,Planned,1200.0,39.0932214,-94.3221065,Missouri,True
+MSB Matrix Data Center Phase 2,MSB Global Services,TX,Planned,1200.0,33.08515,-95.546,Texas,True
+Google Monrovia Data Center,Google,IN,Planned,1200.0,39.59558739,-86.45815461,Indiana,True
+Project Washington Campus,Starwood Digital Ventures,DE,Planned,1200.0,39.60223861,-75.64770157,Delaware,True
+Bilateral Energy Knox Ranch Data Center,Bilateral Energy,TX,Planned,1200.0,32.409314,-97.847592,Texas,True
+Project Zodiac - Phase 2,Google,IN,Planned,1200.0,41.03472,-85.047459,Indiana,True
+EdgeCore Shannon Hill Campus,EdgeCore,VA,Planned,1100.0,37.883446,-78.038852,Virginia,True
+Stack Infrastructure Stafford Campus,STACK Infrastructure,VA,Planned,1100.0,38.38512162,-77.43161729,Virginia,True
+Madison Data Centers,Amazon AWS,MS,Planned,1034.0,32.5936898,-90.0963975,Mississippi,True
+Goodnight Campus,Crusoe,TX,Planned,1030.0,35.0168,-101.345,Texas,True
+InfraKey Lacy Lakeview Data Center,InfraKey Capital,TX,Planned,1000.0,31.66293,-97.110344,Texas,True
+Treetop Development Data Center,Donovan Drive Holdings,NY,Planned,1000.0,41.5234,-73.81024,New York,True
+Abilene Stargate Campus - Phase 2,Crusoe,TX,Planned,1000.0,32.4986286,-99.7887683,Texas,True
+Huntley Page Data Center,Huntley,AZ,Planned,1000.0,36.898376,-111.483154,Arizona,True
+Meta El Paso Data Center,Meta,TX,Planned,1000.0,31.9869,-106.378,Texas,True
+Tract Morris Data Center,Tract,IL,Planned,1000.0,41.39786,-88.37636,Illinois,True
+Chesapeake Data,TeraWulf,MD,Planned,1000.0,38.3596,-76.9757,Maryland,True
+Lebanon Data Center,Meta,IN,Planned,1000.0,40.0478708,-86.5261111,Indiana,True
+Western Lands,Digital Realty,VA,Planned,1000.0,38.95450081,-77.48892243,Virginia,True
+Peterson Stafford Data Center,STACK Infrastructure,VA,Planned,1000.0,38.3787419,-77.4273005,Virginia,True
+Project Cannoli,Google,MI,Planned,1000.0,42.228857,-83.475064,Michigan,True
+Project Jarvis,,FL,Planned,1000.0,27.47149298,-80.55927729,Florida,True
+Microsoft Granger Data Center,Microsoft,IN,Planned,1000.0,41.729033,-86.123315,Indiana,True
+AWS Susquehanna Data Center,Amazon AWS,PA,Planned,960.0,41.0894737,-76.1458552,Pennsylvania,True
+Robena Data Center,International Electric Power of Pittsburgh,PA,Planned,910.0,39.83526,-79.942505,Pennsylvania,True
+Hansen Farm Data Center,Microsoft,VA,Planned,910.0,38.7814337,-77.5723489,Virginia,True
+Stargate - Lighthouse,Vantage Data Centers,WI,Planned,902.0,43.436,-87.855,Wisconsin,True
+Kingsboro Data Center Campus,Energy Storage Solutions,NC,Planned,900.0,35.9179,-77.6708,North Carolina,True
+Pine Ridge Technology Center,Eagle Rock Partners,GA,Planned,900.0,32.63236,-83.5072,Georgia,True
+Bolingbroke Technology Campus,Bolingbroke Technology Center,GA,Planned,900.0,32.94370218,-83.82536543,Georgia,True
+Project Sail,Prologis,GA,Planned,900.0,33.434,-84.87683,Georgia,True
+Mountain Road Technology Park,Tract,VA,Planned,900.0,37.68726488,-77.5432181,Virginia,True
+Crusoe Abilene Microsoft AI Factory,Crusoe,TX,Planned,900.0,32.4942,-99.8009,Texas,True
+Google Wilbarger County Data Center,Google,TX,Planned,850.0,34.085262,-99.145335,Texas,True
+Meitner Data Center,Google,TX,Planned,840.0,35.562222,-100.6941,Texas,True
+Helios,Galaxy Digital,TX,Planned,800.0,33.7662776,-100.863583,Texas,True
+MSB Matrix Data Center Phase 1,MSB Global Services,TX,Planned,800.0,33.08515,-95.546,Texas,True
+Viridian Janesville GM Plant Data Center,Viridian Acquisitions,WI,Planned,800.0,42.6633,-89.0217,Wisconsin,True
+Vantage Millersport Campus,Vantage Data Centers,OH,Planned,800.0,39.897016,-82.556333,Ohio,True
+PORTS Technology Campus - Phase 1,SB Energy,OH,Planned,800.0,39.008333,-83.0,Ohio,True
+Mattameade Tech Campus,Amazon AWS,VA,Planned,770.0,38.12168301,-77.50419731,Virginia,True
+Cielo Hudson Data Center,Cielo Digital Infrastructure,CO,Planned,750.0,40.09549,-104.609,Colorado,True
+QTS Phoenix 3 Campus,QTS,AZ,Planned,750.0,33.5801,-112.4024,Arizona,True
+Tract Sapphire,Tract,NV,Planned,700.0,39.42805,-119.232,Nevada,True
+CyrusOne Springfield Data Center,CyrusOne,IL,Planned,636.0,39.5435085,-89.8796296,Illinois,True
+QTS: Big Cedar Industrial Center,QTS,IA,Planned,616.0,41.90854626,-91.72942709,Iowa,True
+Bristolville 25 Lordstown Data Center,Bristolville 25 Developer,OH,Planned,600.0,41.13775278,-80.86162146,Ohio,True
+PowerHouse 95 - Phase 2,PowerHouse,VA,Planned,600.0,38.2181191,-77.48060345,Virginia,True
+AWS Comanche Peak Campus,Amazon AWS,TX,Planned,600.0,32.2987,-97.7853,Texas,True
+CyrusOne Yorkville Campus Phase 1,CyrusOne,IL,Planned,600.0,41.6759,-88.4834,Illinois,True
+Project Spectrum,Amazon AWS,TX,Planned,600.0,32.331016,-97.77933,Texas,True
+Gibson County Data Center,,IN,Planned,600.0,38.311283,-87.610799,Indiana,True
+Project Ruby,Habitat Partners,GA,Planned,600.0,32.581497,-84.71003,Georgia,True
+DCD Kansas Data Center,Red Wolf DCD Properties,KS,Planned,600.0,39.13246599,-94.88059549,Kansas,True
+SAT Campus,CloudHQ,TX,Planned,600.0,29.41681,-98.79809,Texas,True
+IREN Sweetwater 2,IREN,TX,Planned,600.0,32.46384557,-100.3299567,Texas,True
+Vantage IN Data Center,Vantage Data Centers,IN,Planned,600.0,39.88324956,-86.44535176,Indiana,True
+Cedar Rapids Data Center,Google,IA,Planned,600.0,41.918086,-91.721967,Iowa,True
+PowerCampus Austin,Skybox,TX,Planned,600.0,30.5395571,-97.5219783,Texas,True
+Project Cardinal Data Center,TAC Data Centers,MT,Planned,600.0,47.5273781,-111.1907543,Montana,True
+Hut 8 River Bend Campus,Hut 8,LA,Planned,592.0,30.71934499,-91.31920856,Louisiana,True
+GigaPop Red Oak,Lincoln Property Company,TX,Planned,540.0,32.5371001,-96.7278709,Texas,True
+La Porte Data Center,Microsoft,IN,Planned,538.0,41.5835361,-86.6981973,Indiana,True
+Taho Reno 2 and 3,Switch,NV,Planned,520.0,39.5141083,-119.4736264,Nevada,True
+Sentinel Hebron Data Center,Sentinel Data Centers,IN,Planned,504.0,41.28966838,-87.27229987,Indiana,True
+Compass Datacenters: MS,Compass Datacenters,MS,Planned,500.0,32.39083051,-88.62399087,Mississippi,True
+Stack Infrastructure DFW02,STACK Infrastructure,TX,Planned,500.0,32.58107831,-96.73454642,Texas,True
+Van Wert Data Center,Thor Equities,OH,Planned,500.0,40.89674639,-84.56170898,Ohio,True
+Zediker Station Data Center,CNX Resources,PA,Planned,500.0,40.17106,-80.16807,Pennsylvania,True
+Quantica Big Sky Data Center,Quantica Infrastructure,MT,Planned,500.0,46.04485,-108.273,Montana,True
+Western Hospitality Childersburg Data Center,Western Hospitality Partners,AL,Planned,500.0,33.340885,-86.336205,Alabama,True
+Cielo Minooka Data Center,Cielo Digital Infrastructure,IL,Planned,500.0,41.45592,-88.2842,Illinois,True
+Cloverleaf Troy Data Center,Cloverleaf Infrastructure,IL,Planned,500.0,38.725338,-89.909645,Illinois,True
+Cielo Mustang Ridge Data Center,Cielo Digital Infrastructure,TX,Planned,500.0,30.05179,-97.6772,Texas,True
+Gemini Data Center Sioux Falls,Gemini Data Center SD,SD,Planned,500.0,43.59611,-96.6499,South Dakota,True
+Cielo Kansas City Data Center,Cielo Digital Infrastructure,MO,Planned,500.0,39.01764,-94.5668,Missouri,True
+New Haven Data Center,,IN,Planned,500.0,41.078707,-84.942076,Indiana,True
+Project Horizon Phase 1,Poolside,TX,Planned,500.0,30.421732,-102.509315,Texas,True
+Davis-Monthan AFB Data Center,US Government,AZ,Planned,500.0,32.1665,-110.883,Arizona,True
+Five 9s Digital Aliquippa Data Center,Fezzik Energy,PA,Planned,496.0,40.630177,-80.23629,Pennsylvania,True
+Justified Data,TeraWulf,KY,Planned,480.0,37.899,-86.756,Kentucky,True
+Cosner Tech Campus,Amazon AWS,VA,Planned,450.0,38.20700248,-77.4754614,Virginia,True
+75 South Data Center Campus,Industrial VI Enterprises / Hillwood,GA,Planned,450.0,33.256115,-84.14383,Georgia,True
+Microsoft Project Ginger East,Microsoft,IA,Planned,444.0,41.515959,-93.720739,Iowa,True
+North Country Data Center,North Country Colocation Services,NY,Planned,435.0,44.961773,-74.8913,New York,True
+Terra Data Center,Terra Ventures,CA,Planned,417.0,37.42468742,-121.9725683,California,True
+Microsoft Van Meter,Microsoft,IA,Planned,415.0,41.5109532,-93.930203,Iowa,True
+Jeffersonville Data Center,Meta,IN,Planned,407.0,38.375278,-85.668327,Indiana,True
+PowerHouse Louisville,PowerHouse,KY,Planned,402.0,38.2078813,-85.8459588,Kentucky,True
+Digital Realty Charlotte Campus,Digital Realty,NC,Planned,400.0,35.255707,-80.99796,North Carolina,True
+Lake Hawkeye,TeraWulf,NY,Planned,400.0,42.602544,-76.635978,New York,True
+Project Azalea Data Center,Williams Brothers Development,GA,Planned,400.0,33.453014,-82.39851,Georgia,True
+Geronimo Power Data Center,Geronimo Power,MN,Planned,400.0,43.85769,-95.73042,Minnesota,True
+Project Pyramid,Google,AR,Planned,400.0,35.1041741,-90.2209104,Arkansas,True
+CyrusOne DFW10,CyrusOne,TX,Planned,400.0,31.85630146,-97.35560313,Texas,True
+Brazil Data Center,,IN,Planned,400.0,39.62505773,-87.08966716,Indiana,True
+MCC Campus,CloudHQ,VA,Planned,382.0,38.71955,-77.49819,Virginia,True
+CyrusOne Freestone Data Center,CyrusOne,TX,Planned,380.0,31.893915,-96.11786,Texas,True
+East Wenatchee Campus,Microsoft,WA,Planned,360.0,47.415,-120.298,Washington,True
+DFW - Red Oak,Compass Datacenters,TX,Planned,360.0,32.537981,-96.804371,Texas,True
+"Lake Mariner - CB-3, CB-4 & CB-5",TeraWulf,NY,Planned,360.0,43.35973,-78.60527,New York,True
+Cielo Clarksville Data Center,Cielo Digital Infrastructure,TN,Planned,350.0,36.57269,-87.3423,Tennessee,True
+Panther Creek - Phase 1,T5 Data Centers,PA,Planned,350.0,40.8557,-75.8774,Pennsylvania,True
+Hillcrest Campus,Microsoft,VA,Planned,336.0,36.660047,-78.365035,Virginia,True
+Imperial Valley AI Data Center,Google,CA,Planned,330.0,32.8249004,-115.5655345,California,True
+Becker Data Center,Microsoft,MN,Planned,325.0,45.3964749,-93.9279565,Minnesota,True
+Project Steamboat - Fulton Data Center,Microsoft,GA,Planned,324.0,33.6243747,-84.5626331,Georgia,True
+Lake Mariner expansion,TeraWulf,NY,Planned,320.0,43.35973,-78.60527,New York,True
+Marble Hill Data Center,,IN,Planned,310.0,38.59496196,-85.45740646,Indiana,True
+Rosemount Data Center,Meta,MN,Planned,308.0,44.734698,-93.06526,Minnesota,True
+Related Digital Cheyenne Data Center,Related Digital,WY,Planned,302.0,41.137573,-104.71874,Wyoming,True
+Chirisa Technology Parks: DDC Campus,Chirisa Technology Parks,VA,Planned,300.0,37.35815832,-77.32443227,Virginia,True
+Novva Mesa Arizona,Novva,AZ,Planned,300.0,33.3388619,-111.640804,Arizona,True
+Coal Creek Data Center,Rainbow Energy,ND,Planned,300.0,47.3769,-101.157,North Dakota,True
+Calvano: Wichita Falls City,Calvano Development,TX,Planned,300.0,33.9593006,-98.56669959,Texas,True
+Polaris Forge 2,Applied Digital,ND,Planned,300.0,46.9704819,-96.8700052,North Dakota,True
+PowerCampus Dallas,Skybox,TX,Planned,300.0,32.5696867,-96.7669961,Texas,True
+Cielo New Lenox Data Center,Cielo Digital Infrastructure,IL,Planned,300.0,41.51055,-87.969,Illinois,True
+T5@ATL IV,T5 Data Centers,GA,Planned,300.0,33.492702,-84.661315,Georgia,True
+T5@ATL III,T5 Data Centers,GA,Planned,300.0,33.76270387,-84.601696,Georgia,True
+Cielo Cherokee County Campus,Cielo Digital Infrastructure,SC,Planned,300.0,35.07962376,-81.59792849,South Carolina,True
+PowerHouse Charlotte,PowerHouse,NC,Planned,300.0,35.3138655,-80.697861,North Carolina,True
+Rowan Temple Data Center,Rowan Digital Infrastructure,TX,Planned,300.0,31.05745,-97.2979,Texas,True
+Cielo Haines City Data Center,Cielo Digital Infrastructure,FL,Planned,300.0,28.17875,-81.6457,Florida,True
+Cielo Chisago Data Center,Cielo Digital Infrastructure,MN,Planned,300.0,45.3618,-92.9186,Minnesota,True
+Ranalli Lysander Data Center,Ranalli Super DC,NY,Planned,300.0,43.18687,-76.35703,New York,True
+CleanSpark Brazoria Data Center,CleanSpark,TX,Planned,300.0,29.182318,-95.47511,Texas,True
+Dickerson Data Center,Atmosphere Data Centers,MD,Planned,300.0,39.209373,-77.46454,Maryland,True
+Rowan Cinco Data Center,Rowan Digital Infrastructure,TX,Planned,300.0,29.219524,-98.82438,Texas,True
+Avaio Digital Appomattox,Avaio Digital Partners,VA,Planned,300.0,37.36928208,-78.8492204,Virginia,True
+Farmville Data Hub,Avaio Digital Partners,VA,Planned,300.0,37.29433055,-78.3451251,Virginia,True
+Province Group,Province Group,VA,Planned,300.0,37.50839013,-77.73239492,Virginia,True
+Greenlin Park data center,JK Land Holdings,VA,Planned,300.0,39.056977,-77.563019,Virginia,True
+MDC Campus,CloudHQ,VA,Planned,300.0,38.73088,-77.50829,Virginia,True
+Richmond Campus (Menlo Digital),Menlo Digital,VA,Planned,300.0,37.2112,-77.362621,Virginia,True
+PowerHouse 1600 Digital Drive,PowerHouse,VA,Planned,300.0,37.3562996,-77.333659,Virginia,True
+NE Edge Millstone Data Center,NE Edge,CT,Planned,300.0,41.31387,-72.1673,Connecticut,True
+Stargate - Milam Campus,SB Energy,TX,Planned,300.0,30.995,-97.012,Texas,True
+PowerHouse 95 - Phase 1,PowerHouse,VA,Planned,300.0,38.2181191,-77.48060345,Virginia,True
+Microsoft Malaga Campus,Microsoft,WA,Planned,288.0,47.359072,-120.15889,Washington,True
+Ashburn Data Center Campus VA3,Vantage Data Centers,VA,Planned,288.0,39.0796987,-77.50650308,Virginia,True
+CleanSpark Austin County Data Center,CleanSpark,TX,Planned,285.0,29.884085,-96.219376,Texas,True
+Boyd Farms Data Center,Microsoft,NC,Planned,270.0,35.58735,-81.23074,North Carolina,True
+Stover North Data Center,Microsoft,NC,Planned,270.0,35.65,-81.22,North Carolina,True
+Lyle Creek Data Center,Microsoft,NC,Planned,270.0,35.73344,-81.20363,North Carolina,True
+Arcola Pacific Campus,PowerHouse,VA,Planned,265.0,39.00486343,-77.44698918,Virginia,True
+Aligned Quantum Frederick campus,Aligned,MD,Planned,264.0,39.33794043,-77.47590923,Maryland,True
+CoreWeave Digital Crossroads Data Center,Decennial Group,IN,Planned,260.0,41.70526316,-87.51887629,Indiana,True
+Phoenix Campus (Menlo Digital),Menlo Digital,AZ,Planned,257.0,33.3117,-111.9782614,Arizona,True
+ORD Campus,CloudHQ,IL,Planned,252.0,42.03501,-87.9537,Illinois,True
+QTS Fayetteville,QTS,GA,Planned,250.0,33.4473958,-84.5233005,Georgia,True
+Texas Critical Ector Data Center,Texas Critical Data Centers,TX,Planned,250.0,31.89517,-102.556,Texas,True
+CoreWeave Kenilworth Campus,CoreWeave,NJ,Planned,250.0,40.6758088,-74.2751617,New Jersey,True
+Core Scientific: Cottonwood 1 & 2,Core Scientific,TX,Planned,250.0,31.54923296,-103.8337321,Texas,True
+Southeast Data Center campus,QTS,GA,Planned,250.0,33.4486072,-84.52339797,Georgia,True
+Sabey Indianapolis Data Center,Sabey,IN,Planned,250.0,39.6617005,-86.31036356,Indiana,True
+River Park,River Park Industrial,GA,Planned,250.0,33.26852513,-84.08723329,Georgia,True
+Stack Infrastructure PHX02 Campus,STACK Infrastructure,AZ,Planned,246.0,33.45669123,-111.9993231,Arizona,True
+Crow Holdings / CleanArc Dallas Campus,CleanArc Data Centers,TX,Planned,245.0,32.8044,-96.8334,Texas,True
+QTS Richmond 3,QTS,VA,Planned,240.0,37.47840132,-77.24268669,Virginia,True
+Stream Data Center: GA,Stream Data Centers,GA,Planned,240.0,33.73697829,-84.81240641,Georgia,True
+Stream Data Center: Wilmer II Hyperscale Campus (DFW C),Stream Data Centers,TX,Planned,240.0,32.58932466,-96.70263768,Texas,True
+Prime Data Centers: Phoenix Campus,Prime Data Centers,AZ,Planned,240.0,33.4177942,-112.313073,Arizona,True
+Bauxite Data Center 1,Rowan Digital Infrastructure,MD,Planned,231.0,39.32365914,-77.48537583,Maryland,True
+Stack Infrastructure PHX01 Campus,STACK Infrastructure,AZ,Planned,225.0,33.4175369,-112.3563855,Arizona,True
+Reno Data Center Campus: NV1,Vantage Data Centers,NV,Planned,224.0,39.54978391,-119.4874375,Nevada,True
+DC Blox - ATL East Data Center,DC Blox,GA,Planned,216.0,33.68948558,-84.04594815,Georgia,True
+Stack Infrastructure NVA04 Campus,STACK Infrastructure,VA,Planned,216.0,39.00028816,-77.4623634,Virginia,True
+CLP Campus,CloudHQ,VA,Planned,215.0,39.46035,-77.97771,Virginia,True
+Microsoft Project Ginger West,Microsoft,IA,Planned,207.0,41.535171,-93.864732,Iowa,True
+Pioneer Park (Phase 1 and 2),DataNovaX,TX,Planned,202.0,33.95287018,-98.52469492,Texas,True
+EdgeConneX ATL11-13,EdgeConneX,GA,Planned,202.0,33.6248494,-84.56217562,Georgia,True
+PowerHouse Irving,PowerHouse,TX,Planned,201.0,32.8868212,-96.940831,Texas,True
+Chicago (Hoffman Estates),Compass Datacenters,IL,Planned,200.0,42.073976,-88.223486,Illinois,True
+T5 @ Augusta,T5 Data Centers,GA,Planned,200.0,33.44349008,-82.12584378,Georgia,True
+MSP Campus,CloudHQ,MN,Planned,200.0,44.81068,-93.63557,Minnesota,True
+AREP Powerhouse Las Colinas,American Real Estate Partners,TX,Planned,200.0,32.88740367,-96.94064191,Texas,True
+PowerHouse Reno,PowerHouse,NV,Planned,200.0,39.5408326,-119.4977247,Nevada,True
+Applied Digital Adair Data Center,Applied Digital,IA,Planned,200.0,41.46419,-94.6051,Iowa,True
+Prominent Jarell Data Center,Prominent Property Group,TX,Planned,200.0,30.81766122,-97.6375884,Texas,True
+Chirisa Technology Parks: CTP 04/05/06,Chirisa Technology Parks,VA,Planned,200.0,37.35990563,-77.32691513,Virginia,True
+Iron Mountain White Oak Technology Park (RCH1-RCH2-RCH3),Iron Mountain,VA,Planned,200.0,37.48060889,-77.25039148,Virginia,True
+EdgeConneX Ashville Data Center,EdgeConneX,OH,Planned,197.0,39.7468828,-82.9828364,Ohio,True
+Culpeper Campus Data Center (IAD 5 and IAD6),DataBank,VA,Planned,192.0,38.44997135,-77.98074381,Virginia,True
+New Albany Data Center Campus: OH1,Vantage Data Centers,OH,Planned,192.0,40.10396825,-82.74455882,Ohio,True
+Vantage VA4,Vantage Data Centers,VA,Planned,192.0,38.39128353,-77.465087,Virginia,True
+Soluna Project Rosa,Soluna Holdings,TX,Planned,187.0,26.2419,-97.8223,Texas,True
+Project Gravity,Archbald 25 Developer,PA,Planned,186.0,41.51594827,-75.56498236,Pennsylvania,True
+Clayton Commerce III Data Center,TA Realty / EdgeconneX,GA,Planned,180.0,33.6353,-84.30396,Georgia,True
+DC Blox - ATL West Data Center,DC Blox,GA,Planned,180.0,33.7339229,-84.61463167,Georgia,True
+Cheswick/Springdale AI Data Center Redevelopment,Davidson Kempner Capital Management,PA,Planned,180.0,40.538714,-79.791156,Pennsylvania,True
+QTS Richmond 2,QTS,VA,Planned,180.0,37.48815767,-77.24015416,Virginia,True
+Denver 1,QTS,CO,Planned,177.0,39.7336172,-104.7095559,Colorado,True
+Project Lufkin Data Center,Amp Z,TX,Planned,175.0,31.3579,-94.677475,Texas,True
+PowerHouse Arcola,PowerHouse,VA,Planned,170.0,38.9519812,-77.5340103,Virginia,True
+Core Scientific: Dalton 4,Core Scientific,GA,Planned,170.0,34.68874467,-84.94290974,Georgia,True
+Abernathy Data Center (Fluidstack / Anthropic),TeraWulf,TX,Planned,168.0,33.871,-101.849,Texas,True
+Soluna Project Kati,Soluna Holdings,TX,Planned,166.0,26.37778,-97.5874,Texas,True
+Colossus 3,xAI,MS,Planned,160.0,34.9873,-89.9627,Mississippi,True
+Stack Infrastructure ATL02 Lithia Springs Data Center,STACK Infrastructure,GA,Planned,160.0,33.76124682,-84.60195135,Georgia,True
+Temple Data Center,Meta,TX,Planned,152.0,31.132714,-97.363981,Texas,True
+Stack Infrastructure NVA05 Campus,STACK Infrastructure,VA,Planned,150.0,38.75850655,-77.51690011,Virginia,True
+Avaio Digital Leo,Avaio Digital Partners,AR,Planned,150.0,34.618,-92.26808,Arkansas,True
+Cielo Des Moines Data Center,Cielo Digital Infrastructure,IA,Planned,150.0,41.57011,-93.5839,Iowa,True
+Security Land Baltimore Data Center,Security Land and Development,MD,Planned,150.0,39.319317,-76.74747,Maryland,True
+Polaris Forge 1 Campus - Phase 3,Applied Digital,ND,Planned,150.0,46.0128747,-98.5727875,North Dakota,True
+Polaris Forge 1 Campus - Phase 2,Applied Digital,ND,Planned,150.0,46.0128747,-98.5727875,North Dakota,True
+Alcove Osawatomie Data Center,Alcove Development,KS,Planned,150.0,38.516045,-94.931076,Kansas,True
+FO Permian Partners Data Center,FO Permian Partners / HiVolt Energy,TX,Planned,150.0,31.76912,-101.898,Texas,True
+Scannell Monticello Data Center,Scannell Properties,MN,Planned,150.0,45.29618861,-93.82621236,Minnesota,True
+Soluna Project Gladys,Soluna Holdings,TX,Planned,150.0,27.58049,-97.6401,Texas,True
+Sterling Data Center (Menlo Digital),Menlo Digital,VA,Planned,144.0,39.000881,-77.446457,Virginia,True
+Stack Infrastructure Loudoun County Campus,STACK Infrastructure,VA,Planned,144.0,38.95943291,-77.52824558,Virginia,True
+New Albany 1,QTS,OH,Planned,144.0,40.0647205,-82.7594607,Ohio,True
+Niagara Digital Campus,Niagara Falls Redevelopment,NY,Planned,140.0,43.084515,-79.05135,New York,True
+Gainesville Crossing Data Campus Building 4 and 5,Corscale,VA,Planned,128.0,38.79974822,-77.58081151,Virginia,True
+EdgeConneX New Albany Campus,EdgeConneX,OH,Planned,120.0,40.08825,-82.723464,Ohio,True
+Chirisa Technology Parks: CTP02 and CTP03,Chirisa Technology Parks,VA,Planned,120.0,37.35990563,-77.32691513,Virginia,True
+Soluna Project Hedy,Soluna Holdings,TX,Planned,120.0,26.32319,-97.585,Texas,True
+Archer: Minneapolis Campus,Archer Datacenters,MN,Planned,120.0,44.36566732,-93.28652587,Minnesota,True
+EdgeConneX PHX11,EdgeConneX,AZ,Planned,115.0,33.35207242,-111.6498391,Arizona,True
+EdgeCore  AS01 and AS02,EdgeCore,VA,Planned,114.0,38.99519698,-77.44622511,Virginia,True
+Microsoft Project Ruthenium,Microsoft,IA,Planned,113.0,41.49816,-93.8039,Iowa,True
+MMM Acquisitions Data Center,MMM Acquisitions,GA,Planned,108.0,33.99430576,-84.55411302,Georgia,True
+Phoenix - El Mirage,Compass Datacenters,AZ,Planned,108.0,33.580068,-112.339999,Arizona,True
+Soluna Project Ellen,Soluna Holdings,TX,Planned,100.0,26.2517,-97.4894,Texas,True
+Metrobloks Southfield Data Center,Metrobloks,MI,Planned,100.0,42.488056,-83.31892,Michigan,True
+Soluna Project Fei,Soluna Holdings,TX,Planned,100.0,34.37431,-100.094,Texas,True
+Project Trinity,Teton Digital,ND,Planned,100.0,48.27965572,-102.9130251,North Dakota,True
+Crane PDX01 Data Center,Crane Data Centers,OR,Planned,100.0,45.51303,-123.05,Oregon,True
+Thor Equities Augusta Data Center,Thor Equities,MI,Planned,100.0,42.091705,-83.63743,Michigan,True
+Edwards AFB Data Center,,CA,Planned,100.0,34.912052,-117.93109,California,True
+Ameresco NAS Lemoore Data Center,CyrusOne,CA,Planned,100.0,36.25591573,-119.90256685,California,True
+Machine Investment Group: Harrison Pike,Machine Investment Group,PA,Planned,100.0,40.05941098,-76.32990596,Pennsylvania,True
+CoreWeave Lancaster,CoreWeave,PA,Planned,100.0,40.0594582,-76.3299246,Pennsylvania,True
+Edged ATL01-02,Edged,GA,Planned,100.0,33.80026374,-84.43806548,Georgia,True
+Hamilton Innovation Center,Logistix Property Group,OH,Planned,100.0,39.3823232,-84.55546707,Ohio,True
+Core Scientific: Muskogee 1,Core Scientific,OK,Planned,100.0,35.78403476,-95.30034644,Oklahoma,True
+Atlantic Station,Skybox,TX,Planned,100.0,33.00497518,-96.74034802,Texas,True
+Alviso-Milpitas San Jose Campus,Microsoft,CA,Planned,99.0,37.4210432,-121.9314939,California,True
+WhiteFiber Madison Data Center,Bit Digital,NC,Planned,99.0,36.40271,-79.9882,North Carolina,True
+SJDC 04,Microsoft,CA,Planned,98.0,37.3787837,-121.9292897,California,True
+Goodman San Jose Data Center,Goodman Group,CA,Planned,97.0,37.38153792,-121.93455112,California,True
+Stack Infrastructure POR03 Expansion,STACK Infrastructure,OR,Planned,96.0,45.55259639,-122.9405907,Oregon,True
+Ashburn Data Center Campus VA2,Vantage Data Centers,VA,Planned,96.0,38.99755934,-77.43040025,Virginia,True
+Iron Mountain VA-3,Iron Mountain,VA,Planned,96.0,38.77564579,-77.54557241,Virginia,True
+NTT Ashburn VA11,NTT,VA,Planned,96.0,38.79978458,-77.61053307,Virginia,True
+Aligned Data Centers: NEO-01,Aligned,OH,Planned,96.0,41.43008392,-82.71970696,Ohio,True
+Project Rita,,GA,Planned,96.0,33.51916352,-84.57988553,Georgia,True
+Serverfarm Covington,Serverfarm,GA,Planned,90.0,33.6,-83.86,Georgia,True
+COL6,Cologix,OH,Planned,90.0,40.1907716,-83.0112662,Ohio,True
+New Albany 2,QTS,OH,Planned,78.0,40.0647205,-82.7594607,Ohio,True
+Stack Infrastructure SVY03A,STACK Infrastructure,CA,Planned,77.0,37.62674623,-122.1205073,California,True
+Project Annie data center,Soluna Holdings,TX,Planned,75.0,33.65208451,-95.60457737,Texas,True
+Metrobloks Indianapolis Data Center,Metrobloks,IN,Planned,75.0,39.80436494,-86.1022588,Indiana,True
+West Jordan Campus - Phase 2,Novva,UT,Planned,75.0,40.5757525,-112.0469697,Utah,True
+Edged Chicago ORD01-2,Edged,IL,Planned,72.0,41.80687597,-88.24086215,Illinois,True
+Aligned Hillsboro PDX-01,Aligned,OR,Planned,72.0,45.55290763,-122.9484405,Oregon,True
+Stack Infrastructure NVA06 Campus,STACK Infrastructure,VA,Planned,72.0,39.08099764,-77.56511957,Virginia,True
+Lithia Springs Campus Data Center: ATL6,DataBank,GA,Planned,72.0,33.74736724,-84.54028465,Georgia,True
+Prime Data Centers: ORD01-01,Prime Data Centers,IL,Planned,72.0,42.02329795,-87.96170756,Illinois,True
+West Jordan Campus - Phase 3,Novva,UT,Planned,72.0,40.5757525,-112.0469697,Utah,True
+CyrusOne DFW7,CyrusOne,TX,Planned,70.0,32.90163154,-97.39391359,Texas,True
+NTT Hillsboro HI2,NTT,OR,Planned,66.0,45.54803572,-122.9377228,Oregon,True
+Red Oak Data Center: DFW9,DataBank,TX,Planned,60.0,32.53459196,-96.73486648,Texas,True
+Deep Atomic INL Data Center,Deep Atomic,ID,Planned,60.0,43.51967,-112.04594,Idaho,True
+1977 Saturn Data Center,HMC Capital,CA,Planned,56.0,34.04058339,-118.1136688,California,True
+Digihost: AL Site: Phase 1 and 2,US Data Centers,AL,Planned,55.0,33.18114079,-86.62297684,Alabama,True
+Sabey Ashburn Building A,Sabey,VA,Planned,54.0,39.01551111,-77.47863867,Virginia,True
+Prime Data Centers: ORD01-02,Prime Data Centers,IL,Planned,54.0,42.02280528,-87.96262685,Illinois,True
+Gainesville Crossing Data Campus Building 3,Corscale,VA,Planned,54.0,38.79974822,-77.58081151,Virginia,True
+DC Blox - Birmingham Expansion,DC Blox,AL,Planned,54.0,33.50142708,-86.82168276,Alabama,True
+Prime Data Centers: ORD01-03,Prime Data Centers,IL,Planned,54.0,42.02281503,-87.96141864,Illinois,True
+Raeden Project Taurus,Raeden,CO,Planned,52.5,38.8941,-104.853,Colorado,True
+Amazon Gilroy Data Center,Amazon AWS,CA,Planned,50.0,37.018684,-121.56053,California,True
+PhoenixNAP PHX02,PhoenixNAP,AZ,Planned,50.0,33.41603,-112.00937,Arizona,True
+Jumping Bison Greensburg Data Center,Jumping Bison,IN,Planned,50.0,39.378719,-85.520116,Indiana,True
+Jet.AI Moapa Data Center,Jet.AI,NV,Planned,50.0,36.6965761,-114.6407087,Nevada,True
+BluSky AI Delta Data Center,BluSky AI,UT,Planned,50.0,39.50757,-112.601,Utah,True
+Hut 8 Project 4,Hut 8,IL,Planned,50.0,41.8593282,-88.2682892,Illinois,True
+Sabey Butte Data Center,Sabey,MT,Planned,50.0,45.997078,-112.666306,Montana,True
+Sunnyvale Site (Menlo Digital),Menlo Digital,CA,Planned,49.0,37.40131,-122.03209,California,True
+Lithia Springs Campus Data Center: ATL5,DataBank,GA,Planned,48.0,33.74736724,-84.54028465,Georgia,True
+Stack Infrastructure NAL01B,STACK Infrastructure,OH,Planned,48.0,40.10636643,-82.80367195,Ohio,True
+Stack Infrastructure DFW01C,STACK Infrastructure,TX,Planned,48.0,33.06580723,-96.81353889,Texas,True
+Prime Data Centers: DFW04-03.01,Prime Data Centers,TX,Planned,48.0,32.67947438,-97.49667555,Texas,True
+Prime Data Centers: DFW04-01.01,Prime Data Centers,TX,Planned,48.0,32.67947438,-97.49667555,Texas,True
+Prime Data Centers: DFW04-02.01,Prime Data Centers,TX,Planned,48.0,32.67947438,-97.49667555,Texas,True
+Herndon Data Center (Menlo Digital),Menlo Digital,VA,Planned,48.0,38.927083,-77.424346,Virginia,True
+MD-DC1 Data Center,Menlo Digital,VA,Planned,48.0,38.92710945,-77.42423087,Virginia,True
+Viridien Brenham Data Center,Viridien,TX,Planned,45.0,30.140465,-96.40983,Texas,True
+DC Blox: Camp Hall,DC Blox,SC,Planned,45.0,33.13344248,-80.26902843,South Carolina,True
+QTS Irving  DFW2-DC3,QTS,TX,Planned,43.0,32.58576176,-96.69552566,Texas,True
+SJC Campus,CloudHQ,CA,Planned,42.0,37.35936,-121.94266,California,True
+Edged ATL01-03,Edged,GA,Planned,42.0,33.80026374,-84.43806548,Georgia,True
+Buena Vista AI Factory,NewYork GreenCloud,CA,Planned,41.0,38.277733,-120.91554,California,True
+NTT Phoenix PH2,NTT,AZ,Planned,36.0,33.35546886,-111.611174,Arizona,True
+Stack Infrastructure CHI02,STACK Infrastructure,IL,Planned,36.0,42.01403673,-87.95717912,Illinois,True
+Stack Infrastructure SVY01C,STACK Infrastructure,CA,Planned,36.0,37.4017786,-121.8954328,California,True
+NTT Phoenix PH3,NTT,AZ,Planned,36.0,33.35420285,-111.6135107,Arizona,True
+Iron Mountain VA-7,Iron Mountain,VA,Planned,36.0,38.77506417,-77.53979607,Virginia,True
+Chicago III Data Center,T5 Data Centers,IL,Planned,36.0,41.9342532,-87.91599371,Illinois,True
+NTT Dallas TX4,NTT,TX,Planned,36.0,32.98140353,-96.65890166,Texas,True
+NTT Phoenix PH4,NTT,AZ,Planned,36.0,33.35421039,-111.6113455,Arizona,True
+Aligned Hillsboro PDX-02,Aligned,OR,Planned,36.0,45.55290763,-122.9484405,Oregon,True
+Karis Critical New Albany Data Center,Karis Critical,OH,Planned,36.0,40.12115,-82.7517,Ohio,True
+GI Partners Chicago Data Center,GI Partners,IL,Planned,33.0,41.8764788,-87.6321341,Illinois,True
+NTT Dallas TX2,NTT,TX,Planned,32.0,32.98126724,-96.65764728,Texas,True
+Data Center Building TX11,Vantage Data Centers,TX,Planned,32.0,29.41690648,-98.79016449,Texas,True
+Digital Realty Vernon Data Center,Digital Realty,CA,Planned,32.0,34.00369983,-118.22977373,California,True
+Blueprint Projects: Taylor City,Blueprint Projects,TX,Planned,30.0,30.56722875,-97.38824563,Texas,True
+QTS Ashburn 1 DC2,QTS,VA,Planned,28.0,38.99840892,-77.44885223,Virginia,True
+COL5,Cologix,OH,Planned,25.0,40.1907716,-83.0112662,Ohio,True
+Stack Infrastructure POR03D,STACK Infrastructure,OR,Planned,24.0,45.55286442,-122.9378985,Oregon,True
+Stack Infrastructure POR03C,STACK Infrastructure,OR,Planned,24.0,45.5542403,-122.9407565,Oregon,True
+Edged Columbus,Edged,OH,Planned,24.0,40.10508503,-82.81610294,Ohio,True
+DG06 Data Center,Deep Green,MI,Planned,24.0,42.73106783,-84.54574387,Michigan,True
+Edged Chicago ORD01-1,Edged,IL,Planned,24.0,41.80687597,-88.24086215,Illinois,True
+Radius AllPoints Data Center,Radius Data Centers,IN,Planned,24.0,39.7416,-86.3534,Indiana,True
+Stack Infrastructure SVY01D,STACK Infrastructure,CA,Planned,24.0,37.40277695,-121.8954328,California,True
+HostDime Maitland Data Center,HostDime,FL,Planned,20.0,28.6146,-81.3857,Florida,True
+Equinix SV12 San Jose,Equinix,CA,Planned,20.0,37.23319,-121.78072,California,True
+Qumulus AI Denton Data Center,Qumulus AI,TX,Planned,20.0,33.20929,-97.180824,Texas,True
+Summit Ridge Data Center,Data Center Power Company,UT,Planned,20.0,39.946636,-111.80722,Utah,True
+Athena Studios Conversion,Reynolds Capital,GA,Planned,20.0,33.970966,-83.31563,Georgia,True
+Quantum Connect Ashburn,PowerHouse,VA,Planned,20.0,39.0081,-77.4712,Virginia,True
+5C Data Centers PHX01,5C Data Centers,AZ,Planned,20.0,33.4703,-112.1205,Arizona,True
+Orangeburg Data Center: LGA 4,DataBank,NY,Planned,20.0,41.0400091,-73.99011892,New York,True
+Raeden: Gateway Research Park,ImpactData,NC,Planned,20.0,36.05760667,-79.74585899,North Carolina,True
+Colovore: RN01,Colovore,NV,Planned,20.0,39.5314949,-119.4811417,Nevada,True
+Global AI Windsor Data Center,Global AI,CO,Planned,18.0,40.458607,-104.87199,Colorado,True
+CyrusOne Chicago,CyrusOne,IL,Planned,18.0,41.97002868,-87.95435347,Illinois,True
+Prime Data Centers:  McClellan Business Park Phase 2,Prime Data Centers,CA,Planned,18.0,38.64324218,-121.4073125,California,True
+CoreSite DE3 Data Center,CoreSite,CO,Planned,18.0,39.78583646,-104.96294291,Colorado,True
+Core Scientific: AUBix (Auburn 1),Core Scientific,AL,Planned,16.0,32.60100356,-85.51348657,Alabama,True
+Data Center Building TX21,Vantage Data Centers,TX,Planned,16.0,29.47706263,-98.69619526,Texas,True
+Iron Mountain MIA-1,Iron Mountain,FL,Planned,16.0,25.88461055,-80.24726126,Florida,True
+Metrobloks Miami Data Center,Metrobloks,FL,Planned,15.0,25.78149851,-80.41980529,Florida,True
+CoreWeave Plano,Flexential,TX,Planned,13.0,33.00773676,-96.66638007,Texas,True
+DartPoints GSP01,DartPoints,SC,Planned,13.0,34.80779133,-82.34349622,South Carolina,True
+Edged Des Moines,Edged,IA,Planned,13.0,41.656082,-93.570137,Iowa,True
+Nashville I,Radius Data Centers,TN,Planned,12.0,36.22211214,-86.78348439,Tennessee,True
+RNO2 Data Center,Centra,NV,Planned,12.0,39.52571103,-119.82660543,Nevada,True
+Stack Infrastructure ATL01B Alpharetta,STACK Infrastructure,GA,Planned,12.0,34.07702966,-84.26263877,Georgia,True
+MSP1 Data Center,Centra,MN,Planned,12.0,44.82503975,-93.11319941,Minnesota,True
+DC Blox - High Point Data Center,DC Blox,NC,Planned,10.0,36.05279614,-79.95202964,North Carolina,True
+Prime Data Centers: 1231 Comstack,Prime Data Centers,CA,Planned,9.0,37.37494389,-121.9548917,California,True
+Ezell Drive Campu,Amazon AWS,TX,Planned,9.0,32.62416607,-96.86007494,Texas,True
+Prime Data Centers: SJC03,Prime Data Centers,CA,Planned,9.0,37.36696588,-121.9628539,California,True
+EdgeConneX CHI02,EdgeConneX,IL,Planned,7.0,42.00132247,-87.95257261,Illinois,True
+LAX01,Goodman Group,CA,Planned,6.0,34.00589198,-118.2192285,California,True
+LiquidCool Aroostook Data Center,LiquidCool Data Center,ME,Planned,6.0,46.93946921,-67.89270643,Maine,True
+Ashburn Campus Data Center: IAD4,DataBank,VA,Planned,5.0,39.01576241,-77.48325787,Virginia,True
+Oppidan MN Data Center,Oppidan,MN,Planned,5.0,44.82724856,-93.10831847,Minnesota,True
+5MW Temple Data Center,Oppidan,TX,Planned,5.0,31.12605427,-97.36096275,Texas,True
+Oppidan 5MW Data Center,Oppidan,TX,Planned,5.0,31.67986212,-106.2901495,Texas,True
+Provo Data Center,,UT,Planned,5.0,40.214104,-111.65521,Utah,True
+Botique Data Center,Donato Solar,IL,Planned,4.0,41.94180472,-88.72286029,Illinois,True
+American Tower Indianapolis Data Center,American Tower,IN,Planned,4.0,39.89411684,-86.20543496,Indiana,True
+Sequitor Edge Rapid City,Sequitor Edge,SD,Planned,2.0,44.03367,-103.18849,South Dakota,True
+Lower Mount Bethel Tech Center,Peron Development / J.G. Petrucci,PA,Planned,,40.8401,-75.118,Pennsylvania,False
+Guadalupe Quarry Redevelopment Project,Orchard Partners,CA,Planned,,37.68529673,-122.4219822,California,False
+LBA Realty San Jose DCs,LBA Realty,CA,Planned,,37.378492,-121.933069,California,False
+Webb Data Center,Ellis Partners,NV,Planned,,39.61774524,-119.8815632,Nevada,False
+Percheron Data Center,Rowan Green Data,OR,Planned,,45.77880411,-119.808487,Oregon,False
+Gemstone Technology Park,Diode Ventures,ID,Planned,,43.44730742,-116.3645219,Idaho,False
+Kuna Data Center,Meta,ID,Planned,,43.4593878,-116.2657698,Idaho,False
+Switch AI Factories,Switch,NV,Planned,,36.061718,-115.213715,Nevada,False
+Aligned Phoenix PHX 05,Aligned,AZ,Planned,,33.65924564,-112.1106723,Arizona,False
+Aligned Phoenix PHX 06,Aligned,AZ,Planned,,33.26972325,-111.8853879,Arizona,False
+NTT Phoenix PH5,NTT,AZ,Planned,,33.35268814,-111.613619,Arizona,False
+NTT Pacific Proving Technology Park (DH1-DH7),NTT,AZ,Planned,,33.29429142,-111.6133827,Arizona,False
+NTT Phoenix PH6,NTT,AZ,Planned,,33.35281625,-111.6113725,Arizona,False
+NTT Phoenix PH7,NTT,AZ,Planned,,33.35112883,-111.6112391,Arizona,False
+Project Blue Data Center,Beale Infrastructure,AZ,Planned,,32.05187126,-110.7876181,Arizona,False
+University of Texas,University of Texas,TX,Planned,,31.7726244,-106.5040712,Texas,False
+Cheyenne Data Center,Meta,WY,Planned,,41.091349,-104.819811,Wyoming,False
+Aurum Bismarck Campus,Aurum Capital Ventures,ND,Planned,,46.8097088,-100.7272374,North Dakota,False
+SAT 81 Data Center,Microsoft,TX,Planned,,29.43095535,-98.88349967,Texas,False
+SAT40 Data Center,Microsoft,TX,Planned,,29.41413971,-98.80330798,Texas,False
+Wiseman Boulevard campus (SAT14 cluster),Microsoft,TX,Planned,,29.475748,-98.681972,Texas,False
+Castroville Hwy 90 campus (SAT89 & SAT90),Microsoft,TX,Planned,,29.35125981,-98.94010706,Texas,False
+EX West Green Data Center,Corporate Office Properties Trust,TX,Planned,,29.44443161,-98.64452673,Texas,False
+American Tower Data Center - Highway 90,American Tower,TX,Planned,,29.40609255,-98.59818795,Texas,False
+Sabey Austin Data Center,Sabey,TX,Planned,,29.79948753,-97.97405952,Texas,False
+Project Raptor,Colovore,TX,Planned,,30.54240143,-97.57017793,Texas,False
+ACS Fort Worth,ACS DC Hicks Field Road,TX,Planned,,32.90726895,-97.39639967,Texas,False
+Black Mountain: Forest Hill,Black Mountain,TX,Planned,,32.64421947,-97.26837947,Texas,False
+Aligned Dallas DFW03,Aligned,TX,Planned,,32.55009235,-97.07519259,Texas,False
+Sharka Data Center - Building 4,Google,TX,Planned,,32.44422244,-97.05548583,Texas,False
+Google Stillwater,Google,OK,Planned,,36.16901008,-97.04698669,Oklahoma,False
+QTS Irving  DFW2-DC5,QTS,TX,Planned,,32.89711831,-96.98298574,Texas,False
+QTS Irving  DFW2-DC4,QTS,TX,Planned,,32.89711831,-96.98298574,Texas,False
+Red Oak Campus,Google,TX,Planned,,32.537209,-96.796473,Texas,False
+Danik Data Center,Mahesh Patel,TX,Planned,,32.71310283,-96.75396171,Texas,False
+Red Oak Data Center: DFW10,DataBank,TX,Planned,,32.53459196,-96.73486648,Texas,False
+NTT Dallas TX3,NTT,TX,Planned,,32.9822115,-96.65786998,Texas,False
+Prime Data Centers: DFW02-01,Prime Data Centers,TX,Planned,,32.95835469,-96.65679497,Texas,False
+Prime Data Centers: DFW02-02,Prime Data Centers,TX,Planned,,32.95835469,-96.65679497,Texas,False
+Prime Data Centers: DFW02-03,Prime Data Centers,TX,Planned,,32.95835469,-96.65679497,Texas,False
+Lincoln Hyperscale Campus - Phase 2,Google,NE,Planned,,40.903746,-96.653449,Nebraska,False
+Lincoln Hyperscale Campus - Phase 1,Google,NE,Planned,,40.903746,-96.653449,Nebraska,False
+Aligned Dallas DFW04,Aligned,TX,Planned,,33.00468192,-96.64875285,Texas,False
+Digital Commerce Park One,Cawley Partners,TX,Planned,,32.5503584,-96.64420735,Texas,False
+Omaha Campus - Phase 2,Google,NE,Planned,,41.337653,-96.086446,Nebraska,False
+Project Clydesdale,Quartz Mountain Properties,OK,Planned,,36.26785101,-95.90890104,Oklahoma,False
+Project Lola,Edged,IA,Planned,,41.27545584,-95.79223557,Iowa,False
+Project Anthem,,OK,Planned,,36.15688052,-95.73437435,Oklahoma,False
+Willis Data Center,Comcast,TX,Planned,,30.43075759,-95.48174903,Texas,False
+Jarvis Media Group: Montgomery Data Center,Jarvis Media Group,TX,Planned,,30.34566939,-95.47777224,Texas,False
+QTS: New Century Commerce Center,Van Trust Real Estate,KS,Planned,,38.83716398,-94.87460407,Kansas,False
+Oppidan MN Technology Park,Oppidan,MN,Planned,,44.72701112,-93.18761054,Minnesota,False
+Conway CIty Data Center,ForgeLight Ventures,AR,Planned,,35.01755563,-92.5556264,Arkansas,False
+Clayco St Charles Data Center,Clayco,MO,Planned,,38.8172369,-90.55037637,Missouri,False
+Project Groot,,AR,Planned,,35.11372018,-90.20595313,Arkansas,False
+Degas Beaver Dam Data Center,Degas,WI,Planned,,43.50830769,-88.8239114,Wisconsin,False
+Oppidan: Carol Stream,Oppidan,IL,Planned,,41.91051497,-88.11508782,Illinois,False
+Kenosha Campus,Microsoft,WI,Planned,,42.62208241,-87.96445412,Wisconsin,False
+Stream Data Center: Chicago III-V Data Center,Stream Data Centers,IL,Planned,,42.01136617,-87.95269206,Illinois,False
+Scott Greenberg Chicago Data Center,Scott Greenberg,IL,Planned,,41.84688296,-87.62579176,Illinois,False
+Merrillville Commerce Center,Wylie Capital,IN,Planned,,41.44582297,-87.32872277,Indiana,False
+Karis Critical: Merrillville,Karis Critical,IN,Planned,,41.436726,-87.307318,Indiana,False
+Merrillville Technology Park,Province Group,IN,Planned,,41.45982237,-87.29852996,Indiana,False
+Provident Realty: Burns Harbor,Provident Realty,IN,Planned,,41.61278692,-87.10521918,Indiana,False
+Logistic Land Alabama Data Center,Logistic Land Investments,AL,Planned,,33.34032057,-87.0374269,Alabama,False
+Nebius Birmingham Data Center,Nebius,AL,Planned,,33.4326715,-86.8889779,Alabama,False
+Montgomery Data Center,Meta,AL,Planned,,32.379581,-86.307571,Alabama,False
+Project Flo,Google,IN,Planned,,39.71610527,-86.00263855,Indiana,False
+Pyramid Data Center Campus: Phase 2,Switch,MI,Planned,,42.85229991,-85.5602422,Michigan,False
+Project Lincoln,Western Hospitality Partners,KY,Planned,,38.39441718,-85.40911307,Kentucky,False
+Project Gracie,Atlas Development,GA,Planned,,34.26683,-85.29861,Georgia,False
+Floyd County TBD,,GA,Planned,,34.26629474,-85.29371204,Georgia,False
+Project West,Project West WHP - GA,GA,Planned,,32.98262,-85.014525,Georgia,False
+Project Springbank,Atlas Development,GA,Planned,,34.30926,-84.96325,Georgia,False
+Avemore,Atlas Development,GA,Planned,,33.70813832,-84.94476829,Georgia,False
+Project Bunkhouse,Taurus DC SPE,GA,Planned,,34.0987696,-84.91229407,Georgia,False
+Douglas Waldrop,TC Atlanta Development,GA,Planned,,33.72654762,-84.8236731,Georgia,False
+Switch KEEP 2.0 Atlanta North Campus,Switch,GA,Planned,,34.1136133,-84.80344339,Georgia,False
+Central Coweta Industrial Phase II,Central Coweta Industrial,GA,Planned,,33.43341224,-84.73607573,Georgia,False
+Project Peach,North Coweta Investors,GA,Planned,,33.50288726,-84.66943483,Georgia,False
+Palmetto Data Center,Microsoft,GA,Planned,,33.524896,-84.627964,Georgia,False
+Vantage Data Center - Doughlasville,Vantage Data Centers,GA,Planned,,33.71326375,-84.62353048,Georgia,False
+Douglasville Data Center,Microsoft,GA,Planned,,33.73204,-84.620644,Georgia,False
+Rock House Road Data Center Site,Taylor Mathis / c/o Mike Irby,GA,Planned,,33.7491656,-84.60954251,Georgia,False
+Fairburn Technology Center,Bohannon Road Venture,GA,Planned,,33.53291288,-84.58971274,Georgia,False
+Vantage Data Center - Westlake,Vantage Data Centers,GA,Planned,,33.70837741,-84.58438944,Georgia,False
+ATL11,Burr Computer Environments,GA,Planned,,33.62695081,-84.55917944,Georgia,False
+Stonewall Tell Data Center,RSC Investment Management,GA,Planned,,33.615125,-84.552224,Georgia,False
+Vantage Data Center - Stacks Rd,Vantage Data Centers,GA,Planned,,33.60526662,-84.53091036,Georgia,False
+Project Excalibur,National Acquisition Company,GA,Planned,,33.446781,-84.5222,Georgia,False
+East Point Data Center,Microsoft,GA,Planned,,33.642516,-84.515574,Georgia,False
+ATL03/Red Oak,TA Realty,GA,Planned,,33.56355688,-84.51297939,Georgia,False
+PCC-DeKalb,PCC-DeKalb,GA,Planned,,33.6499984,-84.3005929,Georgia,False
+Southeast Property Hampton GA,Southeast Property Holdings,GA,Planned,,33.38065067,-84.27319028,Georgia,False
+0 Rocky Creek,Red Wolf DCD Properties,GA,Planned,,33.40050767,-84.22765337,Georgia,False
+Strickland Tract,Red Wolf DCD Properties,GA,Planned,,33.38134302,-84.2139056,Georgia,False
+Spalding County Data Center Campus,Spalding Investments,GA,Planned,,33.239955,-84.19663,Georgia,False
+Rockdale Technology Park 1,SDP Acquisitions,GA,Planned,,33.68758036,-84.05249305,Georgia,False
+Project Rockforge,MMM Acquisitions,GA,Planned,,33.69488571,-84.02688046,Georgia,False
+Howell Township Hyperscale Data Center,Randee,MI,Planned,,42.6480582,-84.0219958,Michigan,False
+Rumble Technology Park,Rum Creek DevCo,GA,Planned,,32.98813274,-83.83148782,Georgia,False
+Gregory Road Data Center,Universal Planning,GA,Planned,,33.65261727,-83.81668935,Georgia,False
+0 Social Circle Parkway,Sailfish Investors,GA,Planned,,33.60009169,-83.75134322,Georgia,False
+Social Circle Technology Park,SC Infrastructure,GA,Planned,,33.61628,-83.740124,Georgia,False
+Newton County Technological Park: 9 buildings,TPA Group,GA,Planned,,33.61628,-83.740124,Georgia,False
+Project Splice,Red Wolf DCD Properties,GA,Planned,,31.97154,-83.731085,Georgia,False
+Bowling Green Data Center,Meta,OH,Planned,,41.466331,-83.635195,Ohio,False
+University of Michigan Textile Road Data Center,University of Michigan,MI,Planned,,42.204062,-83.555261,Michigan,False
+Columbus Data Center - Phase 2,Google,OH,Planned,,39.851617,-83.0011236,Ohio,False
+Scott County Regional Business & Technology Park,SCOTT COUNTY INDUSTRIAL DEV.,VA,Planned,,36.71585269,-82.80458855,Virginia,False
+New Albany Data Center - Phase 5,Meta,OH,Planned,,40.067538,-82.75073354,Ohio,False
+White Oak Technology Park GA,Trammell Crow Company,GA,Planned,,33.51124863,-82.31845033,Georgia,False
+Project Eisenhower,Eagle South,GA,Planned,,33.43893357,-82.16175277,Georgia,False
+Aligned Data Centers: CMH-02 Conesville Industrial Park,Aligned,OH,Planned,,40.19019485,-81.86979848,Ohio,False
+Aiken Data Center,Meta,SC,Planned,,33.6286,-81.837769,South Carolina,False
+Fort Meade Florida Campus,Bohler Places,FL,Planned,,27.78664198,-81.82525511,Florida,False
+Dorchester County Google Center,Google,SC,Planned,,32.957292,-80.309435,South Carolina,False
+Greenfield,Google,VA,Planned,,37.441695,-79.912694,Virginia,False
+AWS Sunbury,Amazon AWS,OH,Planned,,40.21850348,-82.84701945,Ohio,False
+DBT DATA Cyber Integration Center,AC 139 TYCO STREET,VA,Planned,,38.46248816,-78.85679395,Virginia,False
+Lakeside Commerce Park,Microsoft,VA,Planned,,36.631443,-78.516707,Virginia,False
+Skipwith Road Campus: LYH03,Microsoft,VA,Planned,,36.631443,-78.516707,Virginia,False
+Ridge Road Campus,Microsoft,VA,Planned,,36.692368,-78.36617,Virginia,False
+Project Tallmadge (Takanock),Takanock,VA,Planned,,39.0117587,-78.35971498,Virginia,False
+Heartland Innovative Technology (HIT) Park,Prince Edward County Industrial Development Authority,VA,Planned,,37.28851551,-78.35012347,Virginia,False
+Copper Ridge,Copper Ridge Culpeper,VA,Planned,,38.46529475,-77.98738914,Virginia,False
+CloudHQ,CloudHQ,VA,Planned,,38.46163914,-77.97761531,Virginia,False
+Keyser Farm,"Red Ace, Keyser Family",VA,Planned,,38.46971066,-77.97375268,Virginia,False
+Cielo Digital Infrastructure,Cielo Digital Infrastructure,VA,Planned,,38.46678642,-77.96353121,Virginia,False
+AttoTek,"AttoTek, David Martin",VA,Planned,,38.49927261,-77.89710587,Virginia,False
+Marvell Development Data Center,Amazon AWS,VA,Planned,,38.440405,-77.882541,Virginia,False
+Lake Anna Tech Campus,Amazon AWS,VA,Planned,,38.04825038,-77.80991453,Virginia,False
+Convergent Technology Park,Convergent VA,VA,Planned,,38.54698462,-77.8062594,Virginia,False
+Remington Technology Park,REMINGTON TECHNOLOGY PARK LTD PTNRSHP,VA,Planned,,38.54050798,-77.7890749,Virginia,False
+SAMX Data Center,SAMX Data,VA,Planned,,38.54318157,-77.78340316,Virginia,False
+Gigaland Remington,Gigaland Data Centers,VA,Planned,,38.53448373,-77.78286972,Virginia,False
+Upper Magnolia,,VA,Planned,,37.44797635,-77.78071524,Virginia,False
+Maple Tree Farm,null,VA,Planned,,38.69158561,-77.77972928,Virginia,False
+Upper Magnolia Green West Tract A and Tract B,CARNES W S INC,VA,Planned,,37.4442264,-77.77384408,Virginia,False
+Upper Magnolia Green East,ECONOMIC DEV AUTH CO OF CHFLD,VA,Planned,,37.4203694,-77.7599704,Virginia,False
+Watkins Centre South,WATKINS LAND,VA,Planned,,37.49910889,-77.69165025,Virginia,False
+Watkins Centre,,VA,Planned,,37.49955759,-77.68816659,Virginia,False
+Vint Hill Corners,Vint Hill Corners,VA,Planned,,38.7445849,-77.68533976,Virginia,False
+OVHcloud Data Center Expansion,OVHcloud,VA,Planned,,38.74743718,-77.67448229,Virginia,False
+Warrenton Amazon Data Center,Amazon AWS,VA,Planned,,38.72947429,-77.7875309,Virginia,False
+Vint Hill Technology Campus,Blue Rock I,VA,Planned,,38.75228175,-77.67349626,Virginia,False
+Catlett Data Center Park,Catlett Station II,VA,Planned,,38.66177679,-77.63221689,Virginia,False
+Gardner Property,Delaware Land,VA,Planned,,38.7958,-77.62218909,Virginia,False
+Village Place at Gainesville Technology Park,CTP-I,VA,Planned,,38.80183508,-77.62059944,Virginia,False
+John Marshall CommonsTech Park,CTP-1,VA,Planned,,38.8039456,-77.61686705,Virginia,False
+NTT I-66 and Route 29 Technology Park,NTT,VA,Planned,,38.80079975,-77.61255773,Virginia,False
+Hunter Property,LHR GAINESVILLE,VA,Planned,,38.77340556,-77.59043269,Virginia,False
+Gainsville Campus,Amazon AWS,VA,Planned,,38.7903556,-77.5813892,Virginia,False
+PROJECT INDUSTRY,INDUSTRIAL PARK COURT,VA,Planned,,38.78174323,-77.57918895,Virginia,False
+Clubhouse Drive,Chuck Khun,VA,Planned,,39.10317877,-77.57876301,Virginia,False
+Delvin Technology Park,STANLEY MARTIN HOMES,VA,Planned,,38.767223,-77.57575399,Virginia,False
+Bristow Campus,Microsoft,VA,Planned,,38.77146994,-77.57530727,Virginia,False
+Sharpless Enterprises LLC,Sharpless Enterprises,VA,Planned,,38.78688616,-77.57505172,Virginia,False
+Orme Farm Rezoning,Van Metre Communities LLC/Roy Barnett,VA,Planned,,39.05827357,-77.56440787,Virginia,False
+Project Well,WELLINGTON ROAD PROPERTY,VA,Planned,,38.78055229,-77.56263538,Virginia,False
+Oaklawn,Keane Enterprises,VA,Planned,,39.09197224,-77.56056644,Virginia,False
+IAD11 and IAD12,Microsoft,VA,Planned,,38.947911,-77.5602869,Virginia,False
+South Point Phase II LLC,South Point Phase II,VA,Planned,,38.77664796,-77.55670511,Virginia,False
+Cross Mill Center,"Kuhn, Charles C/JK Holdings II",VA,Planned,,39.06294964,-77.5504794,Virginia,False
+42139 REEDS FARM LN,Amazon AWS,VA,Planned,,38.94492708,-77.54986629,Virginia,False
+TA Realty 20491 Goose Landing Lane,"Mitsubishi Estate, NOVA 1 OWNER",VA,Planned,,39.05410133,-77.54460469,Virginia,False
+Valco Data Center Park,Valco Carolie County,VA,Planned,,37.92410305,-77.54387212,Virginia,False
+Hiddenwood Assemblage,"WALSH, COLUCCI, LUBELEY & WALS, Michael Romeo",VA,Planned,,38.95011113,-77.5437785,Virginia,False
+Stack Infrastructure Bristow Campus,STACK Infrastructure,VA,Planned,,38.74541784,-77.53763258,Virginia,False
+Leesburg Gateway,Google,VA,Planned,,39.10315177,-77.5363821,Virginia,False
+University Blvd. Campus,Microsoft,VA,Planned,,38.79567725,-77.53462257,Virginia,False
+Tech Park at Brambleton,BlackChamber Group,VA,Planned,,38.95656684,-77.53436487,Virginia,False
+9001 Hornbaker Rd,MJV ASSOCIATES,VA,Planned,,38.76255322,-77.53384828,Virginia,False
+Tuscarora Crossing Landbay 3,BlackChamber Group,VA,Planned,,39.07723175,-77.53374334,Virginia,False
+Luck Stone West Pit,"CHARLIE WINDLE, Luck Stone Corporation",VA,Planned,,39.06052731,-77.53268107,Virginia,False
+Dulles Trade Center West,10 Trade West Drive LLC/Charles S Kuhn Manager,VA,Planned,,38.95402228,-77.52864089,Virginia,False
+Alligned Data Centers (Balls Ford),PROPCO,VA,Planned,,38.79927512,-77.528024,Virginia,False
+Innovation On The Parkway PRA,University Blvd,VA,Planned,,38.753712,-77.52560492,Virginia,False
+Villages at Leesburg,SPRINGFIELD EAST LC,VA,Planned,,39.08773407,-77.51950044,Virginia,False
+Stoneview,8625 WELLINGTON ROAD,VA,Planned,,38.76551013,-77.51943341,Virginia,False
+Stack Infrastructure Fredericksburg Planned,STACK Infrastructure,VA,Planned,,38.32019251,-77.51927427,Virginia,False
+DC-4,QTS,VA,Planned,,38.75262704,-77.51650109,Virginia,False
+Mid-Atlantic Advanced Manufacturing Center,Arup Americas,VA,Planned,,36.73673682,-77.51469701,Virginia,False
+Wellington Road PRA,TPC WELLINGTON EAST LC,VA,Planned,,38.76347674,-77.51353804,Virginia,False
+INNOVATION EXECUTIVE CENTER DC-3,QTS,VA,Planned,,38.75278121,-77.51228382,Virginia,False
+Ashwood Addition,"CASHVAD VENTURES LLC, PCL 1A (CloudHQ)",VA,Planned,,38.73169511,-77.51025821,Virginia,False
+Belmont Innovation Campus,LOUDOUN GC,VA,Planned,,39.07282775,-77.50972327,Virginia,False
+Digital Second Manassas,DIGITAL CARVER BRICKYARD,VA,Planned,,38.73787155,-77.5082881,Virginia,False
+Manassas Corporate Center MCC-7 PRA,UNICORN INTERESTS,VA,Planned,,38.72241349,-77.50135306,Virginia,False
+19508 Freedom Trail Road,JK Land Holdings,VA,Planned,,39.07646408,-77.49912608,Virginia,False
+Airport Gateway Commerce Center,"UNICORN INTERESTS LLC, PCL F1",VA,Planned,,38.71584462,-77.49835774,Virginia,False
+"UNICORN INTERESTS LLC, PCL C1",UNICORN INTERESTS,VA,Planned,,38.71928606,-77.49618926,Virginia,False
+Northwoods Property,Amazon AWS,VA,Planned,,38.9802823,-77.49444868,Virginia,False
+MCC5,"UNICORN INTERESTS LLC, CLOUD HQ",VA,Planned,,38.71975632,-77.49308577,Virginia,False
+Blaisdell Property Data Center,TC Blaisdell of Delaware,VA,Planned,,38.331717,-77.487329,Virginia,False
+Carmel Church Data Hub,W & F PARTNERS,VA,Planned,,37.93932712,-77.47797277,Virginia,False
+Hunter's Ridge,Hunters Ridge,VA,Planned,,38.21946773,-77.47517912,Virginia,False
+Bauxite Data Center 3,Rowan Digital Infrastructure,MD,Planned,,39.33038503,-77.47482666,Maryland,False
+Enon Road Technologies,ENON RD,VA,Planned,,38.36788996,-77.473578,Virginia,False
+Firefox Dulles,Brian Clifford/DLA PIPER LLP (US),VA,Planned,,38.92061348,-77.47288602,Virginia,False
+Zebra East,"WALSH, COLUCCI, LUBELEY & WALS / MINCHEW RANDALL J.",VA,Planned,,39.00504915,-77.47150671,Virginia,False
+Bauxite Data Center 2,Rowan Digital Infrastructure,MD,Planned,,39.32347639,-77.46752863,Maryland,False
+"PARKSTONE TECH PARK, LLC",PARKSTONE TECH PARK,VA,Planned,,38.87255032,-77.46563256,Virginia,False
+PDCREF 2 Chantilly,PDCREF 2 CHANTILLY,VA,Planned,,38.90305684,-77.46525084,Virginia,False
+Carter's Store Tech Campus,Amazon AWS,VA,Planned,,38.18951163,-77.45480833,Virginia,False
+AVION DATA CENTER,Amazon AWS,VA,Planned,,38.90454295,-77.45267338,Virginia,False
+21455 Beaumeade Circle,Equinix,VA,Planned,,39.01153585,-77.45264742,Virginia,False
+Cranes Corner Data Center,GAM 403 MOUNTAIN,VA,Planned,,38.37129473,-77.45143569,Virginia,False
+Ironhorse East Ashland,Harris and Douglass Properties,VA,Planned,,37.75901725,-77.4507963,Virginia,False
+null,Tradeport Ashland Land,VA,Planned,,37.75562874,-77.44993278,Virginia,False
+Prologis NOVA 1,Prologis,VA,Planned,,38.98944194,-77.44954289,Virginia,False
+113 EXECUTIVE DR Prologis,Prologis,VA,Planned,,38.99066772,-77.44434517,Virginia,False
+Dulles 28 Technology Park,BlackChamber Group,VA,Planned,,39.00840125,-77.44290564,Virginia,False
+Parsons Business Park (Dumfries Rd.),Amazon AWS,VA,Planned,,38.64540665,-77.44198652,Virginia,False
+PARSONS BUSINESS PARK LLC,PARSONS BUSINESS PARK,VA,Planned,,38.64559741,-77.4415954,Virginia,False
+Seefried Expansion,ASHTON YASSUDA,VA,Planned,,38.99117321,-77.44136792,Virginia,False
+Summit Crossing Tech Campus,Amazon AWS,VA,Planned,,38.18847143,-77.44053219,Virginia,False
+PROLOGIS PARK GATEWAY II,Prologis,VA,Planned,,38.98794962,-77.43817449,Virginia,False
+Austin Ridge Logisitics Center,NP AUSTIN RIDGE,VA,Planned,,38.41450237,-77.43574,Virginia,False
+DULLES NORTH CORPORATE PARK 8,John Collich/BF SAUL REAL ESTATE INVESTMENT,VA,Planned,,38.99534216,-77.43255921,Virginia,False
+Accokeek Center,"A.I., INC",VA,Planned,,38.40371226,-77.4269994,Virginia,False
+Dulles 2000 Redevelopment,BCG JV Sterling LLC; Phil Tager,VA,Planned,,38.97512596,-77.42687087,Virginia,False
+Renaissance Technology Park,Amazon AWS,VA,Planned,,38.93528768,-77.4253492,Virginia,False
+Azalea,BWS Enterprises,VA,Planned,,37.604716,-77.42341327,Virginia,False
+Potomac Technology Park,Plaza Realty Management,VA,Planned,,38.630246,-77.42246893,Virginia,False
+MECP 1 ASHBURN 2 LLC,EdgeCore,VA,Planned,,39.02199013,-77.41511893,Virginia,False
+Mid-County Industrial Park,MINNIEVILLE CAPITAL ACQUISITION,VA,Planned,,38.63155983,-77.41152943,Virginia,False
+Loudoun Commerce Center,Amazon AWS,VA,Planned,,39.02239824,-77.41006855,Virginia,False
+Manekin Plaza,Amazon AWS,VA,Planned,,39.02377354,-77.40789059,Virginia,False
+Old Potomac Church Data Center,Amazon AWS,VA,Planned,,38.41132231,-77.40424702,Virginia,False
+Project Tropical,Meta,VA,Planned,,37.47379852,-77.23477836,Virginia,False
+AWS Loisdale Station,Amazon AWS,VA,Planned,,38.74226677,-77.18642689,Virginia,False
+Roxbury Technology Park,Diode Ventures,VA,Planned,,37.46007665,-77.16267273,Virginia,False
+Green Energy Center,Green Energy Partners,VA,Planned,,37.15202452,-76.68507338,Virginia,False
+Machine Investment Group: Greenfield Rd,Machine Investment Group,PA,Planned,,40.05941098,-76.32990596,Pennsylvania,False
+Globalinx VA,Globalinx Data Centers,VA,Planned,,36.82473638,-76.29968469,Virginia,False
+Project Hazelnut,NorthPoint Development,PA,Planned,,40.96565449,-76.05030258,Pennsylvania,False
+Wildcat Ridge AI Data Center,Archbald Ventures,PA,Planned,,41.50201264,-75.5845947,Pennsylvania,False
+Princeton Nurseries,WRV Nurseries South Brunswick,NJ,Planned,,40.36341334,-74.60543017,New Jersey,False
+Prism ON3,Prism Capital Partners,NJ,Planned,,40.82950898,-74.15325921,New Jersey,False
+Atlas Capital Group: CT,Atlas Capital Group,CT,Planned,,41.8846621,-72.74386551,Connecticut,False
+Mesa Campus - Redhawk 2,Google,AZ,Planned,,33.3544444,-111.6806359,Arizona,False
+Amazon Project Cosmos.,Amazon AWS,OH,Planned,,40.2201694,-83.32601402,Ohio,False
+ALEXANDRIA TECHNOLOGY CENTER,QTS,VA,Planned,,38.75654623,-77.51377034,Virginia,False
+AIRPORT GATEWAY COMMERCE CENTER,"UNICORN HOTEL LLC, C/O DUPONT FABROS DEVELOPMENT, PCL D",VA,Planned,,38.72144071,-77.49642758,Virginia,False
+Digital Filigree,Digital Realty,VA,Planned,,39.01367629,-77.45641678,Virginia,False
+22165 BEAUMEADE CIR,Equinix,VA,Planned,,39.01382868,-77.45398778,Virginia,False
+Dulles 28 Motorplex,BlackChamber Group,VA,Planned,,39.01573733,-77.44269106,Virginia,False
+22660 Executive Dr Prologis,Prologis,VA,Planned,,38.98975252,-77.44206104,Virginia,False
+Paragon Park Lot 3B,BlackChamber Group,VA,Planned,,39.01517048,-77.43475172,Virginia,False
+Atlantic Crossing,ATLANTIC CROSSING,VA,Planned,,37.50428628,-77.26042683,Virginia,False
+Amazon Falls Data Center,Amazon AWS,PA,Planned,,40.16008862,-74.74857296,Pennsylvania,False
+Viridian Briarwood Data Center,Viridian Partners,PA,Planned,,39.93641342,-76.83321917,Pennsylvania,False
+KCI-29 Data Center,PORT KC,MO,Planned,,39.33898843,-94.71160733,Missouri,False
+Frattalone Monticello Data Center,Frattalone,MN,Planned,,45.26936566,-93.81093368,Minnesota,False
+Project Blue Marlin,Amazon AWS,NC,Planned,,34.83545756,-79.73396408,North Carolina,False
+Archbald Lackawanna Data Center,Archbald I,PA,Planned,,41.51488474,-75.56456431,Pennsylvania,False
+Project Cherry Blossom,Cloverleaf Infrastructure,MI,Planned,,41.92753356,-83.35441263,Michigan,False
+Amazon Bristow Data Center,Amazon AWS,VA,Planned,,38.76813355,-77.57470225,Virginia,False
+Project Peanut,Google,VA,Planned,,37.34420372,-77.3037902,Virginia,False
+Cetronia Road Data Center,Air Products,PA,Planned,,40.55165,-75.5986758,Pennsylvania,False
+CRG Festus Data Center,CRG,MO,Planned,,38.19142221,-90.41518605,Missouri,False
+Google Muskogee County Campus,Google,OK,Planned,,35.6109,-95.5369,Oklahoma,False
+Hermantown Data Center,Harmony Group,MN,Planned,,46.7721436,-94.2931243,Minnesota,False
+Compass Stateville Data Center,Compass Datacenters,NC,Planned,,35.77791023,-80.97208141,North Carolina,False
+Hobart Devco Data Center,Hobart Devco,IN,Planned,,41.513276,-87.288821,Indiana,False
+Prologis Butler Data Center,Prologis,OH,Planned,,39.46042057,-84.46564569,Ohio,False
+Microsoft Gaines Township Data Center,Microsoft,MI,Planned,,42.8262104,-85.5456318,Michigan,False
+Project Skyway - Phase 1,Google,MN,Planned,,44.227,-92.65,Minnesota,False
+Anthropic New York Data Center,Anthropic / Fluidstack,NY,Planned,,43.3587,-78.6041,New York,False
+AWS Douglas County Data Center,Amazon AWS,GA,Planned,,33.744,-84.773,Georgia,False
+Tract Cannon Falls Data Center,Tract,MN,Planned,,44.5362,-92.926,Minnesota,False
+Sand Springs Data Center,,OK,Planned,,36.2673,-96.1002,Oklahoma,False
+Quantum Campus,Google,TX,Planned,,33.1377,-99.57,Texas,False
+Project Baccara,Takanock,AZ,Planned,,33.572,-112.37,Arizona,False
+Stargate - Lordstown Campus,Oracle,OH,Planned,,41.15,-80.88,Ohio,False
+Haskell County Campus,Google,TX,Planned,,33.0129,-99.5604,Texas,False
+Google Little Rock Data Center,Google,AR,Planned,,34.67703,-92.17963,Arkansas,False
+Fairwater Expansion - Durand Ave,Microsoft,WI,Planned,,42.6984,-87.9304,Wisconsin,False
+Fairwater Expansion - International Dr,Microsoft,WI,Planned,,42.7035,-87.9302,Wisconsin,False
+Cassville Data Center,,WI,Planned,,42.7144,-90.9907,Wisconsin,False
+LBT Sugarloaf Data Center,LBT Investment Group,PA,Planned,,40.9685,-76.0939,Pennsylvania,False
+Microsoft New Albany Data Center,Microsoft,OH,Planned,,40.08,-82.78,Ohio,False
+Person County Mega Park Data Center,Microsoft,NC,Planned,,36.47448,-78.9939,North Carolina,False
+Wolcott Data Center,,IN,Planned,,40.76536681,-87.06916121,Indiana,False
+Kingsbury Data Center,,IN,Planned,,41.496838,-86.633174,Indiana,False
+Wylie Capital Hobart Data Center,Wylie Capital,IN,Planned,,41.50177775,-87.28811692,Indiana,False
+Phoenix Investments Michigan City Data Center,Phoenix Investments,IN,Planned,,41.71352985,-86.84278867,Indiana,False
+New Carlisle Data Center,,IN,Planned,,41.7201804,-86.4916321,Indiana,False
+Dale Data Center,,IN,Planned,,38.185116,-86.972179,Indiana,False
+York 2 Energy Center Data Center,Energy Capital Partners,PA,Planned,,39.75768,-76.2754,Pennsylvania,False
+Project Laurel Data Center,MCD 7,PA,Planned,,40.234047,-75.5769,Pennsylvania,False
+Project Flex Data Center,Verrus,MI,Planned,,42.50185,-83.61119,Michigan,False
+Klondike Wyalusing Data Center,New Fortress Energy,PA,Planned,,41.653572,-76.23531,Pennsylvania,False
+Petawatt Massena Data Center,Petawatt Holdings,NY,Planned,,44.954838,-74.84906,New York,False
+Wildwood Ranch Data Center,Wildwood Ranch,MO,Planned,,37.06882,-94.60008,Missouri,False
+IBM Poughkeepsie Quantum Data Center,IBM,NY,Planned,,41.660404,-73.93994,New York,False
+Brookhaven Logistics Center,,NY,Planned,,40.82991,-72.94618,New York,False
+Willowbend Little Rock Data Center,Willowbend Capital,AR,Planned,,34.71681,-92.1737,Arkansas,False
+Serverfarm Clarksville Data Center,Serverfarm,AR,Planned,,35.454384,-93.44725,Arkansas,False
+Project Tango Loxahatchee,,FL,Planned,,26.694838,-80.37178,Florida,False
+Columbia County Technology Park,Trammell Crow Company,GA,Planned,,33.49546,-82.337,Georgia,False
+QTS Blakely Data Center,QTS,GA,Planned,,31.382662,-84.91342,Georgia,False
+AWS Covington Data Center,Amazon AWS,GA,Planned,,33.63342,-83.833015,Georgia,False
+TXLAAR Bossier Parish Data Center,TXLAAR,LA,Planned,,32.725018,-93.72789,Louisiana,False
+State Line Project Data Center,TXLAAR,LA,Planned,,32.656498,-93.904144,Louisiana,False
+Beale Project Pilot Data Center,Beale Infrastructure,KS,Planned,,38.94633,-95.02935,Kansas,False
+CyrusOne Yorkville Campus Phase 2,CyrusOne,IL,Planned,,41.68361,-88.4681,Illinois,False
+Western Hospitality Peoria Data Center,Western Hospitality Partners,IL,Planned,,40.59457,-89.590225,Illinois,False
+Microsoft Rome Data Center,Microsoft,GA,Planned,,34.300987,-85.30927,Georgia,False
+Karis Critical DeKalb Campus,Karis Critical,IL,Planned,,41.894,-88.7222,Illinois,False
+Gail Technology Effingham Data Center,Gail Technology,IL,Planned,,39.16273,-88.51865,Illinois,False
+Nexstar Elk Grove Data Center,Nexstar Media Group,IL,Planned,,42.01142,-88.0317,Illinois,False
+Amazon Lamar County Data Center,Amazon AWS,GA,Planned,,33.05563,-84.1222,Georgia,False
+Trammell Crow Forsyth Campus,Trammell Crow Company,GA,Planned,,33.104168,-84.009544,Georgia,False
+Wallace Jackson Data Center Campus,Wallace Jackson,GA,Planned,,33.273514,-84.12198,Georgia,False
+US Internet Minneapolis Data Center,US Internet,MN,Planned,,45.02485,-93.3328,Minnesota,False
+Project Kestrel Data Center,Shenandoah Computing,MO,Planned,,39.35368,-94.6967,Missouri,False
+Project Green Data Center,Amazon AWS,MO,Planned,,38.905663,-91.41777,Missouri,False
+Project Spade Data Center,Google,MO,Planned,,38.8889,-91.440025,Missouri,False
+Alterra Marshall Technology Center,Alterra Development,MI,Planned,,42.239025,-84.955826,Michigan,False
+Wiscasset Data Center,,ME,Planned,,43.95572,-69.69428,Maine,False
+Prologis 32 Mile Technical Campus,Prologis,MI,Planned,,42.80183,-82.99235,Michigan,False
+Comcast Clinton Data Center,Comcast,NJ,Planned,,40.63284,-74.9191,New Jersey,False
+DartPoints Cincinnati Data Center,DartPoints,OH,Planned,,39.09831,-84.5179,Ohio,False
+AWS Kline Township Data Center,Amazon AWS,PA,Planned,,40.86813,-76.024254,Pennsylvania,False
+Amazon Project Galaxy,Amazon AWS,OH,Planned,,40.26942,-84.19626,Ohio,False
+Google Lima Data Center,Google,OH,Planned,,40.7965,-84.121,Ohio,False
+Provident Dauphin Highlands Data Center,Provident Realty,PA,Planned,,40.22755,-76.8093,Pennsylvania,False
+Beale Project Atlas,Beale Infrastructure,OK,Planned,,35.89665,-95.60666,Oklahoma,False
+Google Project Spring,Google,OK,Planned,,36.24621,-96.10994,Oklahoma,False
+Strata AI Center of Excellence,Strata Expanse,OH,Planned,,38.56767,-82.782684,Ohio,False
+Google Franklin Furnace Data Center,Google,OH,Planned,,38.59737,-82.84261,Ohio,False
+Beale Project Mustang,Beale Infrastructure,OK,Planned,,36.343464,-95.60581,Oklahoma,False
+CloudHQ Berks 61 Campus,CloudHQ,PA,Planned,,40.57368,-76.01037,Pennsylvania,False
+Fairview Crossroads Data Center,Fairview Crossroads,PA,Planned,,40.206436,-76.871,Pennsylvania,False
+Atlas Industrial Data Center,CDE Acquisitions,PA,Planned,,40.643616,-75.53651,Pennsylvania,False
+Brewster Mountain Top Data Center,Brewster Land Company,PA,Planned,,41.080692,-75.95785,Pennsylvania,False
+Pennhurst Data Center Campus,Pennhurst Holdings,PA,Planned,,40.194553,-75.56007,Pennsylvania,False
+SunCap McKees Rocks Data Center,SunCap Property Group,PA,Planned,,40.480453,-80.06048,Pennsylvania,False
+Pitt Race Data Center,,PA,Planned,,40.851284,-80.34748,Pennsylvania,False
+Mele Brothers Penn Forest Data Center,Mele Brothers Realty,PA,Planned,,40.895737,-75.68105,Pennsylvania,False
+Terra Nexus Ventures Data Center,Terra Nexus Ventures,SC,Planned,,34.29839,-80.534,South Carolina,False
+Urban Story Ventures Data Center,Urban Story Ventures,TN,Planned,,35.049557,-85.30803,Tennessee,False
+Equinix DA12,Equinix,TX,Planned,,32.821037,-96.85867,Texas,False
+Data Center THM1A,,TX,Planned,,32.98045,-99.5673,Texas,False
+Lancaster Data Center - Phase 2,Google,OH,Planned,,39.7252942,-82.6867036,Ohio,False
+Prison Road Campus,Microsoft,VA,Planned,,36.692368,-78.36617,Virginia,False
+Keystone Trade Center,NorthPoint Development,PA,Planned,,40.15661551,-74.74484236,Pennsylvania,False
+Project Pumpkin 2A,Google,TX,Planned,,35.691273,-100.6382,Texas,False
+Plaza 500,Starwood Capital Group,VA,Planned,,38.802273,-77.142525,Virginia,False
+TELOS Data Center,JK Land Holdings,VA,Planned,,39.067024,-77.47857,Virginia,False
+Gateway Commerce Center,Four Points,VA,Planned,,38.165024,-77.529495,Virginia,False
+Skybox San Angelo Campus,Skybox,TX,Planned,,31.52764,-100.33235,Texas,False
+Forest Lane Data Center,Real Estate Pursuits 2 LC,VA,Planned,,38.26742,-77.3867,Virginia,False
+Sisson North,Peterson Companies,VA,Planned,,38.25873,-77.38705,Virginia,False
+King George Technology Center,Green Energy Ventures,VA,Planned,,38.256557,-77.29122,Virginia,False
+Dahlgren West,Potomac Development Group,VA,Planned,,38.30985,-77.11264,Virginia,False
+Caroline Center for Innovation North,,VA,Planned,,37.95119,-77.42421,Virginia,False
+Thornberry Data Center Campus,Thornberry,VA,Planned,,37.95416,-77.40686,Virginia,False
+Atlas Agro Data Center Campus,Atlas Agro,WA,Planned,,46.355118,-119.3108,Washington,False
+Adams Fork Harless Data Center Energy Campus,TransGas Development,WV,Planned,,37.75417,-82.1179,West Virginia,False
+Alpha Technologies Huntington Data Center,Alpha Technologies,WV,Planned,,38.41845,-82.4386,West Virginia,False
+QTS Kearneysville,QTS,WV,Planned,,39.33659,-77.85235,West Virginia,False
+NETL Computational Science & Engineering Center,National Energy Technology Laboratory,WV,Planned,,39.67102,-79.975006,West Virginia,False
+Microsoft Azure Cheyenne,Microsoft,WY,Planned,,41.12372,-104.901,Wyoming,False
+Fortescue Buckeye Data Center,Fortescue,AZ,Planned,,33.192265,-112.67318,Arizona,False
+Project Pumpkin,,GA,Planned,,33.48528,-82.318,Georgia,False
+Culpeper Technology Campus,Peterson Companies,VA,Planned,,38.460241,-77.98773076,Virginia,False
+Black Mountain Power San Antonio,Black Mountain,TX,Planned,,29.270124,-98.57086,Texas,False
+New Albany Data Center - Phase 4,Meta,OH,Planned,,40.067538,-82.75073354,Ohio,False
+AWS Calvert Cliffs Data Center Campus,Amazon AWS,MD,Planned,,38.4345,-76.4464,Maryland,False
+DC Blox Indianapolis Data Center,DC Blox,IN,Planned,,39.771,-86.061,Indiana,False

@@ -1,0 +1,22 @@
+{
+  "raw_records": 25757,
+  "directory_records": 24258,
+  "pipeline_records": 1499,
+  "dropped_no_name": 0,
+  "dropped_duplicates": 84,
+  "facilities_global_rows": 24174,
+  "facilities_with_country": 15931,
+  "facilities_with_operator": 24075,
+  "distinct_operators_raw": 4079,
+  "distinct_operators_clean": 3999,
+  "dropped_cancelled": 9,
+  "dropped_pipeline_no_location": 104,
+  "dropped_pipeline_duplicates": 10,
+  "us_pipeline_rows": 1376,
+  "us_pipeline_by_status": {
+    "Operating": 592,
+    "Planned": 784
+  },
+  "us_pipeline_with_capacity": 778,
+  "us_pipeline_total_planned_mw": 235356.5
+}
